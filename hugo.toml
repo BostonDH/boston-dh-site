@@ -3,10 +3,20 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-universal-theme'
 
+[params]
+	disabled_logo = true
+	logo_text = "Boston DH"
+	about_us = "hey this is content over here"
+	contact_url = "/contact"
+	address="""<p>This is some contact info<br>manually input with html<br>very fancy<br> a button is auto-generated</p>"""
+
+[params.footer.recent_posts]
+	enable=true
+
 [params.see_more]
 	enable = true
-	title = "This is a title"
-	subtitle = "This is a subtitle"
+	title = "Boston Digital Humanities"
+	subtitle = "The Boston Digital Humanities Consortium is an informal association of educational and cultural institutions in New England committed to the collaborative development of teaching, learning, and scholarship in the digital humanities and computational social sciences."
 	link_url = "https://www.example.com"
 	link_text = "Sign up for the Mailing List"
 
@@ -78,3 +88,5 @@ theme = 'hugo-universal-theme'
     identifier = "menu.contact"
     url        = "/contact/"
     weight     = 4
+
+
