@@ -2,3 +2,79 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-universal-theme'
+
+[params.see_more]
+	enable = true
+	title = "This is a title"
+	subtitle = "This is a subtitle"
+	link_url = "https://www.example.com"
+	link_text = "Sign up for the Mailing List"
+
+
+# Main menu
+[[menu.main]]
+    name       = "Home"
+    identifier = "menu.home"
+    url        = "/"
+    weight     = 1
+
+[[menu.main]]
+    name       = "About"
+    identifier = "menu.about"
+    url        = "/about/"
+    weight     = 2
+
+
+[[menu.main]]
+    name       = "Events"
+    identifier = "menu.events"
+    url        = ""
+    weight     = 3
+
+[[menu.main]]
+    name       = "Past Events"
+    identifier = "section.past-events"
+    url        = ""
+    weight     = 1
+    parent     = "menu.events"
+    post       = 3
+
+ [[menu.main]]
+    name       = "2019 Symposium"
+    url        = ""
+    weight     = 1
+    parent     = "section.past-events"
+
+  [[menu.main]]
+    name       = "2023 Symposium"
+    url        = ""
+    weight     = 2
+    parent     = "section.past-events"
+
+
+
+[[menu.main]]
+    name       = "2024 Symposium"
+    identifier = "section.current-events"
+    url        = ""
+    weight     = 2
+    parent     = "menu.events"
+    post       = 4
+
+[[menu.main]]
+    name       = "About"
+    url        = ""
+    weight     = 1
+    parent     = "section.current-events"
+
+[[menu.main]]
+    name       = "Call for Proposals"
+    url        = ""
+    weight     = 2
+    parent     = "section.current-events"
+
+[[menu.main]]
+    name       = "Contact"
+    identifier = "menu.contact"
+    url        = "/contact/"
+    weight     = 4
