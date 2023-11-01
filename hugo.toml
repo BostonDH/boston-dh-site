@@ -6,9 +6,9 @@ theme = 'hugo-universal-theme'
 [params]
 	disabled_logo = true
 	logo_text = "Boston DH"
-	about_us = """<img src="../img/boston-dh-vert.png" style="max-width: 200px;" class="img-responsive"/>"""
+	about_us = "There is a little room for some text and a link over here too. It is not required."
 	contact_url = "/contact"
-	address="""<p>This is some contact info<br>if we want it<br>who do we</p>"""
+	address="""<p>This is some contact info<br>if we want it<br>who do we put here?</p>"""
 
 
 [params.see_more]
