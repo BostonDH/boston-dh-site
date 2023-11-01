@@ -767,9 +767,9 @@ fieldset[disabled] .btn-template-transparent-black.active {
 .btn-template-transparent-black:active,
 .btn-template-transparent-black.active,
 .open > .dropdown-toggle.btn-template-transparent-black {
-  background: var(--primary-accent);
-  color: #fff;
-  border-color: var(--primary-accent);
+ color: var(--primary-accent);
+  background-color: #e6e6e6;
+  border-color: var(--button-border);
 }
 .btn-template-transparent-black:active,
 .btn-template-transparent-black.active,
@@ -802,9 +802,9 @@ fieldset[disabled] .btn-template-transparent-black.active {
 .btn-template-transparent-black:focus,
 .btn-template-transparent-black:active,
 .btn-template-transparent-black.active {
-  background: #fff;
-  color: #000;
-  border-color: #fff;
+  background: var(--primary-accent);
+  color: #fff;
+  border-color: var(--primary-accent);
 }
 
 /* Button Template Primary */
