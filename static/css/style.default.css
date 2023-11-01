@@ -1916,6 +1916,7 @@ fieldset[disabled] .btn-template-primary.active {
   font-family: 'EB Garamond', serif;
   font-weight: 500;
   font-size: 50px;
+  text-transform: initial !important;
 }
 .bar.padding-big {
   padding: 50px 0;
