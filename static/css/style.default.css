@@ -767,9 +767,9 @@ fieldset[disabled] .btn-template-transparent-black.active {
 .btn-template-transparent-black:active,
 .btn-template-transparent-black.active,
 .open > .dropdown-toggle.btn-template-transparent-black {
- color: var(--primary-accent);
-  background-color: #e6e6e6;
-  border-color: var(--button-border);
+  background: var(--primary-accent);
+  color: #fff;
+  border-color: var(--primary-accent);
 }
 .btn-template-transparent-black:active,
 .btn-template-transparent-black.active,
