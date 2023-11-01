@@ -6,7 +6,7 @@ theme = 'hugo-universal-theme'
 [params]
 	disabled_logo = true
 	logo_text = "Boston DH"
-	about_us = " "
+	about_us = """<img src="../img/boston-dh-vert.png" style="max-width: 200px;" class="img-responsive"/>"""
 	contact_url = "/contact"
 	address="""<p>This is some contact info<br>if we want it<br>who do we</p>"""
 
@@ -26,18 +26,12 @@ theme = 'hugo-universal-theme'
     url        = "/"
     weight     = 1
 
-[[menu.main]]
-    name       = "About"
-    identifier = "menu.about"
-    url        = "/about/"
-    weight     = 2
-
 
 [[menu.main]]
     name       = "Events"
     identifier = "menu.events"
     url        = ""
-    weight     = 3
+    weight     = 2
 
 [[menu.main]]
     name       = "Past Events"
