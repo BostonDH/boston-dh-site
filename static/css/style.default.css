@@ -28,11 +28,7 @@
 
 
 /* bad fix for learn more module */
-.heading h3 {
-  font-family: 'EB Garamond', serif;
-  font-weight: 500;
-  font-size: 50px;
-}
+
 
 p .lead {
   color: #000;
@@ -118,10 +114,10 @@ button {
 .accent {
   color: var(--primary-accent);
 }
-.text-uppercase {
+/*.text-uppercase {
   text-transform: uppercase;
   letter-spacing: 0.08em;
-}
+}*/
 @media (max-width: 991px) {
   .text-center-sm {
     text-align: center;
@@ -1917,7 +1913,13 @@ fieldset[disabled] .btn-template-primary.active {
 .bar.color-white h5,
 .bar.color-white h6,
 .bar.color-white p {
-  color: #fff;
+  color: #000; /*bad hack*/
+}
+
+.bar.color-white h3{
+  font-family: 'EB Garamond', serif;
+  font-weight: 500;
+  font-size: 50px;
 }
 .bar.padding-big {
   padding: 50px 0;
