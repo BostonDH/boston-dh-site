@@ -757,54 +757,54 @@ fieldset[disabled] .btn-template-transparent-black.active {
 
 
 /* Alternate colors for Btn Template Transparent Black, since it seems like you can't change the class... */
-.btn-template-transparent-black {
+.btn-template-main {
   color: var(--primary-accent);
   background-color: #ffffff;
   border-color: var(--primary-accent);
 }
-.btn-template-transparent-black:hover,
-.btn-template-transparent-black:focus,
-.btn-template-transparent-black:active,
-.btn-template-transparent-black.active,
-.open > .dropdown-toggle.btn-template-transparent-black {
- color: var(--primary-accent);
+.btn-template-main:hover,
+.btn-template-main:focus,
+.btn-template-main:active,
+.btn-template-main.active,
+.open > .dropdown-toggle.btn-template-main {
+  color: var(--primary-accent);
   background-color: #e6e6e6;
   border-color: var(--button-border);
 }
-.btn-template-transparent-black:active,
-.btn-template-transparent-black.active,
-.open > .dropdown-toggle.btn-template-transparent-black {
+.btn-template-main:active,
+.btn-template-main.active,
+.open > .dropdown-toggle.btn-template-main {
   background-image: none;
 }
-.btn-template-transparent-black.disabled,
-.btn-template-transparent-black[disabled],
-fieldset[disabled] .btn-template-transparent-black,
-.btn-template-transparent-black.disabled:hover,
-.btn-template-transparent-black[disabled]:hover,
-fieldset[disabled] .btn-template-transparent-black:hover,
-.btn-template-transparent-black.disabled:focus,
-.btn-template-transparent-black[disabled]:focus,
-fieldset[disabled] .btn-template-transparent-black:focus,
-.btn-template-transparent-black.disabled:active,
-.btn-template-transparent-black[disabled]:active,
-fieldset[disabled] .btn-template-transparent-black:active,
-.btn-template-transparent-black.disabled.active,
-.btn-template-transparent-black[disabled].active,
-fieldset[disabled] .btn-template-transparent-black.active {
+.btn-template-main.disabled,
+.btn-template-main[disabled],
+fieldset[disabled] .btn-template-main,
+.btn-template-main.disabled:hover,
+.btn-template-main[disabled]:hover,
+fieldset[disabled] .btn-template-main:hover,
+.btn-template-main.disabled:focus,
+.btn-template-main[disabled]:focus,
+fieldset[disabled] .btn-template-main:focus,
+.btn-template-main.disabled:active,
+.btn-template-main[disabled]:active,
+fieldset[disabled] .btn-template-main:active,
+.btn-template-main.disabled.active,
+.btn-template-main[disabled].active,
+fieldset[disabled] .btn-template-main.active {
   background-color: #ffffff;
   border-color: var(--primary-accent);
 }
-.btn-template-transparent-black .badge {
+.btn-template-main .badge {
   color: #ffffff;
   background-color: var(--primary-accent);
 }
-.btn-template-transparent-black:hover,
-.btn-template-transparent-black:focus,
-.btn-template-transparent-black:active,
-.btn-template-transparent-black.active {
-  background: #fff;
-  color: #000;
-  border-color: #fff;
+.btn-template-main:hover,
+.btn-template-main:focus,
+.btn-template-main:active,
+.btn-template-main.active {
+  background: var(--primary-accent);
+  color: #ffffff;
+  border-color: var(--primary-accent);
 }
 
 /* Button Template Primary */
@@ -1916,6 +1916,7 @@ fieldset[disabled] .btn-template-primary.active {
   font-family: 'EB Garamond', serif;
   font-weight: 500;
   font-size: 50px;
+  text-transform: none !important;
 }
 .bar.padding-big {
   padding: 50px 0;
