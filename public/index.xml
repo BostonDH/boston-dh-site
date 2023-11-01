@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://kaylendwyer.github.io/</link>
+    <link>https://bostondh.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://kaylendwyer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bostondh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024 Call for Proposals</title>
-      <link>http://kaylendwyer.github.io/symposium-2024-cfp/</link>
+      <link>https://bostondh.github.io/symposium-2024-cfp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://kaylendwyer.github.io/symposium-2024-cfp/</guid>
+      <guid>https://bostondh.github.io/symposium-2024-cfp/</guid>
       <description>Submission deadline: January 31st, 2024
 Symposium: Friday, April 12, 2024
 We invite submissions for participation in a one day symposium of greater Boston-area scholars, community members, library and archives professionals, students, and practitioners across disciplines who engage with digital approaches, pedagogy, and methods in humanities and social sciences research on Friday, April 12, 2024. The symposium will be a day of learning, engagement, and community building. Sessions will occur in person on Tufts’ Medford campus; a hybrid option will be available to those who are unable to attend in person.</description>
     </item>
     <item>
       <title>2024 Symposium</title>
-      <link>http://kaylendwyer.github.io/symposium-2024/</link>
+      <link>https://bostondh.github.io/symposium-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://kaylendwyer.github.io/symposium-2024/</guid>
+      <guid>https://bostondh.github.io/symposium-2024/</guid>
       <description>The Greater Boston Digital Research and Pedagogy Symposium is a city-wide gathering of students, scholars, and practitioners working at the intersection of technology and the humanities. Hosted at a different institution each year, the Symposium is a key site for promoting cross-institutional collaboration and showcases the diverse perspectives of our field.
 The Tufts University Libraries are excited to host the third Greater Boston Digital Research and Pedagogy Symposium on April 12th, 2024.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://kaylendwyer.github.io/about/</link>
+      <link>https://bostondh.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://kaylendwyer.github.io/about/</guid>
+      <guid>https://bostondh.github.io/about/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in elit eget augue consectetur scelerisque. Duis lacus nulla, maximus pellentesque leo at, convallis ultrices nisi. Donec tristique ligula mauris, et egestas leo dapibus eu. Vivamus quis posuere felis. Nulla tempor sollicitudin leo. Maecenas id lacinia purus, eget laoreet tortor. Aliquam velit lectus, facilisis efficitur molestie vel, vestibulum non mauris. Duis sagittis laoreet sagittis. Aliquam pulvinar semper risus quis sodales. Nullam nec massa est.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://kaylendwyer.github.io/contact/</link>
+      <link>https://bostondh.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://kaylendwyer.github.io/contact/</guid>
+      <guid>https://bostondh.github.io/contact/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in elit eget augue consectetur scelerisque. Duis lacus nulla, maximus pellentesque leo at, convallis ultrices nisi. Donec tristique ligula mauris, et egestas leo dapibus eu. Vivamus quis posuere felis. Nulla tempor sollicitudin leo. Maecenas id lacinia purus, eget laoreet tortor. Aliquam velit lectus, facilisis efficitur molestie vel, vestibulum non mauris. Duis sagittis laoreet sagittis. Aliquam pulvinar semper risus quis sodales. Nullam nec massa est.</description>
     </item>
   </channel>
