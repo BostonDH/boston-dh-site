@@ -5,6 +5,9 @@ title = "2024 Symposium"
 
 The Greater Boston Digital Research and Pedagogy Symposium is a city-wide gathering of students, scholars, and practitioners working at the intersection of technology and the humanities. Hosted at a different institution each year, the Symposium is a key site for promoting cross-institutional collaboration and showcases the diverse perspectives of our field. 
 
+The Tufts University Libraries are excited to host the third Greater Boston Digital Research and Pedagogy Symposium on April 12th, 2024. The symposium will be held on the Tufts Medford campus with select sessions streamed online. 
+
+The [call for proposals](https://bostondh.github.io/symposium2024/cfp) closes on January 31st, 2024.
 
 ## Organizing Committee
 Alison Babeau (Tufts University)  
