@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://kaylendwyer.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-universal-theme'
@@ -8,7 +8,7 @@ theme = 'hugo-universal-theme'
 	logo_text = "Boston DH"
 	about_us = " "
 	contact_url = "/contact"
-	address="""<p>This is some contact info<br>if we want it<br>who do we put?</p>"""
+	address="""<p>This is some contact info<br>if we want it<br>who do we</p>"""
 
 
 [params.see_more]
