@@ -43,6 +43,10 @@ a.btn.btn-small.btn-template-main {
   padding-bottom: 100px;
 }
 
+#content > div.container {
+  padding-right: 100px;
+}
+
 
 .clearfix:before,
 .clearfix:after,
@@ -369,6 +373,8 @@ ul.list-style-none {
 .navbar ul.nav > li.open > a {
   text-decoration: none !important;
   border-top: solid 5px var(--navbar-border-top);
+  background: #fff !important;
+  color: #555555 !important;
 }
 
 @media (max-width: 768px) {
@@ -384,8 +390,6 @@ ul.list-style-none {
 /* navbar light theme */
 
 .navbar.navbar-light ul.nav > li.active > a {
-
-
   border-top: solid 5px var(--navbar-border-top);
   background: #fff !important;
   color: #555555 !important;
