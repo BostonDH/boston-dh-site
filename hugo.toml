@@ -8,16 +8,14 @@ theme = 'hugo-universal-theme'
 	logo_text = "Boston DH"
 	about_us = " "
 	contact_url = "/contact"
-	address="""<p>This is some contact info<br>manually input with html<br>very fancy<br> a button is auto-generated</p>"""
+	address="""<p>This is some contact info<br>if we want it<br>who do we put?</p>"""
 
-[params.footer.recent_posts]
-	enable=true
 
 [params.see_more]
 	enable = true
 	title = "Boston Digital Humanities"
 	subtitle = "The Boston Digital Humanities Consortium is an informal association of educational and cultural institutions in New England committed to the collaborative development of teaching, learning, and scholarship in the digital humanities and computational social sciences."
-	link_url = "https://www.example.com"
+	link_url = "https://listserv.neu.edu/cgi-bin/wa?SUBED1=BOSTONDH"
 	link_text = "Sign up for the Mailing List"
 
 
@@ -51,13 +49,13 @@ theme = 'hugo-universal-theme'
 
  [[menu.main]]
     name       = "2019 Symposium"
-    url        = ""
+    url        = "https://harvard-dssg.github.io/boston-area-dss/"
     weight     = 1
     parent     = "section.past-events"
 
   [[menu.main]]
     name       = "2023 Symposium"
-    url        = ""
+    url        = "https://symposium2023.dhlab.mit.edu/"
     weight     = 2
     parent     = "section.past-events"
 

@@ -3,4 +3,28 @@ title = "2024 Symposium"
 +++
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in elit eget augue consectetur scelerisque. Duis lacus nulla, maximus pellentesque leo at, convallis ultrices nisi. Donec tristique ligula mauris, et egestas leo dapibus eu. Vivamus quis posuere felis. Nulla tempor sollicitudin leo. Maecenas id lacinia purus, eget laoreet tortor. Aliquam velit lectus, facilisis efficitur molestie vel, vestibulum non mauris. Duis sagittis laoreet sagittis. Aliquam pulvinar semper risus quis sodales. Nullam nec massa est. Sed laoreet, sapien vitae porta euismod, mauris risus dapibus urna, quis lacinia enim nunc ut ex. Pellentesque cursus quam ex, quis euismod elit consequat a. Aliquam ut nulla iaculis, facilisis ante a, faucibus libero. Proin varius, tellus et eleifend fringilla, lectus augue maximus purus, non feugiat nulla metus non eros. Duis ultricies quam fringilla, semper ex id, ultricies mauris.
+The Greater Boston Digital Research and Pedagogy Symposium is a city-wide gathering of students, scholars, and practitioners working at the intersection of technology and the humanities. Hosted at a different institution each year, the Symposium is a key site for promoting cross-institutional collaboration and showcases the diverse perspectives of our field. 
+
+
+## Organizing Committee
+Alison Babeau (Tufts University)  
+Kaylen Dwyer (Tufts University)  
+Kim Forero-Arnías (Tufts University)  
+Anna Kijas (Tufts University)  
+Bee Lehman (Boston College)  
+Peter Nadel (Tufts University)  
+Ian Spangler (Leventhal Map & Education Center, Boston Public Library)  
+Lauren Williams (Tufts University)  
+
+## Program Committee  
+Kaylen Dwyer, Co-chair (Tufts University)    
+Alice Sullivan, Co-chair (Tufts University)    
+Laura Braunstein (Dartmouth College)   
+Greg Crane (Tufts University)   
+Kim Forero-Arnías (Tufts University)   
+Anna Kijas (Tufts University)   
+Bee Lehman (Boston College)   
+Angel David Nieves (Northeastern University, NuLab)   
+Stephan Pennington (Tufts University)   
+Ian Spangler (Norman B. Leventhal Map & Education Center, Boston Public Library)   
+Caroline Talmadge (Tufts University)   
