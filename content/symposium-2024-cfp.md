@@ -40,9 +40,9 @@ For all submission types: please include name(s) and affiliation(s) as well as a
 
 
 ## Timeline
-October 30, 2023 – submissions open  
+November 2, 2023 – submissions open  
 January 31, 2024 – submission deadline  
-Early February 2024 – acceptance notifications  
+Mid-February 2024 – acceptance notifications  
 March 15, 2024 - schedule published   
 April 12, 2024 - symposium
 
