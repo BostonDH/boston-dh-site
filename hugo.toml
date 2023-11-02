@@ -1,14 +1,17 @@
 baseURL = 'https://bostondh.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Boston Digital Humanities'
 theme = 'hugo-universal-theme'
 
 [params]
 	disabled_logo = true
 	logo_text = "Boston DH"
-	about_us = "There is a little room for some text and a link over here too. It is not required."
+	about_us = "Boston DH is an informal association of educational and cultural institutions in New England."
 	contact_url = "/contact"
-	address="""<p>This is some contact info<br>if we want it<br>who do we put here?</p>"""
+	address="""<p>
+				  <a href="">Boston DH Listserv</a><br>
+				  <a href="mailto:kaylen.dwyer@tufts.edu">Site Administrator</a>
+				</p>"""
 
 
 [params.see_more]
@@ -16,7 +19,7 @@ theme = 'hugo-universal-theme'
 	title = "Boston Digital Humanities"
 	subtitle = "The Boston Digital Humanities Consortium is an informal association of educational and cultural institutions in New England committed to the collaborative development of teaching, learning, and scholarship in the digital humanities and computational social sciences."
 	link_url = "https://listserv.neu.edu/cgi-bin/wa?SUBED1=BOSTONDH"
-	link_text = "Sign up for the Mailing List"
+	link_text = "Join the Mailing List"
 
 
 # Main menu
