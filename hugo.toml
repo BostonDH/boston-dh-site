@@ -1,4 +1,4 @@
-baseURL = 'https://bostondh.github.io/'
+baseURL = 'https://bostondh.org'
 languageCode = 'en-us'
 title = 'Boston Digital Humanities'
 theme = 'hugo-universal-theme'
