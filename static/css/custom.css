@@ -1,3 +1,7 @@
+html {
+  background: gray;
+}
+
 .box-image-text .image {
   min-height: 190px;
   max-height: 190px;
