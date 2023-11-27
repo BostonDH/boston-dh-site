@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Boston Digital Humanities'
 theme = 'hugo-universal-theme'
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 	disabled_logo = true
 	logo_text = "Boston DH"
@@ -72,10 +75,16 @@ theme = 'hugo-universal-theme'
     weight     = 1
     parent     = "section.current-events"
 
+  [[menu.main]]
+    name       = "Program"
+    url        = "/symposium-2024-program"
+    weight     = 2
+    parent     = "section.current-events"
+
 [[menu.main]]
     name       = "Call for Proposals"
     url        = "/symposium-2024-cfp"
-    weight     = 2
+    weight     = 3
     parent     = "section.current-events"
 
 

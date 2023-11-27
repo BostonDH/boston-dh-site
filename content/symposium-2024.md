@@ -31,3 +31,13 @@ Stephan Pennington (Tufts University)
 Ian Spangler (Norman B. Leventhal Map & Education Center, Boston Public Library)   
 Alice Sullivan (Tufts University)     
 Caroline Talmadge (Tufts University)   
+
+## Sponsors
+
+<img src="../img/Tufts-Libraries-Horiz-color.png" class="img-fluid" style="max-height:75px; padding: 1rem; margin-bottom: 1rem;"/>
+<img src="../img/blc-logo-color.png" class="img-fluid" style="max-height:75px; padding: 1rem; margin-bottom: 1rem;"/>
+
+
+* [Center for Enhancement of Learning and Teaching](https://provost.tufts.edu/celt/)
+* [Center for the Humanities at Tufts](https://humanities.tufts.edu/)
+* [Research Technology, Tufts Technology Services](https://it.tufts.edu/researchtechnology.tufts.edu)
