@@ -10,7 +10,7 @@ title = "2024 Call for Proposals"
 We invite submissions for participation in a one day symposium of greater Boston-area scholars, community members, library and archives professionals, students, and practitioners across disciplines who engage with digital approaches, pedagogy, and methods in humanities and social sciences research on Friday, April 12, 2024. The symposium will be a day of learning, engagement, and community building. Sessions will occur in person on Tufts’ Medford campus; a hybrid option will be available to those who are unable to attend in person.
 
 ## Topics
-We are especially keen on proposals that center around research, teaching, and approaches engaged with queer digital humanities and critical mapping, and that explore and emphasize issues around identity, social justice, and technology. We welcome proposals on work at various stsymposium_posterages in the research process.   
+We are especially keen on proposals that center around research, teaching, and approaches engaged with queer digital humanities and critical mapping, and that explore and emphasize issues around identity, social justice, and technology. We welcome proposals on work at various stages in the research process.   
 
 In addition to this theme, we seek proposals related, but not limited, to the following:
 * Digital and computational approaches to humanistic research and pedagogy
