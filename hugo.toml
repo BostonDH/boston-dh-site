@@ -12,7 +12,7 @@ unsafe = true
 	about_us = "Boston DH is an informal association of educational and cultural institutions in New England."
 	contact_url = "/contact"
 	address="""<p>
-				  <a href="">Boston DH Listserv</a><br>
+				  <a href="https://listserv.neu.edu/cgi-bin/wa?SUBED1=BOSTONDH&A=1">Boston DH Listserv</a><br>
 				  <a href="mailto:kaylen.dwyer@tufts.edu">Site Administrator</a>
 				</p>"""
 
