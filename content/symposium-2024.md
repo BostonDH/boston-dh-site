@@ -34,10 +34,11 @@ Caroline Talmadge (Tufts University)
 
 ## Sponsors
 
-<img src="../img/Tufts-Libraries-Horiz-color.png" class="img-fluid" style="max-height:75px; padding: 1rem; margin-bottom: 1rem;"/>
-<img src="../img/blc-logo-color.png" class="img-fluid" style="max-height:75px; padding: 1rem; margin-bottom: 1rem;"/>
+<img src="../img/Tufts-Libraries-Horiz-color.png" class="img-fluid" style="max-height:75px; padding: 1rem; margin-bottom: 1rem;" alt="Tufts University Liraries"/>
+<img src="../img/blc-logo-color.png" class="img-fluid" style="max-height:75px; padding: 1rem; margin-bottom: 1rem;" alt="Boston Library Consortium"/>
 
 
 * [Center for Enhancement of Learning and Teaching](https://provost.tufts.edu/celt/)
 * [Center for the Humanities at Tufts](https://humanities.tufts.edu/)
+* [Center for Interdisciplinary Studies (CIS)](https://as.tufts.edu/interdisciplinary-undergraduate-studies/people)
 * [Research Technology, Tufts Technology Services](https://it.tufts.edu/researchtechnology.tufts.edu)
