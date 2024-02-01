@@ -26,7 +26,7 @@ In addition to this theme, we seek proposals related, but not limited, to the fo
 
 ## Proposal Submission
 ~~Proposals are due by January 31st, 2024~~
-Extendeed Deadline: February 16th, 2024
+Extended Deadline: February 16th, 2024
 
 [Submit your proposal](https://airtable.com/appy79pthcpGAW8Qm/shra71rFvODacf7UE) 
 
