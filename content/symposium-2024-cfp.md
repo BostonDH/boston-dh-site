@@ -4,7 +4,7 @@ title = "2024 Call for Proposals"
 
 
 
-**Submission deadline:** February 16, 2024 
+**Submission deadline:** February 16, 2024   
 **Symposium:** Friday, April 12, 2024
 
 We invite submissions for participation in a one day symposium of greater Boston-area scholars, community members, library and archives professionals, students, and practitioners across disciplines who engage with digital approaches, pedagogy, and methods in humanities and social sciences research on Friday, April 12, 2024. The symposium will be a day of learning, engagement, and community building. Sessions will occur in person on Tufts’ Medford campus; a hybrid option will be available to those who are unable to attend in person.
@@ -25,7 +25,7 @@ In addition to this theme, we seek proposals related, but not limited, to the fo
 * Community engaged DH; co-creation and co-curation with BIPOC and/or LGBTQIA+ communities
 
 ## Proposal Submission
-~~Proposals are due by January 31st, 2024~~
+~~Proposals are due by January 31st, 2024~~  
 Extended Deadline: February 16th, 2024
 
 [Submit your proposal](https://airtable.com/appy79pthcpGAW8Qm/shra71rFvODacf7UE) 
@@ -42,8 +42,8 @@ For all submission types: please include name(s) and affiliation(s) as well as a
 
 ## Timeline
 November 2, 2023 – submissions open  
-~~January 31, 2024 – submission deadline~~    
-February 16, 2024 - submission deadline (extended)
+~~January 31, 2024 – submission deadline~~      
+February 16, 2024 - submission deadline (extended)  
 Late February – acceptance notifications  
 March 15, 2024 - schedule published   
 April 12, 2024 - symposium
