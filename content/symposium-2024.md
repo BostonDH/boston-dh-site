@@ -26,7 +26,7 @@ Laura Braunstein (Dartmouth College)
 Greg Crane (Tufts University)   
 Kim Forero-Arnías (Tufts University)   
 Bee Lehman (Boston College)   
-Angel David Nieves (Northeastern University, NuLab)   
+_[Angel David Nieves (Northeastern University, NuLab)†](https://ach.org/blog/2023/12/08/in-memoriam-angel-david-nieves/)_
 Stephan Pennington (Tufts University)   
 Ian Spangler (Norman B. Leventhal Map & Education Center, Boston Public Library)   
 Alice Sullivan (Tufts University)     
