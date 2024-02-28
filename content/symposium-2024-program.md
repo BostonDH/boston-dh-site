@@ -2,13 +2,13 @@
 title = "2024 Program"
 +++
 
-Tufts Medford Campus, Tisch Library  
+**Tufts Medford Campus, Tisch Library**  
 Friday, April 12th, 2024  
 Hybrid   
 8:30am - 5pm    
 Schedule TBD
 
-[**Register to attend**](https://docs.google.com/forms/d/e/1FAIpQLSdHHkfdM8bIGgms2I5TzzDQIKHfxW4ZoKHM25kL_C7pulAQUg/viewform)
+[**Register to Attend**](https://docs.google.com/forms/d/e/1FAIpQLSdHHkfdM8bIGgms2I5TzzDQIKHfxW4ZoKHM25kL_C7pulAQUg/viewform)
 
 # Keynote Speaker
 

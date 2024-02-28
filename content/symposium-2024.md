@@ -7,7 +7,7 @@ The Greater Boston Digital Research and Pedagogy Symposium is a city-wide gather
 
 The Tufts University Libraries are excited to host the third Greater Boston Digital Research and Pedagogy Symposium on April 12th, 2024. The symposium will be held on the Tufts Medford campus with select sessions streamed online. 
 
-[**Register to attend**](https://docs.google.com/forms/d/e/1FAIpQLSdHHkfdM8bIGgms2I5TzzDQIKHfxW4ZoKHM25kL_C7pulAQUg/viewform)
+[**Register to Attend**](https://docs.google.com/forms/d/e/1FAIpQLSdHHkfdM8bIGgms2I5TzzDQIKHfxW4ZoKHM25kL_C7pulAQUg/viewform)
 
 ## Organizing Committee
 Alison Babeau (Tufts University)  
@@ -26,7 +26,7 @@ Laura Braunstein (Dartmouth College)
 Greg Crane (Tufts University)   
 Kim Forero-Arnías (Tufts University)   
 Bee Lehman (Boston College)   
-_[Angel David Nieves (Northeastern University, NuLab)†](https://ach.org/blog/2023/12/08/in-memoriam-angel-david-nieves/)_  
+_[Angel David Nieves (Northeastern University, NuLab)†](https://ach.org/blog/2023/12/08/in-memoriam-angel-david-nieves/)_   
 Stephan Pennington (Tufts University)   
 Ian Spangler (Norman B. Leventhal Map & Education Center, Boston Public Library)   
 Alice Sullivan (Tufts University)     
