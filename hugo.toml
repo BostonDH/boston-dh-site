@@ -87,5 +87,12 @@ unsafe = true
     weight     = 3
     parent     = "section.current-events"
 
+[[menu.main]]
+    name       = "Register"
+    url        = "https://docs.google.com/forms/d/e/1FAIpQLSdHHkfdM8bIGgms2I5TzzDQIKHfxW4ZoKHM25kL_C7pulAQUg/viewform"
+    weight     = 4
+    parent     = "section.current-events"
+
+
 
 
