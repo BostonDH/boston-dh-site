@@ -10,7 +10,7 @@ The Tufts University Libraries are excited to host the third Greater Boston Digi
 [**Register to Attend**](https://docs.google.com/forms/d/e/1FAIpQLSdHHkfdM8bIGgms2I5TzzDQIKHfxW4ZoKHM25kL_C7pulAQUg/viewform)
 
 ## Organizing Committee
-Alison Babeau (Tufts University)  
+Alison Babeu (Tufts University)  
 Kaylen Dwyer (Tufts University)  
 Kim Forero-Arnías (Tufts University)  
 Anna Kijas (Tufts University)  
@@ -18,6 +18,7 @@ Bee Lehman (Boston College)
 Peter Nadel (Tufts University)  
 Ian Spangler (Leventhal Map & Education Center, Boston Public Library)  
 Lauren Williams (Tufts University)  
+Marina Cary (Tufts University)
 
 ## Program Committee  
 Kaylen Dwyer, Co-chair (Tufts University)    
