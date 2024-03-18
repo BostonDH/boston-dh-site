@@ -31,7 +31,7 @@ _[Angel David Nieves (Northeastern University, NuLab)†](https://ach.org/blog/2
 Stephan Pennington (Tufts University)   
 Ian Spangler (Norman B. Leventhal Map & Education Center, Boston Public Library)   
 Alice Sullivan (Tufts University)     
-Caroline Talmadge (Tufts University)   
+Carolyn Talmadge (Tufts University)   
 
 ## Sponsors
 
