@@ -55,24 +55,22 @@ Proin ornare neque et purus molestie posuere. Pellentesque habitant morbi tristi
 </div>
 </li> --> 
 
-<li>From Database to Research Platform: Revising Mapping Color in History &mdash; Tracy Stuber (Harvard University), Cole Crawford (Harvard University)</li>
-
-
-<!-- 
-<li><a class="modal-link" href="#presentation-1a-2">From Database to Research Platform: Revising Mapping Color in History</a> &mdash; Tracy Stuber (Harvard University), Cole Crawford (Harvard University)
+<li>
+<a class="modal-link" href="#presentation-1a-2"> From Database to Research Platform: Revising <em>Mapping Color in History</em></a> &mdash; Tracy Stuber (Harvard University), Cole Crawford (Harvard University)
 
 <div id="presentation-1a-2" class="modal">
-
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <p> Abstract content goes here... </p>
-
-  </div>
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>From Database to Research Platform: Revising Mapping Color in History</h4>
+		<p>Tracy Stuber (Harvard University), Cole Crawford (Harvard University)</p>
+		<p>Mapping Color in History (MCH) is a digital humanities project based at Harvard University that collects and contextualizes scientific analyses of pigments in Asian painting. It facilitates research into how, when, and why specific colors were used in artistic practices in specific regions, principally in South Asia and the Himalayas. This presentation describes the revision of core elements of the database’s data model to support MCH’s expansion in size and maturation into an interdisciplinary research platform.</p> 
+		<p>Centered on art objects, the MCH database depends on date, location, and pigment data to achieve its stated goal of mapping color in history. Usage of the database since its launch in 2022 revealed opportunities to improve how these data elements are captured and displayed. Specifically, revisions to the data model aim to enhance the representation and navigation of uncertain dates, mediate across differing levels of geographic specificity, and establish hierarchical relationships among pigments. The presentation both explains the data model revisions and explores the decision-making processes behind them. It emphasizes the project team’s efforts to balance technical capacities with the needs of different user groups, such as art historians and conservation scientists, and to convey the interpretive nature of the data without compromising usability. Finally, the presentation previews how ongoing work to implement the data model revisions in the website interface enhances MCH’s capacity to support interdisciplinary research.</p> 
+</p>
+	</div>
 
 </div>
-</li>
 
--->
+</li>
 
 ---
 
@@ -112,17 +110,31 @@ Location: The Austin Room (Tisch Library, 226)
 
 <li>Herbal Marginalia Diaspora: A Community Mapping Project for Diasporic Gardening and Climate Anxiety &mdash; Gökçen Erkılıç (Northeastern University)</li>
 
-<!--
 <li><a class="modal-link" href="#presentation-1b-3">Herbal Marginalia Diaspora: A Community Mapping Project for Diasporic Gardening and Climate Anxiety</a> &mdash; Gökçen Erkılıç (Northeastern University)
 
 <div id="presentation-1b-3" class="modal">
   <div class="modal-content">
     <span class="close">&times;</span>
-    <p>Abstract content here...</p>
+    <h4>Herbal Marginalia Diaspora: A Community Mapping Project for Diasporic Gardening and Climate Anxiety</h4>
+    <p>Gökçen Erkılıç (Northeastern University)</p>
+    <p>This study will present the ideation of the ongoing project “Herbal
+Marginalia Diaspora” to archive and honor a Boston-based community garden.
+The garden is a local and diasporic place where plants are grown and spread
+from other climates and cultures worldwide. The project explores the role of
+digital humanities and mapping to sustain kinships among humans - plants -
+languages – and other places in the garden. It addresses anxieties of
+climatic extremes and the dislocation of communities forming diasporas. The
+project uses the model of a herbal as a facilitator. It is structured as a
+digital and physical herbal that brings together 3d scans of growing
+vegetables, as well as documentation of food recipes and medicinal remedies.
+The data is collected from the garden through interviews and research. The
+presentation will screen a short film and the outcomes of stage one. It will
+discuss the roles of digital humanities and mapping cosmopolitan ethics,
+inclusion, and care as a form of environmental justice.</p>
   </div>
 
 </div>
-</li> -->
+</li>
 
 ---
 
@@ -132,13 +144,39 @@ Location: The Data Lab (Tisch Library, 203)
 
 <li>How Large Language Models (Don’t) Handle the Uneven Digitization of Historical Literature &mdash; Lawrence Evalyn (Northeastern University), Hunter Moskowitz (Northeastern University)</li>
 
-<li>Toward Computational Economic Humanities &mdash; Kyl Stephen (Cornell University)</li>
+<li><a class="modal-link" href="#presentation-1c-2">Toward Computational Economic Humanities</a> &mdash; Kyhl Stephen (Cornell University)
+<div id="presentation-1c-2" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>Toward Computational Economic Humanities</h4>
+		<p>Kyhl Stephen (Cornell University)</p>
+		<p>This talk is a continuation of a project begun in 2023 for the Cornell University Library Summer Digital Humanities Fellowship. I explore the possibilities and pitfalls of utilizing topic modeling to bridge between the nascent subfield of economics called “narrative economics” and the nascent subfield of literary studies called “the economic humanities.” Narrative Economics proposes that “narratives” have real economic consequences as specific ideas proliferate, but pays little heed to formal/generic distinctions or textual proliferation and preservation. The Economic Humanities approaches this problem from the other end, exploring how contingent textual practices and representational tools shape economic reality, but lacks natural tools for tracing the effects of these texts. In this project, I offer attitudes toward business corporations as a case study for how topic modeling can relate these sub-disciplines. Taking broad generic distinctions as given during the short period between 1895 and 1927, I disaggregate two sub-corpora consisting of (1) the bestselling novels during the period, and (2) business periodicals, tracing how different discourses of corporations are empowered or sidelined by received regimes of textual distinction. This project seeks to place reading practices within economic history. Topic modeling, however, has shortcomings when operating across genre in this way. Because novels tend to locate social critique in specific interactions between characters, plot, or aesthetic commitments—specific and embodied rather than abstract—the clusters of words produced by topic modeling tend to miss the economic content of works of fiction.</p>
+	</div></div>
+</li>
 
-<li>Using word embedding models to trace the construction of British anti-Muslim racism during the 1857 rebellion in colonial India &mdash; Colleen Nugent (Northeastern University)</li> 
+<li><a class="modal-link" href="#presentation-1c-3">Using word embedding models to trace the construction of British anti-Muslim racism during the 1857 rebellion in colonial India</a> &mdash; Colleen Nugent (Northeastern University)
+<div id="presentation-1c-3" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>Using word embedding models to trace the construction of British anti-Muslim racism during the 1857 rebellion in colonial India</h4>
+		<p>Colleen Nugent (Northeastern University)</p>
+		<p>This project uses digital methods to chart the construction of modern British anti-Muslim racism, specifically the idea that Islam is inherently 'fanatical' and ‘violent’. The 1857 Rebellion, at the time referred to as the Indian Mutiny, was a landmark event that ignited fervent discourse and debate within metropolitan Britain on Islam and the place of Muslims within the empire. The existing historiography demonstrates strong but piecemeal evidence that the Rebellion was a watershed moment when the language about Muslims changed to be much more associated with fanaticism and violence. Using a plain text corpus of every issue of The Times of London from 1856 to 1859, this project analyzes the frequency and content of discourse around Islam. Specifically, I use word embedding models to argue that the rebellion in 1857 was a pivotal moment that shaped British public opinion and led to a close association of Islam with fanaticism. </p>
+	</div></div>
+</li>
 
 <li><em>Title Forthcoming</em> &mdash; Peter Nadel, Rosemary CR Taylor (Tufts University), Kyle Monahan (Tufts University)</li>
 
-<li>Evaluating the Evaluators: How Should Critical AI Engage with Image Aesthetic Quality Assessment? &mdash; Samuel Goree (Stonehill College)</li>
+<li><a class="modal-link" href="#presentation-1c-5">Evaluating the Evaluators: How Should Critical AI Engage with Image Aesthetic Quality Assessment?</a> &mdash; Samuel Goree (Stonehill College)
+
+<div id="presentation-1c-5" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>Evaluating the Evaluators: How Should Critical AI Engage with Image Aesthetic Quality Assessment?</h4>
+		<p>Samuel Goree (Stonehill College)</p>
+		<p>Over the past two decades in computer vision, researchers have developed machine learning approaches to the problem of “image aesthetic quality assessment” — automatically rating the aesthetic quality of a photograph — using machine learning-based nonlinear regression models, often based on deep convolutional neural networks. Despite the impossible subjectivity of the task, these models achieve high scores on benchmark datasets and some have been integrated into smartphone cameras and AI image generators, representing a new era in the history of photography. So have these scholars developed a true beauty equation? And how might critics of AI respond?</p> 
+<p>I claim that we cannot simply dismiss aesthetic quality assessment as misguided or nonsensical; instead we must critically engage with this research area. Drawing on James Dobson’s recent book, <em>The Birth of Computer Vision</em>, my talk will explore the genealogy of image aesthetic quality assessment, how it represents the artistic consequences of a cold war view of human visual experience, conflated with a social media-inspired definition of the aesthetic. Second, I report the results of a study, previously published at AAAI 2023, which questions the way authors in computer vision engage with subjective difference in the development of personalized aesthetic quality assessment algorithms. Finally, I describe ongoing work on a smartphone application designed to turn these aesthetic quality assessment algorithms from disembodied AI critics into tangible objects of critique.</p>
+	</div></div>
+</li>
 
 ---
 ## <span style="color:#971b2f;">12:00-1:00 PM</span>
@@ -163,9 +201,35 @@ Ian Spangler, Emily Bowe, Garrett Dash Nelson (Leventhal Map & Education Center 
 
 Location: Tisch Library 223
 
-<li>Pedagogical Approaches to Integrating 3D Imaging and 3D Printing in Cultural Heritage Studies &mdash; Otto Luna (University of New Hampshire); Ivo van der Graaff (University of New Hampshire)</li>
+<li>
+<a class="modal-link" href="#presentation-2b-1">Pedagogical Approaches to Integrating 3D Imaging and 3D Printing in Cultural Heritage Studies</a> Pedagogical Approaches to Integrating 3D Imaging and 3D Printing in Cultural Heritage Studies &mdash; Otto Luna (University of New Hampshire); Ivo van der Graaff (University of New Hampshire)
+<div id="presentation-2b-1" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>Pedagogical Approaches to Integrating 3D Imaging and 3D Printing in Cultural Heritage Studies</h4>
+		<p>Otto Luna (University of New Hampshire); Ivo van der Graaff (University of New Hampshire)</p>
+		<p>Although under continuous development, 3D printing and 3D imaging technologies are now well established tools in cultural heritage studies. Nevertheless, pedagogical approaches and their  implementation in the classroom are still catching up as these tools become more powerful. This  presentation discusses the innovative integration of 3D technologies within undergraduate courses at  the Department of Art and Art History, University of New Hampshire. Our approach engages students in  digital applications, fostering deeper understanding and appreciation of ancient artifacts and  architectural structures.</p> 
+<p>In one course, students explored 3D imaging techniques by capturing detailed scans of ancient artifacts  from the Museum of Fine Arts, Boston. Leveraging software like Photoshop, they meticulously restored  polychromies to breathe life into these historical treasures. Subsequently, employing 3D printing,  students materialized their digital restorations, bridging the gap between virtual and tangible  representations.</p> 
+<p>Another course centered on Roman architecture leveraged SketchUp, a 3D modeling software, as a tool  for reconstruction. Students meticulously reconstructed ancient monuments, fostering critical analysis  and understanding of architectural principles. Moreover, students met in Virtual Reality spaces where  they conducted group discussions of buildings they modeled at one-to-one scale. The virtual spaces provided an immersive learning experience, enabling students to engage with historical structures in  unprecedented ways.</p> 
+<p>This presentation highlights the transformative impact of digital technologies on pedagogy in cultural  heritage studies. By integrating 3D printing, imaging, and modeling tools, educators can empower  students to explore, analyze, and interact with cultural artifacts and historic structures fostering a  deeper connection with the past. Our approach exemplifies the potential of digital humanities to  revolutionize traditional teaching methods, offering a dynamic and immersive educational experience.</p>
+	</div></div>
+</li>
 
-<li>Working with 3D Models in Space and Time &mdash; Andrew Maurer (Imaging Center, Smith College)</li> 
+
+<li>
+<a class="modal-link" href="#presentation-2b-2">Working with 3D Models in Space and Time</a> &mdash; Andrew Maurer (Imaging Center, Smith College)
+
+<div id="presentation-2b-2" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>Working with 3D Models in Space and Time</h4>
+		<p>Andrew Maurer (Imaging Center, Smith College)</p>
+		<p>This talk presents an in-progress software framework intended to help digital humanities teams build interactive experiences with 3D models, specifically with 3D models depicting changes to a space or object over time. Using examples from related projects, the presentation looks at practical and conceptual considerations that may arise with such projects and describes how the framework can address these issues and be adapted to new needs. The talk includes an example workflow for building 3D models based on historical sources, discussing how to keep models organized in both space and time and how to construct models in a way that facilitates their use in a real-time game engine. The cases discussed focus on 3D models of historic buildings, though the framework can be used with any group of 3D models representing the same space or object as it existed at different points in time. The framework is a library of code for the Unity game engine begun by Professor Nicola Camerlenghi at Dartmouth College as the basis for his interactive presentation of the Basilica of Saint Paul’s Outside the Walls in Rome. </p>
+	</div>
+
+</div>
+
+</li>
 
 
 ---
@@ -177,13 +241,42 @@ Location: Tisch Library 304
 
 <li>Digital Humanities & Rare Books &mdash; Micah Saxton (Tufts University), Chris Barbour (Tufts University)</li>
 
-<li>The Battle of the Bogside in Three Parts: A Spatial Analysis of the Start of the Troubles &mdash; Kasya O’Connor Grant (Northeastern University)</li> 
+<li> <a class="modal-link" href="#presentation-2c-2">The Battle of the Bogside in Three Parts: A Spatial Analysis of the Start of the Troubles</a> &mdash; Kasya O’Connor Grant (Northeastern University)
+<div id="presentation-2c-2" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>The Battle of the Bogside in Three Parts: A Spatial Analysis of the Start of the Troubles</h4>
+		<p>Kasya O’Connor Grant (Northeastern University)</p>
+		<p>“<a href="https://bogsideinthreeparts.wordpress.com/">The Battle of the Bogside in Three Parts: A Spatial Analysis of the Start of the Troubles</a>” is an online learning tool centered around the 1969 clash between Derry, Northern Ireland residents and law enforcement. The project addresses a high school audience and encourages students to consider the relationship between space, identity, and power during times of state-sanctioned violence. Through a combination of maps, media, and storytelling depicting the event, users can explore the spatial dimensions of power and control.</p> 
+<p>The project is structured around three maps, all of which were created using Google MyMaps, a free and widely used mapping resource. The first, ‘<a href="https://bogsideinthreeparts.wordpress.com/beforethebattle/">Before the Battle</a>,’ provides students with the context in which the Battle of the Bogside took place. It allows users to explore gerrymandering, major sites of unrest, and the beginnings of Derry’s civil rights movement. The second map, ‘<a href="https://bogsideinthreeparts.wordpress.com/thebattle/">Battle of the Bogside,</a>’ displays locations of major clashes between the Bogside residents, Loyalists, and law enforcement over the course of the two days. This map introduces students to the concept of the inversion of space with law enforcement’s invasion of the homes of the residents. The third and final map, ‘<a href="https://bogsideinthreeparts.wordpress.com/afterthebattle/">After the Battle</a>,’ allows students to explore the makeshift barricades (and other forms of boundary/border creation) that the Bogside residents used to create ‘Free Derry’ - a self-governed zone. This section encourages students to consider the anti-colonial characteristics of the reclamation of public space by marginalized citizens.</p> 
+<p>The website also includes a number of contextual resources (‘<a href="https://bogsideinthreeparts.wordpress.com/timeline-of-the-battle/">Significant Dates</a>,’ ‘<a href="https://bogsideinthreeparts.wordpress.com/significant-people-groups/">Significant People and Groups</a>,’ and ‘<a href="https://bogsideinthreeparts.wordpress.com/documents/">Documents</a>’) that provide background information for users. By including these resources, the website functions as a database of information for students to access to supplement their knowledge on the historical context of the Battle of the Bogside. In this way, the resources function as a more dynamic form of a textbook. 
+The website also includes a number of <a href="https://bogsideinthreeparts.wordpress.com/learning-resources/">learning materials</a> for students and teachers to use. These function as an educational guide through the material. The first is a series of <a href="https://bogsideinthreeparts.wordpress.com/learning-resources/">discussion questions</a> that encourage students to consider the broader implications of the narrative and spatial information they encounter. The second is a <a href="https://bogsideinthreeparts.wordpress.com/primary-source-exercise/">primary source analysis exercise</a> that asks students to annotate the Campaign for Social Justice in Northern Ireland’s The Plain Truth pamphlet. This exercise is designed to demonstrate the significance of primary source analysis in understanding historical phenomena. The third is a <a href="https://bogsideinthreeparts.wordpress.com/mapping-exercise/">mapping project</a> that asks students to create a Google MyMaps of an area that is significant to their community/identity. This project asks students to use the skills they’ve learned through their exploration of the website to analyze the interactions between space, power, and identity in their own lives. </p>
+	</div></div>
+</li>
+
 
 <li>Spatial Tools for Spatial Stories &mdash; Rob Walsh (UConn), Melisa Arganaraz Gomez (UConn), Katie Fiducia (UConn)</li>
 
-<li>Recent Approaches to Digital Mapping Instruction at Boston College &mdash; Antonio LoPiano (Boston College), Ashlyn Stewart (Boston College)</li> 
+<li><a class="modal-link" href="#presentation-2c-4"> Recent Approaches to Digital Mapping Instruction at Boston College</a> &mdash; Antonio LoPiano (Boston College), Ashlyn Stewart (Boston College)
+<div id="presentation-2c-4" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>Recent Approaches to Digital Mapping Instruction at Boston College </h4>
+			<p>Antonio LoPiano (Boston College), Ashlyn Stewart (Boston College)</p><p>The Boston College Libraries recently renewed its commitment to digital humanities by hiring an interdisciplinary group to support Digital Scholarship research and instruction across campus.  In our pedagogy-focused talk, two members of our team will discuss how we collaborated with colleagues across the library to identify opportunities, how we built buy-in with faculty, and how we ultimately succeeded in sharing digital humanities tools with undergrads.  Our talk will highlight one class that was a particular sxuccess.  In this upper-division African and African Diaspora Studies course, we incorporated tools that are often used for quantitative research (including ArcGIS) to help undergrads showcase their learning with a humanities-driven digital final project instead of a traditional research paper. The final projects united textual, multimedia, and spatial data into one public-facing package, allowing students to synthesize different research efforts and consider how to present their findings on the web.</p>
+	</div></div>
+</li>
 
-<li>Keywords as Transdisciplinary Method: A Pedagogical Reflection &mdash; Juniper Johnson (Northeastern University), Galen Bunting (Northeastern University)</li>
+<li>
+<a class="modal-link" href="#presentation-2c-5"> Keywords as Transdisciplinary Method: A Pedagogical Reflection</a> &mdash; Juniper Johnson (Northeastern University), Galen Bunting (Northeastern University)
+
+<div id="presentation-2c-5" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>Keywords as Transdisciplinary Method: A Pedagogical Reflection</h4>
+		<p>Juniper Johnson (Northeastern University), Galen Bunting (Northeastern University)</p>
+		<p>In 1976 in <em>Keywords: A Vocabulary of Culture and Society</em>, Raymond Williams proposed a novel use of <em>keywords</em> to describe “a record of an inquiry into a vocabulary” (15) and conceptualized a genre of understanding specialized knowledge for a general audience. <em>Keywords</em> serve as a concept and technical function, and are used across academic disciplines and specialities to organize information and concepts. As a technical term or function within systems of knowledge organization, <em>keywords</em> (and related subject terms or subject headings) are an important topic of discussion, debate, and development within digital humanities and digital scholarship, and assist in creating metadata and linked analyses. In advanced writing classrooms across the disciplines, with students from all different majors and minors, we use <em>keywords</em> as a method to approach and talk about transdisciplinary work, research practices, and information systems. In this presentation, we will discuss how we have structured discussions on <em>keywords</em> as a means of introducing students to methods of organizing information and performing research in writing classrooms. We will also discuss how keywords are featured in our own research, shaping pedagogies and methods across disciplines and digital proficiencies. We will reflect on our experiences using this framework to discuss tools for digital pedagogy and as a means to offer additional research methods for our students. We will conclude with key takeaways for understanding <em>keywords</em> as technical and semantic concepts in the classroom and beyond.</p>
+	</div></div>
+</li>
 
 ---
 ## <span style="color:#971b2f;">2:50-4:20 PM</span>
@@ -203,7 +296,18 @@ Location: Tisch Library 304
 
 <li>Experiments with chatGPT and Undergraduate Teaching: Themes from Text Analysis in DH Courses &mdash; Katherine Ireland (University of Georgia)</li>
 
-<li>Engaging Undergraduates and High School Students in the Study of Predictive AI &mdash; Ella Howard (Wentworth Institute of Technology</li>
+<li>
+<a class="modal-link" href="#presentation-3b-3">Engaging Undergraduates and High School Students in the Study of Predictive AI</a> &mdash; Ella Howard (Wentworth Institute of Technology)
+
+<div id="presentation-3b-3" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>Engaging Undergraduates and High School Students in the Study of Predictive AI</h4>
+		<p>Ella Howard (Wentworth Institute of Technology)</p>
+		<p> Artificial Intelligence structures much of our existing world and promises to play an increasingly dominant role in the years to come. As a result, all undergraduate students need to learn not only how it works but also how to navigate its complex ethical landscape. While Computer Science students who work with AI gain certain knowledge about the technical aspects of these platforms, even they are rarely given the opportunity to study the bigger picture issues surrounding the technology. Students in other fields, by contrast, often read abstract musings on AI without a real understanding of the practical aspects of the subject.</p>
+<p>In this presentation I will share my experience working with rising junior and senior high school students using a curriculum package that lets them create a predictive app on a topic of their choice without programming knowledge. By grounding this exercise in study and discussion of relevant ethical, political, economic, and social themes, we can offer students from any background a robust understanding of this type of AI.</p>
+	</div></div>
+</li>
 
 
 ---
@@ -215,7 +319,19 @@ Location: Tisch Library 316
 
 <li>Digitizing the 1906 American Medical Directory to Explore Early Racial Disparities in Medicine &mdash; Ben Chrisinger (Tufts University)</li>
 
-<li>In progress: Women's Stories, W. E. B. Du Bois Papers Data &mdash; Blake Spitz (University of Massachusetts Amherst)</li>
+<li>
+<a class="modal-link" href="#presentation-3c-3">In progress: Women's Stories, W. E. B. Du Bois Papers Data</a> &mdash; Blake Spitz (University of Massachusetts Amherst
+
+<div id="presentation-3c-3" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>In progress: Women's Stories, W. E. B. Du Bois Papers Data</h4>
+		<p>Blake Spitz (University of Massachusetts Amherst)</p>
+		<p>The UMass Amherst department of Special Collections and University  Archives collects original materials that document the histories of social change in  America, and this collecting focus emerged from our holding the papers of the civil  rights activist, writer, and editor, W. E. B. Du Bois. Approaching the fully digitized  <a href="https://credo.library.umass.edu/view/collection/mums312">Du Bois Papers</a> as “collections as data,” I am interested in digital scholarship and  digital storytelling as ways to interrogate and activate the archival records of Du  Bois, a leading figure of the 20th century. I am currently exploring digital  scholarship methods to investigate the records of women, to present the intellectual,  cultural, and labor contributions and legacies of women, especially Black women,  documented in the Du Bois Papers.</p>  
+<p>This project is still/ever developing, and this presentation focuses on the origin of  the project, my current progress in learning new technology and digital scholarship tools, some of these women’s stories, and my hopes and questions about creating  future opportunities for expansion of and engagement with this project. I hope to  eventually both present these experiments and findings more broadly through  digital approaches to pedagogy, public history, and storytelling, and to also  engage in community oriented and originated visioning, research, and curation of  these ideas and works. As someone with no training in the digital humanities, nor as  a historian, Du Bois scholar, or feminist/critical theorist, I also hope to continue to use  this project as a space for exploring low digital skill and self-taught digital  scholarship approaches and tools, and look forward to speaking with those at this  session about best-practices, technology, and some of the complicated issues of  gender, race, power and community connected to this venture.</p>
+	</div></div>
+</li>
+
 
 ---
 ## <span style="color:#971b2f;">4:30-5:30 PM</span>
@@ -223,11 +339,30 @@ Location: Tisch Library 316
 
 Location: Tower Café, Tisch Library 
 
-<li>Black History at BC Law School: The Making of a Digital Exhibit &mdash; Avi Bauer, Seung-hwan Leo Kim (Boston College Law School)</li>
+<li>
+<a class="modal-link" href="#poster-bauer">Black History at BC Law School: The Making of a Digital Exhibit</a> &mdash; Avi Bauer, Seung-hwan Leo Kim (Boston College Law School)
+<div id="poster-bauer" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>Black History at BC Law School: The Making of a Digital Exhibit</h4>
+		<p>Avi Bauer, Seung-hwan Leo Kim (Boston College Law School)</p>
+		<p> In 2021, Boston College Law Library produced a digital exhibit narrating the life of Robert Morris, the second Black lawyer in the US (<a href="https://bc.edu/robert-morris">https://bc.edu/robert-morris</a>). Based on its success, the Library was asked to produce a new digital exhibit, this one broader in scope: an exhibit detailing the history of Black students and alumni at BC Law School, to be launched in April 2024. The project has included flying across the country to perform archival research and interviews; the use of open source tools and tools developed in-house to explore and explain historical narratives; and input from many participants including Black alumni and student leaders. This poster outlines the process of researching, designing, and building the digital exhibit, highlighting both the digital and human resources required to build a project heavily rooted in the lived experience of our Black student and alumni communities. It also highlights the many strengths of the digital exhibit format, including the use of multimedia sources, the living document approach, and the ability to incorporate both linear and non-linear storytelling methods.
+		</p>
+	</div></div>
+</li>
 
 <li>Increasing the Accessibility of the Autobiography of Omar ibn Said through Translation Alignment &mdash; Joseph Campbell Hilleary (Tufts University)</li>
 
-<li>Generative AI in the Humanities Classroom &mdash; Daniel Dougherty (Boston College)</li>
+<li><a class="modal-link" href="#poster-dougherty"> Generative AI in the Humanities Classroom</a> &mdash; Daniel Dougherty (Boston College)
+
+<div id="poster-dougherty" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>Generative AI in the Humanities Classroom</h4>
+		<p>Daniel Dougherty (Boston College)</p>
+		<p>Generative AI has become something of a sore spot for educators and institutions across academia in the past few years. Most resources to date are dedicated to mitigating its most potentially damaging effects, including guidelines and suggestions for instructors looking to adapt their assignment sequencing and course material in the wake of Chat-GPT and the like. This proposal asks instead: what types of work can generative AI bring into the classroom that was previously unthinkable, and how can it help address some of the difficulties inherent in the literature classroom, and perhaps the humanities classroom more broadly? This poster presentation will provide insight into several lesson plans, ranging from AI-generated artwork to AI-generated poetry and prose, which encourage students to use the new AI to explore literary forms, difficult texts, and stylistic markers that might have been difficult to articulate without AI. A few examples might include: the use of Stable Diffusion to “read” lyric poetry, and teach poetic paraphrase; the use of Chat-GPT to generate new texts from prompts or previous passages, considering style and content across forms; the use of Chat-GPT to reimagine texts in new genres, or to “rewrite” a text with new elements or a new ending.</p>
+	</div></div>
+</li>
 
 <li>Exploring Queer Spaces through Data Physicalization &mdash; Gabriella Evergreen (Pratt Institute)</li>
 
@@ -241,13 +376,52 @@ Location: Tower Café, Tisch Library
 
 <li>Mapping the Chimaera: The Ancient and Modern Geographies of Archaic Pottery &mdash; Liz Neill (Boston University)</li>
 
-<li>Frame by Frame: The Development and Integration of a Community Stop-motion Animation Area &mdash; Matthew Newman (Mount Holyoke College)</li>
+<li><a class="modal-link" href="#poster-newman">Frame by Frame: The Development and Integration of a Community Stop-motion Animation Area</a> &mdash; Matthew Newman (Mount Holyoke College)
+<div id="poster-newman" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>Frame by Frame: The Development and Integration of a Community Stop-motion Animation Area</h4>
+		<p>Matthew Newman (Mount Holyoke College)</p>
+		<p>This poster tells the story of the development of our community stop-motion animation stand and its use in anchoring the Animation-a-Thon, a recurring event that invites members of the Mount Holyoke College community to engage in an act of collaborative storytelling and storymaking that has both physical and digital components, and a digital output. This ongoing community-engaged digital humanities effort has opened up the ability to access and use a form of technology that was previously unavailable or restricted to art studio majors on our campus. We will also showcase examples of the animation stand’s use in various disciplines, with an emphasis on its applicability in an interdisciplinary First Year Seminar environment. Join us to explore how bringing in one new piece of technology can become a means of democratizing pedagogical and creative development across departments and communities. The audience of this poster will gain insight into the potentially outsized impact of a project with a small budget, while also cultivating an understanding of the creative potential that an analogue/digital hybrid animation stand can bring to a variety of courses.</p>
+	</div></div>
+</li>
 
-<li>Interdisciplinary Potential: An Analysis of Persephone’s Garden, Brigid’s Labyrinth, and Lilith’s Shrine &mdash; Jacqueline Grace O’Mara (Northeastern University)</li>
+<li>
+<a class="modal-link" href="#poster-omara">Interdisciplinary Potential: An Analysis of Persephone’s Garden, Brigid’s Labyrinth, and Lilith’s Shrine</a> &mdash; Jacqueline Grace O’Mara (Northeastern University)
+<div id="poster-omara" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>Interdisciplinary Potential: An Analysis of Persephone’s Garden, Brigid’s Labyrinth, and Lilith’s Shrine</h4>
+		<p>Jacqueline Grace O’Mara (Northeastern University)</p>
+		<p>This poster will share <em>Persephone’s Garden, Brigid’s Labyrinth, and Lilith’s Shrine,</em> three interactive exhibits that explore how the interdisciplinary study of mythology, digital humanities, and gender can lead to transgressive forms of artistic innovation that are immersive and provide users with a unique learning experience. Each digital project surveys the multimodal potential of mythology and feminist studies and how digital humanities can facilitate memorable experimentations with form by engaging with the complex narratives of mythological figures. <a href="https://jgraceo.github.io/pgarden.html"><em>Persephone’s Garden</em></a> is an interactive metro map that charts the Greek goddesses’ appearance in a variety of artifacts, paying close attention to digital creators overlooked in academic settings. <a href="https://jgraceo.github.io/brigid.html"><em>Brigid’s Labyrinth</em></a> is a choose-your-own-adventure text-based game where users are placed at the center of the story and asked to be an agent in their learning. <a href="https://jgraceo.github.io/lilith.html"><em>Lilith’s Shrine</em></a> is a creative exercise that asks users to produce a new narrative about Lilith, exemplifying the importance of personal intervention in storytelling. All three exhibits employ and emphasize the advantage of utilizing digital tools in producing engaging scholarship. My work aims to highlight the user’s agency in the learning process and grants participants the opportunity to interact with these stories in a novel way. This poster provides an overview of all three exhibits and gives viewers the opportunity to explore each project on their own.</p>
+	</div></div>
+</li>
 
-<li>Reimagining Metadata: Weaving Sanctuary into an Archive &mdash; Annie Tucker (Mount Holyoke College)</li> 
+<li>
+<a class="modal-link" href="#poster-tucker">Reimagining Metadata: Weaving Sanctuary into an Archive</a> &mdash; Annie Tucker (Mount Holyoke College), Serin D. Houston (Mount Holyoke College)
 
-<li>Sonic Connectivity in Digital Spaces: The Soundtrack of the #MeToo Movement &mdash; Teresa Turnage (Tufts University)</li>
+<div id="poster-tucker" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>Reimagining Metadata: Weaving Sanctuary into an Archive</h4>
+		<p>Annie Tucker (Mount Holyoke College), Serin D. Houston (Mount Holyoke College)</p>
+		<p> This poster will document and illustrate the tailoring of structural metadata that is foundational to a digital archive of United States sanctuary policies passed from 2001-2014. The archive, which maintains over 200 documents, accompanies and underpins an interactive digital storytelling application. Both the archive and accompanying StoryMap are based on original research, carefully constructed, and the result of extensive collaboration. They are unique in scope and content. Importantly, as an independent resource, the archive provides broad access to a body of documentation which lends insight into a transformative period of sanctuary policy.</p> 
+		<p>Curating the metadata schema for this archive entailed numerous challenges, including ethical concerns surrounding the privacy of constituents named in the documents due to the charged nature of the topic. Furthermore, adapting the digital institutional repository’s established schema to be responsive to the scope and sensitivity of the documents required considerable planning, discussion, and revision. Calibrating the digital institutional repository used to host the archive of sanctuary documents involved the collaboration of several departments across the college.</p> 
+		<p>This poster is intended to provide insight into how an organization may use already existing tools, platforms, and expertise to realize complex digital projects. It will provide an overview of how the archive was constructed, adapted, and revised to both accompany a digital project and serve as a sustainable, standalone resource. Based on lessons learned, this poster aims to help make large-scale, collaborative projects feel approachable and achievable.</p>
+	</div></div>
+</li>
+
+
+<li><a class="modal-link" href="#poster-turnage">Sonic Connectivity in Digital Spaces: The Soundtrack of the #MeToo Movement</a> &mdash; Teresa Turnage (Tufts University)
+	<div id="poster-turnage" class="modal">
+		<div class="modal-content">
+			<span class="close">&times;</span>
+			<h4>Sonic Connectivity in Digital Spaces: The Soundtrack of the #MeToo Movement</h4>
+			<p>Teresa Turnage (Tufts University)</p>
+			<p>Conversations around digital music-making and practicing become a prominent tool in discovering how people use music as a conduit for inspiring social change. TikTok creates a soundscape of trends through sonic practices, visual markers, and cultural signs and symbols mediated and repurposed globally. Specifically, the trends related to the #MeToo Movement come with particular audio clips repurposed for spreading messages, reclaiming identities, and perpetuating social justice. Relying on the literature from linguistics, ethnomusicology, philosophy, and sociology, as well as personal accounts of content creation, I uncover how the affectual choice of song in digital media influences the broader structure of sexual violence narratives. Looking at semiotics in digital media teases out how audio tracks and trends become repurposed and communicate to each other across the web, constituting then, the notion of music and viral musicking as a social and cultural practice on TikTok. Then, using these videos as a starting point I illuminate the capacity of music to communicate and effectively perpetuate the #MeToo movement and modern feminism at large through digital musicking. My topic expands upon these thematic questions: How do these songs on digital media contribute meaning and infuse the movement with poignancy? What inspires its virality and the perpetuation of the #MeToo movement? To answer these questions, I will discuss emotion, community, and identity through distinct musical practices online, thereby facilitating discussions around tropes and scripts around sexual violence narratives, history, and self-determination.</p>
+		</div>
+	</div>
+</li>
 
 
 ---
