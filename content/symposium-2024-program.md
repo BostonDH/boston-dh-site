@@ -37,23 +37,33 @@ K.J. Rawson works at the intersections of the Digital Humanities and Rhetoric, L
 Location: Digital Design Studio (Tisch Library, 3rd Floor)
 
 
-<li>The history and future of Northeastern University's toolkit for online publication, CERES (Part 2) &mdash; Patrick Murray-John (Northeastern University)</li>
+<li>
+<a class="modal-link" href="#presentation-1a-1">The history and future of Northeastern University's toolkit for online publication, CERES (Part 2)</a> &mdash; Patrick Murray-John (Northeastern University)
 
-
-<!--<li>
-	<a class="modal-link" href="#presentation-1a-1">The history and future of Northeastern University's toolkit for online publication, CERES (Part 2)</a> &mdash; Patrick Murray-John (Northeastern University)
-	
 <div id="presentation-1a-1" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>The history and future of Northeastern University's toolkit for online publication, CERES (Part 2)</h4>
+		<p>Patrick Murray-John (Northeastern University)</p>
+		<p> The Digital Scholarship Group at Northeastern University has long maintained a toolkit for easy web publication of materials held in our Digital Repository Service (DRS), the Community-Engaged Repository for Enhanced Scholarship (CERES). Built as a WordPress plugin and theme customization, it was designed to quickly and easily stand up a site for publishing narratives based on resources and metadata residing in the DRS (at least during the first stages of the toolkit’s development).</p>
+<p>Last year, I presented part 1, in which I discussed the major refactoring that we were undertaking to address a series of issues, including:
+<ul>	
+<li>Reliance on a limited number of data sources</li>
+<li>Difficulty in shoe-horning new features into the existing codebase</li>
+<li>Technical debt that had accrued over more than five years</li>
+<li>General weaknesses in sustainability and growth</li></ul>
+</p>
+<p>This year, I will provide a brief overview of the progress made on those and other issues. In particular, I will address our approaches to
+<ul>
+<li>Versatility and adaptability for new features and data sources</li>
+<li>Refactoring and modernizing the codebase while also developing new features</li>
+<li>Creating a greatly modernized user interface</li>
+<li>Addressing a major migration to the latest versions of PHP and WordPress</li></ul>
+</p>
+	</div></div>
+</li>
 
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis at magna vel volutpat. Fusce eu porta lorem. Quisque posuere mi posuere sem tincidunt, volutpat hendrerit velit pulvinar. Etiam pellentesque, odio ut tempus vehicula, neque leo sodales justo, nec pulvinar turpis metus id odio. Phasellus facilisis velit lorem, sit amet bibendum augue placerat suscipit. Nulla dignissim bibendum odio, in consectetur lacus semper id. Vivamus tortor urna, lobortis ut facilisis quis, posuere id augue. Aliquam a urna maximus, varius eros quis, congue nulla. Curabitur vulputate, leo in iaculis scelerisque, orci lectus fringilla eros, et auctor augue nulla at dolor. Cras efficitur sodales tincidunt. Nam iaculis turpis vitae elementum vestibulum. Praesent rutrum dignissim felis, sed ullamcorper nulla.
 
-Proin ornare neque et purus molestie posuere. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus vitae orci aliquet dui dictum rhoncus. Etiam ut risus quam. Fusce aliquam risus ut dolor posuere, ac vehicula diam congue. Vivamus orci urna, tristique id dictum in, condimentum id magna. Mauris mi ex, consequat eget tellus pulvinar, mollis porta diam. Cras sit amet lobortis sem. Etiam ut massa orci. Fusce sodales sodales fringilla. Donec malesuada sit amet erat quis ullamcorper. Cras dapibus iaculis eleifend. Nullam porta eget lacus quis faucibus. Curabitur et aliquam velit. Morbi mi velit, auctor nec magna eu, hendrerit vehicula odio. Cras quam purus, aliquam in lorem ac, rutrum tristique elit. Pellentesque a interdum velit. Phasellus eu ornare est, vitae laoreet eros. Suspendisse auctor, nunc quis pharetra porta, sem mi sagittis.</p>
-  </div>
-
-</div>
-</li> --> 
 
 <li>
 <a class="modal-link" href="#presentation-1a-2"> From Database to Research Platform: Revising <em>Mapping Color in History</em></a> &mdash; Tracy Stuber (Harvard University), Cole Crawford (Harvard University)
@@ -77,38 +87,23 @@ Proin ornare neque et purus molestie posuere. Pellentesque habitant morbi tristi
 ### Session 1B: Community Storytelling
 Location: The Austin Room (Tisch Library, 226)
 
-<li>Digital Aesthetics and Creative Non-Violence: Case Studies from the Experimental & Civic Arts Lab at UNH &mdash; Kevin Healey (University of New Hampshire)</li>
 
-<!--
 <li>
-	<a class="modal-link" href="#presentation-1b-1">Digital Aesthetics and Creative Non-Violence: Case Studies from the Experimental & Civic Arts Lab at UNH</a> &mdash; Kevin Healey (University of New Hampshire)
-	
+<a class="modal-link" href="#presentation-1b-1">Digital Aesthetics and Creative Non-Violence: Case Studies from the Experimental & Civic Arts Lab at UNH</a> &mdash; Kevin Healey (University of New Hampshire)
+
 <div id="presentation-1b-1" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>Digital Aesthetics and Creative Non-Violence: Case Studies from the Experimental & Civic Arts Lab at UNH</h4>
+		<p>Kevin Healey (University of New Hampshire)</p>
+		<p>This project examines methods for leveraging the creative arts to enact Martin Luther King, Jr.’s philosophy of non-violent resistance in a contemporary, social-mediated context. Though King’s principles of non-violent resistance remain politically relevant, today’s media ecosystem requires new forms of multimodal civic expression to enact them fully. With support from the Responsible Governance and Sustainable Citizenship Project (RGSCP) at University of New Hampshire (UNH), the Experimental & Civic Arts Lab is an experimental space for faculty and students to develop such methods of creative non-violent expression. Music composition, dance, documentary film, and video animation are the primary modalities for the Lab’s work. This talk will describe the Lab’s completed case studies, as well as our current projects, to demonstrate how creators can use digital tools to translate MLK’s six non-violent principles into contemporary arts-based social commentary. Subjects for the case studies include police brutality (a tribute to Tyre Nichols), political violence (the January 6 insurrection), and racialized disinformation (the defamation of Ruby Freeman and Shaye Moss). The HUGEmanities BIG Contest awarded the Lab first-place recognition for Innovative Design in 2022. The proposed presentation is based on a draft-in-progress article which argues that multi-modal art based on King’s six principles is especially effective in cutting through the hyper-partisanship of today’s commercial social media landscape. 
+		</p>
+	</div></div>
+</li>
 
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <p>Abstract content here....</p>
-  </div>
 
-</div>
-</li> -->
 
 <li><em>Title Forthcoming</em> &mdash; Gowthaman Ranganathan (Brandeis University)</li>
-
-<!--
-<li><a class="modal-link" href="#presentation-1b-2"><em>Title Forthcoming</em></a> &mdash; Gowthaman Ranganathan (Brandeis University)
-
-<div id="presentation-1b-2" class="modal">
-
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <p>Abstract content here...</p>
-  </div>
-
-</div>
-</li> -->
-
-<li>Herbal Marginalia Diaspora: A Community Mapping Project for Diasporic Gardening and Climate Anxiety &mdash; Gökçen Erkılıç (Northeastern University)</li>
 
 <li><a class="modal-link" href="#presentation-1b-3">Herbal Marginalia Diaspora: A Community Mapping Project for Diasporic Gardening and Climate Anxiety</a> &mdash; Gökçen Erkılıç (Northeastern University)
 
@@ -135,6 +130,21 @@ inclusion, and care as a form of environmental justice.</p>
 
 </div>
 </li>
+
+<li>
+<a class="modal-link" href="#presentation-1b-4">A Puerto Rican and Connecticut Document Transcription Project: Testing Methodologies for a Digitized Collection </a> &mdash; Jennifer L. Schaefer (UConn)
+
+<div id="presentation-1b-4" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>A Puerto Rican and Connecticut Document Transcription Project: Testing Methodologies for a Digitized Collection</h4>
+		<p>Jennifer L. Schaefer (UConn)</p>
+		<p> The Puerto Rican and Connecticut Historical Documents Transcription Project at the UConn Library is  designed to increase access to some of the significant digital collections held by the UConn Library and  in the Connecticut Digital Archive (CTDA). This project compares two approaches to transcribing  handwritten documents: a crowd-sourced platform and a handwritten text recognition (HTR) automated  process. Using a “cheap, fast, good” framework, the project compares the price per page of the  transcription, the time involved in the process, and the quality of the final text. Including documents  from both Puerto Rico and Connecticut, in multiple languages, from multiple time periods, and of  varying digitization qualities enables us to analyze the suitability of these processes for different kinds of  handwritten materials. The presentation will share preliminary findings about the process of making  these documents more accessible for students, scholars, and the communities whose histories they  document.</p> 
+<p>The presentation also will consider the significance of the four collections. Scanning though selections of  the already digitized collections reveals the project’s potential to make a curricular and scholarly impact related to the main themes that motivate the court cases, records, correspondence, and diaries. How  did late nineteenth century women in Puerto Rico argue for rights to own property? How did free  persons of color in Connecticut navigate personal and professional barriers while sustaining family ties  across states? As the presentation will explore, transcription will allow researchers and students to both  ask and answer increasingly complex questions about both Puerto Rican and Connecticut histories. </p>
+	</div></div>
+</li>
+
+<li><em>Title Forthcoming</em> &mdash; Spyridoula Potamopoulou (NYU Tisch School of the Arts) [online presenter]</li>
 
 ---
 
@@ -164,7 +174,7 @@ Location: The Data Lab (Tisch Library, 203)
 	</div></div>
 </li>
 
-<li><em>Title Forthcoming</em> &mdash; Peter Nadel, Rosemary CR Taylor (Tufts University), Kyle Monahan (Tufts University)</li>
+<li><em>Title Forthcoming</em> &mdash; Peter Nadel, Rosemary CR Taylor, Kyle Monahan (Tufts University)</li>
 
 <li><a class="modal-link" href="#presentation-1c-5">Evaluating the Evaluators: How Should Critical AI Engage with Image Aesthetic Quality Assessment?</a> &mdash; Samuel Goree (Stonehill College)
 
@@ -192,8 +202,23 @@ Student lunch with K.J. Rawson in the Austin Room (226), all students are welcom
 
 Location: The Data Lab (Tisch Library, 203)
 
-Ian Spangler, Emily Bowe, Garrett Dash Nelson (Leventhal Map & Education Center at the Boston Public Library)
+<li>
+<a class="modal-link" href="#map-workshop">Digital Storytelling with Cartographic Collections</a> &mdash; Ian Spangler, Emily Bowe (Leventhal Map & Education Center at the Boston Public Library)
 
+<div id="map-workshop" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+
+<h4>Digital Storytelling with Cartographic Collections</h4>
+<p>Ian Spangler, Emily Bowe (Leventhal Map & Education Center at the Boston Public Library)</p>
+
+<p>Using maps to interpret and narrate historical change is a common approach of digital humanities (DH) scholars. While tools like ArcGIS StoryMaps provide rich interfaces for doing so, they are inaccessible (e.g., proprietary) and quite expansive. At the Leventhal Center, we’ve released a tool called <a href="https://cartinal.leventhalmap.org/documentation/panel-truck.html"><em>panel-truck</em></a>, purpose-built for DH researchers who are interested in using digital methods to use historical maps in their scholarship and storytelling. A Vue application that leverages open standards like the IIIF protocol, <em>panel-truck</em> is a web UI tool for creating <a href="https://www.leventhalmap.org/articles/braccio-winthrop-map/">interactive storylines using images and maps.</a> It's especially useful for libraries and museums that want to create linear narrations on top of one or multiple deep-zoomable objects. <em>panel-truck</em> supports IIIF, static images, and tiled web map layers as sources. It is trivial to embed into an existing web site and requires only a simple JSON file to construct a presentation. In this workshop, participants will learn how to create <em>panel-truck</em> presentations using a GUI called <a href="https://lmec-screenplay-studio-dev.netlify.app/">Screenplay Studio.</a> They will also learn some basic details about the underlying metadata standards and protocols upon which panel-truck is built. By the end of the session, attendees will have a working draft of a panel-truck presentation that they can customize to their liking. We anticipate that the workshop will be most useful to DH scholars and researchers whose work can be enriched through close examinations of old maps. Participants will need laptops or computers, internet access, and should be comfortable navigating downloading the application <a href="https://code.visualstudio.com/download">Visual Studio Code</a> onto their personal computers.</p>
+
+<p>Ian Spangler is a cultural & economic geographer with interests in digital mapping, housing studies, and race & landscape in the US. As Assistant Curator of Digital & Participatory Geography at the Leventhal Center, he manages the Center’s digital mapping initiatives and born-digital collections development strategy. He also teaches Introduction to Geospatial Humanities at Tufts University. He earned his BA in English & Geography from the University of Mary Washington, and his MA and PhD in Geography from the University of Kentucky.</p>
+
+<p>Emily Bowe is a designer, cartographer, and researcher with interests in maps, urban infrastructure, and community data practices. As Assistant Director at the Leventhal Center, Emily oversees gallery operations, exhibition design, and public programming. She graduated from Parsons School of Design at The New School with an MS in Design and Urban Ecologies and from the University of North Carolina at Chapel Hill as a Morehead-Cain Scholar with a BS in Environmental Science and Geography.</p>
+</div></div>
+</li>
 
 ---
 
@@ -315,7 +340,18 @@ Location: Tisch Library 304
 
 Location: Tisch Library 316
 
-<li>The Salus Populi Project: Digital Archives, Reparative Genealogy, and Restorative Justice &mdash; Riley Sutherland, Michelle Cook (Salus Populi Pension Project) [Hybrid]</li>
+<li>
+<a class="modal-link" href="#presentation-3c-1">The Salus Populi Project: Digital Archives, Reparative Genealogy, and Restorative Justice</a> &mdash; Riley Sutherland, Michelle Cook (Salus Populi Pension Project) [Hybrid presentation]
+<div id="presentation-3c-1" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>The Salus Populi Project: Digital Archives, Reparative Genealogy, and Restorative Justice</h4>
+		<p>Riley Sutherland, Michelle Cook (Salus Populi Pension Project)</p>
+		<p>The Salus Populi Project is a non-profit digital humanities project based in Liberty, Missouri. We  are currently creating a publicly accessible online archive for the pensions of United States  Colored Troops veterans who were born or enslaved in the counties of Missouri colloquially  known as “Little Dixie.” White residents of these counties enslaved one-third of Missouri’s  unfree population, many of whom liberated themselves to serve in the Union Army. After the  war, they applied for pensions, and their files contain paperwork related to freedom seekers’  experiences of enslavement, military service, families, disabilities, and community networks. But none of the files are digitized, transcribed, or searchable.</p><p> 
+The Salus Populi Project is partnering with local archives, historical societies, libraries,  museums, and descendant communities to digitize, transcribe, and contextualize these records.  We are utilizing From the Page, a platform with crowdsourcing capacities, to create a more  participatory project. We are also utilizing digital mapping tools to visualize soldiers’ journeys  and networks, and partnering with students to narrate stories through short digital films.</p><p> 
+Our talk will address the challenges and possibilities we have encountered while creating a  digital archive that offers space for descendants, educators, and students to grapple with  traumatic histories of racism and grapple with slavery’s legacies.</p>
+	</div></div>
+</li>
 
 <li>Digitizing the 1906 American Medical Directory to Explore Early Racial Disparities in Medicine &mdash; Ben Chrisinger (Tufts University)</li>
 
@@ -374,7 +410,17 @@ Location: Tower Café, Tisch Library
 
 <li>China Biographical Database Kinship Networks Visualization Project &mdash; Queenie Luo (Harvard University)</li>
 
-<li>Mapping the Chimaera: The Ancient and Modern Geographies of Archaic Pottery &mdash; Liz Neill (Boston University)</li>
+<li>
+<a class="modal-link" href="#poster-neill">Mapping the Chimaera: The Ancient and Modern Geographies of Archaic Pottery</a> &mdash; Liz Neill (Boston University)
+
+<div id="poster-neill" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<h4>Mapping the Chimaera: The Ancient and Modern Geographies of Archaic Pottery</h4>
+		<p>Liz Neill (Boston University)</p>
+		<p>How have the ancient and modern movements of Greek pots impacted our study of the ancient world? My dissertation introduces a new map-based framework (designed with ArcGIS and implemented with ArcMap) for engaging with provenance via pots depicting imagined creatures. There is no single answer to the question, “Where did this pot come from?” Compiling both ancient (origin, production, and deposition) and modern (trade and museum) geographies together creates an opportunity to analyze patterns and play with frictions and possibilities for interactive engagement. In this case study, I use the Chimaera to demonstrate the unexpected connections that emerge when mapping a group of painted pots against the many geographies of ancient objects. Featured map states will address useful tensions between pots and their places, and how those correspond with ancient and modern perceptions about the ancient world. Provenance provides a largely untapped avenue for both scholarly and public exploration of ancient pots - one that readily adapts to a map-based, digital format.</p>
+	</div></div>
+</li>
 
 <li><a class="modal-link" href="#poster-newman">Frame by Frame: The Development and Integration of a Community Stop-motion Animation Area</a> &mdash; Matthew Newman (Mount Holyoke College)
 <div id="poster-newman" class="modal">
