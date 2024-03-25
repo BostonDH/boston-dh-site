@@ -1,6 +1,7 @@
 +++
-title = "2024 Program"
+title = "Schedule Mockup"
 +++
+
 
 
 **Tufts Medford Campus, Tisch Library**  
@@ -127,7 +128,7 @@ Location: The Austin Room (Tisch Library, 226)
 ---
 
 ### Session 1C: Computational Approaches in Image & Text
-Location: The Data Lab (Tisch Library, 203)
+Location: The Data Lab, (Tisch Library, 203)
 
 
 <li>How Large Language Models (Don’t) Handle the Uneven Digitization of Historical Literature &mdash; Lawrence Evalyn (Northeastern University), Hunter Moskowitz (Northeastern University)</li>
@@ -152,7 +153,7 @@ Student lunch with K.J. Rawson in the Austin Room (226), all students are welcom
 ## <span style="color:#971b2f;">1:10-2:40 PM</span>
 ### Session 2A: Digital Storytelling with Cartographic Collections (Workshop)
 
-Location: The Data Lab (Tisch Library, 203)
+Location: The Data Lab, (Tisch Library, 203)
 
 Ian Spangler, Emily Bowe, Garrett Dash Nelson (Leventhal Map & Education Center at the Boston Public Library)
 
@@ -231,7 +232,7 @@ Location: Tower Café, Tisch Library
 
 <li>Exploring Queer Spaces through Data Physicalization &mdash; Gabriella Evergreen (Pratt Institute)</li>
 
-<li><em>Title Forthcoming</em> &mdash; Harrison Goodman (Brandeis University)</li>
+<li>Title Forthcoming &mdash; Harrison Goodman (Brandeis University)</li>
 
 <li>DeisHacks: Leveraging Hackathon for Social Good &mdash; A Blueprint for  Increasing Community Engagement with Community Partners &mdash; Erica Hwang, Vincent Calia-Bogan</li>
 
