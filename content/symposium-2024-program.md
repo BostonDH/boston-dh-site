@@ -25,6 +25,7 @@ Coffee and light breakfast will be available.
 ### Keynote Address
 Location: Cohen Auditorium, Aidekman Arts Center
 
+"Curating Digital Archives with Care: The Ethics of Representation, Description, and Access"
 
 K.J. Rawson, Associate Professor of English and Women's, Gender and Sexuality Studies; Co-Director of NULab for Texts, Maps, and Networks, Northeastern University
 
