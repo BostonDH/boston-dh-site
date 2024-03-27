@@ -193,7 +193,7 @@ Location: The Data Lab (Tisch Library, 203)
 ## <span style="color:#971b2f;">12:00-1:00 PM</span>
 ### Lunch
 
-Buffet style lunch will be available in the library atrium with boxed lunches available for those with allergies. 
+Buffet style lunch will be available in the library lobby.
 
 Student lunch with K.J. Rawson in the Austin Room (226), all students are welcome to join. 
 
