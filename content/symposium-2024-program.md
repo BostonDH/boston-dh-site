@@ -103,8 +103,16 @@ Location: The Austin Room (Tisch Library, 226)
 </li>
 
 
+<li>
+<a class="modal-link" href="#presentation-1b-2">Oral Histories of Queerness in Post-war Sri Lankan</a> &mdash; Gowthaman Ranganathan (Brandeis University) 
 
-<li><em>Title Forthcoming</em> &mdash; Gowthaman Ranganathan (Brandeis University)</li>
+<div id="presentation-1b-2" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<p> Gowthaman Ranganathan will present his ongoing collaborative oral histories project conducted with the Jaffna Transgender Network (JTN), a trans-led organization in Jaffna, Sri Lanka. JTN works for the rights and livelihood of queer and trans people with a focus on the ethnic minority Tamils. The oral histories project seeks to document how Tamil queer people survived, thrived, and resisted the heteronormative gender binary amidst the Sri Lankan civil war, its aftermath, and beyond. So far, collected life stories of older transfeminine Tamil performers and documented old photos, performance flyers, local media coverage of performances, and other public material. My talk will highlight the process and open a discussion on the best ways this project can be taken forward and presented. It will also open a discussion on best practices in conducting archival projects with vulnerable communities.  
+		</p>
+	</div></div>
+</li>
 
 <li><a class="modal-link" href="#presentation-1b-3">Herbal Marginalia Diaspora: A Community Mapping Project for Diasporic Gardening and Climate Anxiety</a> &mdash; Gökçen Erkılıç (Northeastern University)
 
@@ -145,7 +153,17 @@ inclusion, and care as a form of environmental justice.</p>
 	</div></div>
 </li>
 
-<li><em>Title Forthcoming</em> &mdash; Spyridoula Potamopoulou (NYU Tisch School of the Arts) [online presenter]</li>
+<li>
+<a class="modal-link" href="#presentation-1b-5">Biased Localization and Queer Erasure: The Ease With Which Queerness is Lost in Translation
+</a> &mdash; Spyridoula Potamopoulou (NYU Tisch School of the Arts) [online presenter]
+
+<div id="presentation-1b-5" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<p> Throughout the history of the medium, there has been a notable pattern of English localizations of video games actively removing queer text and subtext that is present in the original non-English language versions of the works. By virtue of its own nature, this form of queer erasure is not a well-known issue, as the people who are playing a game’s localized version are almost always doing so because they are incapable of experiencing it in its original language. They rely on the localization to be accurate, and have no way of verifying that without outside help or a great deal of effort, so changes made during the localization process go entirely unnoticed by the vast majority of players. This lack of visibility is compounded by the fact that even the few existing forums which discuss the topic of queer erasure via localization can be hard to find if you don’t know where to look, or that there’s even something to search for to begin with. Given the fact that this phenomenon persists into the present despite strides towards better representation in games, it is vital to raise awareness and encourage audiences to question who we trust to translate other cultures for us, and whether those people are treating their charges with the level of respect they deserve. This talk will illuminate some of the ways this issue has manifested over time by highlighting 3 games, <em>Animal Crossing</em> (2001), <em>Paper Mario: The Thousand Year Door</em> (2004), and <em>Splatoon 3</em> (2022), all of which had queer text or subtext removed or denounced by the same localizer, Nintendo of America. The contents of each game's various language releases will be compared, with an included discussion of statements made by employees on the localization teams that informs the rationale behind certain decisions.
+		</p>
+	</div></div>
+</li>
 
 ---
 
@@ -153,7 +171,7 @@ inclusion, and care as a form of environmental justice.</p>
 Location: The Data Lab (Tisch Library, 203)
 
 
-<li>How Large Language Models (Don’t) Handle the Uneven Digitization of Historical Literature &mdash; Lawrence Evalyn (Northeastern University), Hunter Moskowitz (Northeastern University)</li>
+<li>How Large Language Models (Don’t) Handle the Uneven Digitization of Historical Literature &mdash; Lawrence Evalyn, Hunter Moskowitz (Northeastern University)</li>
 
 <li><a class="modal-link" href="#presentation-1c-2">Toward Computational Economic Humanities</a> &mdash; Kyhl Stephen (Cornell University)
 <div id="presentation-1c-2" class="modal">
@@ -175,7 +193,14 @@ Location: The Data Lab (Tisch Library, 203)
 	</div></div>
 </li>
 
-<li><em>Title Forthcoming</em> &mdash; Peter Nadel, Rosemary CR Taylor, Kyle Monahan (Tufts University)</li>
+<li>
+<a class="modal-link" href="#presentation-1c-4">Topic Modeling in the Age of Artificial Intelligence</a> &mdash; Peter Nadel, Rosemary Taylor, Kyle Monahan (Tufts University)<div id="presentation-1c-4" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<p> Topic modeling has been an enticing approach to large datasets for researchers in the social sciences and humanities. Our Guided Topic Modeling (GTM) approach seeks to employ a large language model to mediate a natural language description of a researcher’s theory and high dimensional representations of document chunks. Our case study examines the complex discursive process by which diseases acquire identities. First, we explore the meaning of the concept ‘disease identity’ drawing on the secondary literature in several disciplines. Second, we employ the resultant theoretical insights in a comparative study of how perceptions of two viruses, Hepatitis C and HIV, and the people who suffer from them, evolve over time in both the US and UK. We draw on multiple sources of data, including primary documents from archival research, testimonies to Public Inquiries, press reviews in both countries, and oral histories/interviews. A general framework for how to apply GTM will be provided to attendees via a GitHub repository.
+		</p>
+	</div></div>
+</li>
 
 <li><a class="modal-link" href="#presentation-1c-5">Evaluating the Evaluators: How Should Critical AI Engage with Image Aesthetic Quality Assessment?</a> &mdash; Samuel Goree (Stonehill College)
 
@@ -265,23 +290,43 @@ Location: Tisch Library 223
 Location: Tisch Library 304
 
 
-<li>Digital Humanities & Rare Books &mdash; Micah Saxton (Tufts University), Chris Barbour (Tufts University)</li>
-
-<li> <a class="modal-link" href="#presentation-2c-2">The Battle of the Bogside in Three Parts: A Spatial Analysis of the Start of the Troubles</a> &mdash; Kasya O’Connor Grant (Northeastern University)
-<div id="presentation-2c-2" class="modal">
+<li>
+<a class="modal-link" href="#presentation-2c-1">Digital Humanities and Rare Books</a> &mdash; Micah Saxton, Christopher Barbour (Tufts University)
+<div id="presentation-2c-1" class="modal">
 	<div class="modal-content">
 		<span class="close">&times;</span>
-		<h4>The Battle of the Bogside in Three Parts: A Spatial Analysis of the Start of the Troubles</h4>
-		<p>Kasya O’Connor Grant (Northeastern University)</p>
-		<p>“<a href="https://bogsideinthreeparts.wordpress.com/">The Battle of the Bogside in Three Parts: A Spatial Analysis of the Start of the Troubles</a>” is an online learning tool centered around the 1969 clash between Derry, Northern Ireland residents and law enforcement. The project addresses a high school audience and encourages students to consider the relationship between space, identity, and power during times of state-sanctioned violence. Through a combination of maps, media, and storytelling depicting the event, users can explore the spatial dimensions of power and control.</p> 
-<p>The project is structured around three maps, all of which were created using Google MyMaps, a free and widely used mapping resource. The first, ‘<a href="https://bogsideinthreeparts.wordpress.com/beforethebattle/">Before the Battle</a>,’ provides students with the context in which the Battle of the Bogside took place. It allows users to explore gerrymandering, major sites of unrest, and the beginnings of Derry’s civil rights movement. The second map, ‘<a href="https://bogsideinthreeparts.wordpress.com/thebattle/">Battle of the Bogside,</a>’ displays locations of major clashes between the Bogside residents, Loyalists, and law enforcement over the course of the two days. This map introduces students to the concept of the inversion of space with law enforcement’s invasion of the homes of the residents. The third and final map, ‘<a href="https://bogsideinthreeparts.wordpress.com/afterthebattle/">After the Battle</a>,’ allows students to explore the makeshift barricades (and other forms of boundary/border creation) that the Bogside residents used to create ‘Free Derry’ - a self-governed zone. This section encourages students to consider the anti-colonial characteristics of the reclamation of public space by marginalized citizens.</p> 
-<p>The website also includes a number of contextual resources (‘<a href="https://bogsideinthreeparts.wordpress.com/timeline-of-the-battle/">Significant Dates</a>,’ ‘<a href="https://bogsideinthreeparts.wordpress.com/significant-people-groups/">Significant People and Groups</a>,’ and ‘<a href="https://bogsideinthreeparts.wordpress.com/documents/">Documents</a>’) that provide background information for users. By including these resources, the website functions as a database of information for students to access to supplement their knowledge on the historical context of the Battle of the Bogside. In this way, the resources function as a more dynamic form of a textbook. 
-The website also includes a number of <a href="https://bogsideinthreeparts.wordpress.com/learning-resources/">learning materials</a> for students and teachers to use. These function as an educational guide through the material. The first is a series of <a href="https://bogsideinthreeparts.wordpress.com/learning-resources/">discussion questions</a> that encourage students to consider the broader implications of the narrative and spatial information they encounter. The second is a <a href="https://bogsideinthreeparts.wordpress.com/primary-source-exercise/">primary source analysis exercise</a> that asks students to annotate the Campaign for Social Justice in Northern Ireland’s The Plain Truth pamphlet. This exercise is designed to demonstrate the significance of primary source analysis in understanding historical phenomena. The third is a <a href="https://bogsideinthreeparts.wordpress.com/mapping-exercise/">mapping project</a> that asks students to create a Google MyMaps of an area that is significant to their community/identity. This project asks students to use the skills they’ve learned through their exploration of the website to analyze the interactions between space, power, and identity in their own lives. </p>
+		<p>In this individual talk I will discuss a unique class session in which the Introduction to Digital Humanities course at Tufts University makes use of the rare book collection at Tisch Library. The class session had three learning goals: (1) Students gain an understanding of the history of physical books from the 13th to the 20th centuries; (2) Students contextualize the work they have been doing with digital texts in light of a larger material textual tradition; (3) Students learn to encode paratextual material from print books into TEI format. I close the individual talk with some reflections on what has worked in this class session and what could be done to improve it as well. It is my hope that this presentation will prompt further discussion about how digital humanities instructors can engage with other campus partners, such as a Special Collections department, to further enrich student experiences in DH.
+		</p>
 	</div></div>
 </li>
 
 
-<li>Spatial Tools for Spatial Stories &mdash; Rob Walsh (UConn), Melisa Arganaraz Gomez (UConn), Katie Fiducia (UConn)</li>
+<li>
+<a class="modal-link" href="#presentation-2c-2">The Battle of the Bogside in Three Parts: A Spatial Analysis of the Start of the Troubles</a> &mdash; Kasya O'Connor Grant (Northeastern University)
+
+<div id="presentation-2c-2" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<p> “<a href="https://bogsideinthreeparts.wordpress.com/">The Battle of the Bogside in Three Parts: A Spatial Analysis of the Start of the Troubles”</a> is an online learning tool centered around the 1969 clash between Derry, Northern Ireland residents and law enforcement. The project addresses a high school audience and encourages students to consider the relationship between space, identity, and power during times of state-sanctioned violence. Through a combination of maps, media, and storytelling depicting the event, users can explore the spatial dimensions of power and control.</p><p> 
+The project is structured around three maps, all of which were created using Google MyMaps, a free and widely used mapping resource. The first, ‘<a href="https://bogsideinthreeparts.wordpress.com/beforethebattle/">Before the Battle</a>,’ provides students with the context in which the Battle of the Bogside took place. It allows users to explore gerrymandering, major sites of unrest, and the beginnings of Derry’s civil rights movement. The second map, ‘<a href="https://bogsideinthreeparts.wordpress.com/thebattle/">Battle of the Bogside</a>,’ displays locations of major clashes between the Bogside residents, Loyalists, and law enforcement over the course of the two days. This map introduces students to the concept of the inversion of space with law enforcement’s invasion of the homes of the residents. The third and final map, ‘<a href="https://bogsideinthreeparts.wordpress.com/afterthebattle/">After the Battle</a>,’ allows students to explore the makeshift barricades (and other forms of boundary/border creation) that the Bogside residents used to create ‘Free Derry’ - a self-governed zone. This section encourages students to consider the anti-colonial characteristics of the reclamation of public space by marginalized citizens.
+		</p>
+	</div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#presentation-2c-3">Spatial Tools for Spatial Stories</a> &mdash; Melisa Argañaraz Gomez, Rob Walsh, Katie Fiducia, (University of Connecticut)
+
+<div id="presentation-2c-3" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<p> This presentation will discuss a collaborative approach between UConn Library and the UConn Urban and Community Studies department to introduce undergraduate students in URBN 2000 (Introduction to Urban and Community Studies) to GIS and geospatial concepts through the lens of a digital storytelling assignment. For this assignment, students are being asked to integrate various forms of information about a place, including scholarly literature, video, images, fictional stories, and maps, to creatively tell the story of a neighborhood or city of their choice. To demonstrate how students can use various tools to tell their stories spatially, they were introduced to ArcGIS Online, ArcGIS StoryMaps, and StoryMaps JS over the course of two workshops and one lab session. The objectives of these session visits were to:<ul>
+			<li>Introduce the basic concepts of GIS, including asking spatial questions, map/information literacy, and geospatial data models.</li>
+			<li>Demonstrate the various uses of these tools and discuss how they can be used to tell spatial stories.</li>
+			<li>Give students the opportunity to try these tools out through guided tutorials and in-class lab time.</li></ul>
+			The presentation will review the instructional planning process and observations during instruction, student outcomes and feedback from these course visits and their assignment, lessons learned, and how we plan to expand upon our experience this semester. By sharing this experience, we hope to encourage others to introduce students to geospatial storytelling and expand conversations on best practices to pedagogical approaches to GIS and urban studies.
+		</p>
+	</div></div>
+</li>
 
 <li><a class="modal-link" href="#presentation-2c-4"> Recent Approaches to Digital Mapping Instruction at Boston College</a> &mdash; Antonio LoPiano (Boston College), Ashlyn Stewart (Boston College)
 <div id="presentation-2c-4" class="modal">
@@ -354,7 +399,16 @@ Our talk will address the challenges and possibilities we have encountered while
 	</div></div>
 </li>
 
-<li>Digitizing the 1906 American Medical Directory to Explore Early Racial Disparities in Medicine &mdash; Ben Chrisinger (Tufts University)</li>
+<li>
+<a class="modal-link" href="#presentation-3c-2">Digitizing the 1906 American Medical Directory to Explore Early Racial Disparities in Medicine</a> &mdash; Benjamin Chrisinger (Tufts University)
+
+<div id="presentation-3c-2" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<p> Since 1906, the American Medical Association (AMA) has regularly published a Directory of all qualified physicians in the US, by city and county. Between 1906-1940, AMA insisted on printing “colored” alongside the names of all Black/African American doctors. This racist practice inadvertently gives us an unparalleled look at where Black doctors worked and therefore where inequalities in access to care began. Given unique formatting and nomenclature structures, extracting data from archival PDF records of American Medical Directories (AMDs) is challenging, especially for those hoping to use automation, and to my knowledge has not been previously done on a large scale, explaining, in part, the limited use of this rich dataset by the research community. In this talk, I will describe the process of digitizing the inaugural AMD volume, published in 1906, and creating an interactive mapping website to enable a broader public to visualize patterns and disparities. I will also summarize key variables available in the public dataset, inviting in future researchers to envision their own explorations with the 1906 AMD data. Finally, I will reflect on some of the project’s challenges and future opportunities for collaboration with students and the digital history community.
+</p>
+	</div></div>
+</li>
 
 <li>
 <a class="modal-link" href="#presentation-3c-3">In progress: Women's Stories, W. E. B. Du Bois Papers Data</a> &mdash; Blake Spitz (University of Massachusetts Amherst
@@ -388,7 +442,17 @@ Location: Tower Café, Tisch Library
 	</div></div>
 </li>
 
-<li>Increasing the Accessibility of the Autobiography of Omar ibn Said through Translation Alignment &mdash; Joseph Campbell Hilleary (Tufts University)</li>
+<li>
+<a class="modal-link" href="#poster-hilleary">Increasing the Accessibility of the Autobiography of Omar Ibn Said: A Case Study in Producing Enriched Digital Additions of Arabic Manuscripts</a> &mdash; Joseph C. Hilleary (Tufts University)
+<div id="poster-hilleary" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<p>
+In 1807, Omar Ibn Said, a West African man educated in the Islamic tradition, was captured, enslaved, and brought to the Carolinas. Roughly two decades later, he produced a first-hand account of his life written in Arabic. The original manuscript forms the centerpiece of a collection of now digitized documents held by the Library of Congress. This work is notable because, unlike other contemporaneous slave accounts written in English, it was not subject to editing by the slave-holder Ibn Said lived with and can be viewed as a more faithful version of his experience. In addition, it demonstrates the strong traditions of writing and education that existed in the parts of Africa that were raided during the trans-Atlantic slave trade.</p><p> 
+In order to make this important document more accessible, I have created, in collaboration with students in a Tufts University course on West African history, a new annotated digital edition and translation of the biographical sections of Ibn Said’s manuscript. This edition, soon to be available online, presents the original Arabic aligned alongside a novel English translation and a transliterated version of the text, produced using natural language processing tools. It also provides Universal Dependency trees to show the relationship between different words in the source text.</p><p> 
+The goal of these annotations is to provide readers with limited or no knowledge of Arabic, such as American secondary school students, the confidence to engage deeply with a primary source in that language and to elevate the interesting components of the manuscript that disappear when it is only read in translation. This poster documents the process of creating such an edition.</p>
+	</div></div>
+</li>
 
 <li><a class="modal-link" href="#poster-dougherty"> Generative AI in the Humanities Classroom</a> &mdash; Daniel Dougherty (Boston College)
 
@@ -403,13 +467,51 @@ Location: Tower Café, Tisch Library
 
 <li>Exploring Queer Spaces through Data Physicalization &mdash; Gabriella Evergreen (Pratt Institute)</li>
 
-<li><em>Title Forthcoming</em> &mdash; Harrison Goodman (Brandeis University)</li>
+<li>
+<a class="modal-link" href="#poster-goodman">3D Printing Supports for Support: Leveraging 3D Printing Technology for Preserving Artifacts</a> &mdash; Harrison Goodman (Brandeis University)
 
-<li>DeisHacks: Leveraging Hackathon for Social Good &mdash; A Blueprint for  Increasing Community Engagement with Community Partners &mdash; Erica Hwang, Vincent Calia-Bogan</li>
+<div id="poster-goodman" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<p> Preserving and displaying delicate artifacts is often a time consuming and difficult endeavor. This poster presents a novel method utilizing 3D printing technology to create custom support structures that can be produced cheaply and easily using freely available software. 3D scans are becoming increasingly common as a method of documenting artifacts and producing replicas for display or study. By using 3D scans of objects, any support structures generated for 3D printed replica of the object will also fit the original. The generated support structures are highly customizable and can be integrated into existing conservation workflows to speed up the process in conservation efforts. 
+		</p>
+	</div></div>
+</li>
 
-<li>Interrogating the Music Canon via Music Encoding &mdash; Anna Kijas, Jordan Good (Tufts University)</li>
 
-<li>China Biographical Database Kinship Networks Visualization Project &mdash; Queenie Luo (Harvard University)</li>
+
+<li>
+<a class="modal-link" href="#poster-hwang-calia-bogan">DeisHacks: Hackathon for Social Good – A Blueprint for Success</a> &mdash; Erica Hwang, Vincent Calia-Bogan (Brandeis University)
+
+<div id="poster-hwang-calia-bogan" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<p>Our poster presents a case study of DeisHacks, a 48-hour, hybrid hackathon for social good organized by a 5-person team of students and professors at Brandeis University for the 7th consecutive year. Unlike traditional hackathons, DeisHacks emphasizes community impact by partnering with nonprofits to formulate prompts that pose real-world challenges for students to build solutions for. Due to its hybrid nature, DeisHacks emphasizes the education and development of digital skills that are relevant to participant’s work with nonprofits.</p><p>In our poster, we will explain how we managed this hackathon using digital tools. Specifically, we’ll discuss our methodology for creating digital resources for participants, the pedagogy of DeisHacks as experiential education, and the strategies for hosting a successful hybrid event. Special emphasis will be on our project management framework, including workflows, communication and relationship management, social media, and more. Additionally, the poster outlines future plans for integrating new and emerging digital tools (such as artificial intelligence) into our existing pedagogy. By including QR codes that link to our digital assets that can be used as templates, we hope to inspire similar initiatives by sharing the DeisHacks pedagogy with the community.</p>
+	</div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#poster-kijas-good">Interrogating the Music Canon via Music Encoding</a> &mdash; Anna Kijas, Jordan Good (Tufts University)
+
+<div id="poster-kijas-good" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<p>In her essay, “What do we want to teach” Ellen Koskoff examined the perpetuation of musical canons in music curricula, writing that “simply creating a canon is not a problem; nor is embodying it with one’s own meaningful values. The problem comes with <em>canonization</em>&mdash;the institutionalization of certain works over others through imposition of hierarchies of self-invested value upon other people and their musics.” In the twenty-plus years since her essay, music educators and scholars continue to grapple with how to address representation, diversity, and inclusion in their pedagogy and music repertoire.</p> 
+
+<p>One example of how we are making music collections more diverse and inclusive, and challenging canonical collections and privileged views, is through an ongoing open-access project, <a href="https://rebalancing-music-canon.com/">Rebalancing the Music Canon</a>. In this poster, we will provide a project overview with visual examples (e.g. incipits, MEI XML), highlight low-barrier approaches used to introduce music transcription and encoding, and describe how we incorporate critical digital pedagogy and minimal computing practices. Presently, the project has published 575 incipits from works by 100 composers. This is a collaborative, student-driven effort which aims to make works by historically marginalized people more discoverable, decenters the musical canon, and makes data-driven music scholarship more diverse and inclusive. Students are gaining expertise in music encoding practices, identifying, and pushing against the constraints of the MEI schema, and augmenting their knowledge of music beyond the traditional music canon.</p>
+	</div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#poster-luo">China Biographical Database Kinship Networks Visualization Project</a> &mdash; Queenie Luo (Harvard University)
+
+<div id="poster-luo" class="modal">
+	<div class="modal-content">
+		<span class="close">&times;</span>
+		<p>The China Biographical Database contains biographical information on approximately 535,000 individuals, primarily from the 7th to the 19th centuries. A versatile visualization tool can be extremely useful for illustrating the relationships among these individuals. Although the widely adopted network visualization software Gephi is powerful in many aspects, it has limitations when it comes to visualizing family lineages and specific characteristics of individuals. This poster presentation aims to introduce CBDB’s new visualization platform and demonstrate the techniques used to develop it.
+		</p>
+	</div></div>
+</li>
 
 <li>
 <a class="modal-link" href="#poster-neill">Mapping the Chimaera: The Ancient and Modern Geographies of Archaic Pottery</a> &mdash; Liz Neill (Boston University)
