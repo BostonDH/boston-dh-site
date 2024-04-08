@@ -35,7 +35,7 @@ K.J. Rawson works at the intersections of the Digital Humanities and Rhetoric, L
 
 ## <span style="color:#971b2f;">10:30-12:00 PM</span>
 ### Session 1A: Project Developments & Enhancements
-Location: Digital Design Studio (Tisch Library, 3rd Floor)
+Location: The Austin Room (Tisch Library, 226)
 
 
 <li>
@@ -86,7 +86,7 @@ Location: Digital Design Studio (Tisch Library, 3rd Floor)
 ---
 
 ### Session 1B: Community Storytelling
-Location: The Austin Room (Tisch Library, 226)
+Location: Digital Design Studio (Tisch Library, 3rd Floor)
 
 
 <li>
