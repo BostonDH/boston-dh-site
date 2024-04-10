@@ -11,6 +11,8 @@ Hybrid
 [**Register to Attend**](https://docs.google.com/forms/d/e/1FAIpQLSdHHkfdM8bIGgms2I5TzzDQIKHfxW4ZoKHM25kL_C7pulAQUg/viewform)
 
 
+[Map of Tisch Library](https://tufts.box.com/v/tisch-library-boston-dh)
+
 ---
 
 ## <span style="color:#971b2f;">8:30-9:00 AM</span>
@@ -386,8 +388,9 @@ Location: Tisch Library 304
 
 Location: Tisch Library 316
 
-<!--<li>
-<a class="modal-link" href="#presentation-3c-1">The Salus Populi Project: Digital Archives, Reparative Genealogy, and Restorative Justice</a> &mdash; Riley Sutherland, Michelle Cook (Salus Populi Pension Project) [Hybrid presentation]
+<!--
+<li><del>
+<a class="modal-link" href="#presentation-3c-1">The Salus Populi Project: Digital Archives, Reparative Genealogy, and Restorative Justice</a></del> &mdash; Riley Sutherland, Michelle Cook (Salus Populi Pension Project)
 <div id="presentation-3c-1" class="modal">
 	<div class="modal-content">
 		<span class="close">&times;</span>
