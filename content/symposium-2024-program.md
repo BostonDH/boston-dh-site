@@ -411,7 +411,7 @@ Our talk will address the challenges and possibilities we have encountered while
 </li>
 
 <li>
-<a class="modal-link" href="#presentation-3c-3">In progress: Women's Stories, W. E. B. Du Bois Papers Data</a> &mdash; Blake Spitz (University of Massachusetts Amherst
+<a class="modal-link" href="#presentation-3c-3">In progress: Women's Stories, W. E. B. Du Bois Papers Data</a> &mdash; Blake Spitz (University of Massachusetts Amherst)
 
 <div id="presentation-3c-3" class="modal">
 	<div class="modal-content">
