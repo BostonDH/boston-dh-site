@@ -253,7 +253,7 @@ Location: The Data Lab (Tisch Library, 203)
 Location: Tisch Library 223
 
 <li>
-<a class="modal-link" href="#presentation-2b-1">Pedagogical Approaches to Integrating 3D Imaging and 3D Printing in Cultural Heritage Studies</a> Pedagogical Approaches to Integrating 3D Imaging and 3D Printing in Cultural Heritage Studies &mdash; Otto Luna; Ivo van der Graaff (University of New Hampshire)
+<a class="modal-link" href="#presentation-2b-1">Pedagogical Approaches to Integrating 3D Imaging and 3D Printing in Cultural Heritage Studies</a> &mdash; Otto Luna; Ivo van der Graaff (University of New Hampshire)
 <div id="presentation-2b-1" class="modal">
 	<div class="modal-content">
 		<span class="close">&times;</span>
