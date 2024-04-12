@@ -322,7 +322,7 @@ The project is structured around three maps, all of which were created using Goo
 </li>
 
 <li>
-<a class="modal-link" href="#presentation-2c-3">Spatial Tools for Spatial Stories</a> &mdash; Melisa Argañaraz Gomez, Rob Walsh, Katie Fiducia, (University of Connecticut)
+<a class="modal-link" href="#presentation-2c-3">Spatial Tools for Spatial Stories</a> &mdash; Melisa Argañaraz Gomez, Rob Walsh, Katie Fiducia, (University of Connecticut) [online presenter]
 
 <div id="presentation-2c-3" class="modal">
 	<div class="modal-content">
