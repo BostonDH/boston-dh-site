@@ -310,7 +310,7 @@ Location: Tisch Library 304
 
 
 <li>
-<a class="modal-link" href="#presentation-2c-2">The Battle of the Bogside in Three Parts: A Spatial Analysis of the Start of the Troubles</a> &mdash; Kasya O'Connor Grant (Northeastern University)
+<a class="modal-link" href="#presentation-2c-2">The Battle of the Bogside in Three Parts: A Spatial Analysis of the Start of the Troubles</a> &mdash; Kasya O'Connor Grant (Northeastern University) [online presenter]
 
 <div id="presentation-2c-2" class="modal">
 	<div class="modal-content">
