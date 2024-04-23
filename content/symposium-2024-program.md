@@ -8,8 +8,7 @@ Friday, April 12th, 2024
 Hybrid   
 8:30am - 5:30pm    
 
-
-[Map of Tisch Library](https://tufts.box.com/v/tisch-library-boston-dh)
+**View the [archived presentation slides](https://drive.google.com/drive/folders/1IP6I-N_1Yqv1PjP3QmoNgj_z1VBN2s4E?usp=sharing)**
 
 ---
 
