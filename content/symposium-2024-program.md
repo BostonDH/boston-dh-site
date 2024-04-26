@@ -24,11 +24,13 @@ Coffee and light breakfast will be available.
 ### Keynote Address
 Location: Cohen Auditorium, Aidekman Arts Center
 
-"Curating Digital Archives with Care: The Ethics of Representation, Description, and Access"
+"Curating Digital Archives with Care: The Ethics of Representation, Description, and Access" 
+**[Recording](http://hdl.handle.net/10427/QJ72PN60N)**
 
 K.J. Rawson, Associate Professor of English and Women's, Gender and Sexuality Studies; Co-Director of NULab for Texts, Maps, and Networks, Northeastern University
 
 K.J. Rawson works at the intersections of the Digital Humanities and Rhetoric, LGBTQ+, and Feminist Studies. Focusing on archives as key sites of cultural power, he studies the rhetorical work of queer and transgender archival collections in brick-and-mortar and digital spaces. Rawson is founder and director of the [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/), an award-winning collection of trans-related historical materials, and he chairs the editorial board of the [Homosaurus](https://homosaurus.org/), an LGBTQ+ linked data vocabulary.
+
 
 ---
 
