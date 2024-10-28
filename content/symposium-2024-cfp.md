@@ -1,5 +1,5 @@
 +++
-title = "2024 Call for Proposals EGT"
+title = "2024 Call for Proposals"
 +++
 
 
