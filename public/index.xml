@@ -2,26 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Boston Digital Humanities</title>
-    <link>https://bostondh.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Boston Digital Humanities</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://bostondh.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024 Call for Proposals</title>
-      <link>https://bostondh.org/symposium-2024-cfp/</link>
+      <link>http://localhost:1313/symposium-2024-cfp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bostondh.org/symposium-2024-cfp/</guid>
-      <description>Submission deadline: February 16, 2024 (Closed)
+      <guid>http://localhost:1313/symposium-2024-cfp/</guid>
+      <description>2024 About
+2024 Program
+Submission deadline: February 16, 2024 (Closed)
 Symposium: Friday, April 12, 2024
-We invite submissions for participation in a one day symposium of greater Boston-area scholars, community members, library and archives professionals, students, and practitioners across disciplines who engage with digital approaches, pedagogy, and methods in humanities and social sciences research on Friday, April 12, 2024. The symposium will be a day of learning, engagement, and community building. Sessions will occur in person on Tufts’ Medford campus; a hybrid option will be available to those who are unable to attend in person.</description>
+We invite submissions for participation in a one day symposium of greater Boston-area scholars, community members, library and archives professionals, students, and practitioners across disciplines who engage with digital approaches, pedagogy, and methods in humanities and social sciences research on Friday, April 12, 2024. The symposium will be a day of learning, engagement, and community building.</description>
     </item>
     <item>
       <title>2024 Program</title>
-      <link>https://bostondh.org/symposium-2024-program/</link>
+      <link>http://localhost:1313/symposium-2024-program/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bostondh.org/symposium-2024-program/</guid>
-      <description>Tufts Medford Campus, Tisch Library
+      <guid>http://localhost:1313/symposium-2024-program/</guid>
+      <description>2024 About 2024 CFP
+Tufts Medford Campus, Tisch Library
 Friday, April 12th, 2024
 Hybrid
 8:30am - 5:30pm
@@ -34,31 +37,42 @@ K.J. Rawson, Associate Professor of English and Women&amp;rsquo;s, Gender and Se
     </item>
     <item>
       <title>2024 Symposium</title>
-      <link>https://bostondh.org/symposium-2024/</link>
+      <link>http://localhost:1313/symposium-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bostondh.org/symposium-2024/</guid>
-      <description>The Greater Boston Digital Research and Pedagogy Symposium is a city-wide gathering of students, scholars, and practitioners working at the intersection of technology and the humanities. Hosted at a different institution each year, the Symposium is a key site for promoting cross-institutional collaboration and showcases the diverse perspectives of our field.
+      <guid>http://localhost:1313/symposium-2024/</guid>
+      <description>2024 Program
+2024 CFP
+The Greater Boston Digital Research and Pedagogy Symposium is a city-wide gathering of students, scholars, and practitioners working at the intersection of technology and the humanities. Hosted at a different institution each year, the Symposium is a key site for promoting cross-institutional collaboration and showcases the diverse perspectives of our field.
 The Tufts University Libraries are excited to host the third Greater Boston Digital Research and Pedagogy Symposium on April 12th, 2024.</description>
     </item>
     <item>
-      <title>About</title>
-      <link>https://bostondh.org/about/</link>
+      <title>2025 Call for Proposals</title>
+      <link>http://localhost:1313/symposium-2025-cfp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bostondh.org/about/</guid>
+      <guid>http://localhost:1313/symposium-2025-cfp/</guid>
+      <description>Submission deadline: Monday, February 3, 2025
+Symposium: Friday, April 11, 2025; Central Library of the Boston Public Library, Boston, MA
+About The Greater Boston Digital Research and Pedagogy Symposium is a regional, one-day gathering of students, scholars, librarians, and other practitioners from the New England area working at the intersection of technology and the humanities. Hosted at a different institution each year, the Symposium provides an opportunity for promoting cross-institutional collaboration and showcases the diverse perspectives of our field.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in elit eget augue consectetur scelerisque. Duis lacus nulla, maximus pellentesque leo at, convallis ultrices nisi. Donec tristique ligula mauris, et egestas leo dapibus eu. Vivamus quis posuere felis. Nulla tempor sollicitudin leo. Maecenas id lacinia purus, eget laoreet tortor. Aliquam velit lectus, facilisis efficitur molestie vel, vestibulum non mauris. Duis sagittis laoreet sagittis. Aliquam pulvinar semper risus quis sodales. Nullam nec massa est.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://bostondh.org/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bostondh.org/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in elit eget augue consectetur scelerisque. Duis lacus nulla, maximus pellentesque leo at, convallis ultrices nisi. Donec tristique ligula mauris, et egestas leo dapibus eu. Vivamus quis posuere felis. Nulla tempor sollicitudin leo. Maecenas id lacinia purus, eget laoreet tortor. Aliquam velit lectus, facilisis efficitur molestie vel, vestibulum non mauris. Duis sagittis laoreet sagittis. Aliquam pulvinar semper risus quis sodales. Nullam nec massa est.</description>
     </item>
     <item>
       <title>Schedule Mockup</title>
-      <link>https://bostondh.org/schedule-mockup/</link>
+      <link>http://localhost:1313/schedule-mockup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bostondh.org/schedule-mockup/</guid>
+      <guid>http://localhost:1313/schedule-mockup/</guid>
       <description>Tufts Medford Campus, Tisch Library
 Friday, April 12th, 2024
 Hybrid

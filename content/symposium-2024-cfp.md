@@ -2,7 +2,8 @@
 title = "2024 Call for Proposals"
 +++
 
-
+[2024 About](/symposium-2024-cfp)  
+[2024 Program](/symposium-2024-program)   
 
 ~~**Submission deadline:** February 16, 2024~~ (Closed)   
 **Symposium:** Friday, April 12, 2024

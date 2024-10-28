@@ -2,22 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bostondh.org/symposium-2024-cfp/</loc>
+    <loc>http://localhost:1313/symposium-2024-cfp/</loc>
   </url><url>
-    <loc>https://bostondh.org/symposium-2024-program/</loc>
+    <loc>http://localhost:1313/symposium-2024-program/</loc>
   </url><url>
-    <loc>https://bostondh.org/symposium-2024/</loc>
+    <loc>http://localhost:1313/symposium-2024/</loc>
   </url><url>
-    <loc>https://bostondh.org/about/</loc>
+    <loc>http://localhost:1313/symposium-2025-cfp/</loc>
   </url><url>
-    <loc>https://bostondh.org/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://bostondh.org/categories/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://bostondh.org/contact/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://bostondh.org/schedule-mockup/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://bostondh.org/tags/</loc>
+    <loc>http://localhost:1313/schedule-mockup/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

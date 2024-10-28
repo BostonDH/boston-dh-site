@@ -1,4 +1,5 @@
-baseURL = 'https://bostondh.org'
+#baseURL = 'https://bostondh.org'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'Boston Digital Humanities'
 theme = 'hugo-universal-theme'
@@ -59,40 +60,30 @@ unsafe = true
     weight     = 2
     parent     = "section.past-events"
 
+    [[menu.main]]
+    name       = "2024 Symposium"
+    url        = "/symposium-2024"
+    weight     = 3
+    parent     = "section.past-events"
 
+
+
+# Current Events
 
 [[menu.main]]
-    name       = "2024 Symposium"
+    name       = "2025 Symposium"
     identifier = "section.current-events"
     url        = ""
     weight     = 2
     parent     = "menu.events"
     post       = 4
 
-[[menu.main]]
-    name       = "About"
-    url        = "/symposium-2024"
-    weight     = 1
-    parent     = "section.current-events"
-
-  [[menu.main]]
-    name       = "Program"
-    url        = "/symposium-2024-program"
-    weight     = 2
-    parent     = "section.current-events"
 
 [[menu.main]]
     name       = "Call for Proposals"
-    url        = "/symposium-2024-cfp"
-    weight     = 3
+    url        = "/symposium-2025-cfp"
+    weight     = 1
     parent     = "section.current-events"
-
-[[menu.main]]
-    name       = "Register"
-    url        = "https://docs.google.com/forms/d/e/1FAIpQLSdHHkfdM8bIGgms2I5TzzDQIKHfxW4ZoKHM25kL_C7pulAQUg/viewform"
-    weight     = 4
-    parent     = "section.current-events"
-
 
 
 

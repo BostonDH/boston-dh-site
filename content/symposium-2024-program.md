@@ -2,6 +2,9 @@
 title = "2024 Program"
 +++
 
+[2024 About](/symposium-2024)     
+[2024 CFP](/symposium-2024-cfp)
+
 
 **Tufts Medford Campus, Tisch Library**  
 Friday, April 12th, 2024  
