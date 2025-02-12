@@ -3,9 +3,11 @@ title = "Contact"
 id = "contact"
 +++
 
-For questions please email Kaylen Dwyer (kaylen.dwyer[at]tufts.edu and/or  
+For questions please email:  
 
-Catherine Enwright (enwrightc[at]]bc.edu) and/or  
+**Kaylen Dwyer (kaylen.dwyer[at]tufts.edu)**
 
-Ece Turnator (turnator[at]mit.edu) and/or   
+**Catherine Enwright (enwrightc[at]]bc.edu)**
+
+**Ece Turnator (turnator[at]mit.edu)**   
 
