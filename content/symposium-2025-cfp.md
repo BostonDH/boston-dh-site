@@ -2,7 +2,8 @@
 title = "2025 Call for Proposals"
 +++
 
-**Submission deadline:** Monday, February 3, 2025  
+**Submission deadline:** ~~Monday, February 3, 2025~~  
+**Deadline extended:** ~~Monday, February 10, 2025~~ Submissions closed    
 **Symposium:** Friday, April 11, 2025; Central Library of the Boston Public Library, Boston, MA
 
 ## About
@@ -36,7 +37,6 @@ Proposals may be submitted for the following presentation types:
 
 For all submissions, please include the name(s) and affiliation(s) as well as a short biography (100 words max) for each participant. Links to presenter CVs or websites are also encouraged. Please indicate if you will need any accommodations that will allow you to participate.
 
-[Submit a proposal.](https://forms.gle/J84RakrxbmFPDTTm7) 
 
 ## Questions
 For questions or more information, please contact: bpldigital@bpl.org.
