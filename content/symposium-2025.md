@@ -13,12 +13,13 @@ This meeting will cover a wide variety of topics related to the application of t
  Register</a>
 </p>
 
-## <span style="color:#971b2f;">Schedule</span>
+## <span style="color:#971b2f;">Location</span>
 
 **Boston Public Library - Central Library**  
 Friday, April 11, 2025  
 9:00am - 4:30pm  
-Select sessions hybrid
+Select sessions hybrid   
+Full schedule — including presentations, panels, workshops, posters, tours, and exhibitions — coming soon  
 
 <br/>
 
