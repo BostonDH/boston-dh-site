@@ -553,7 +553,7 @@ dancer/choreographer. Her research interests include early and late modern Irela
 ---
 ## <span style="color:#971b2f;">3:30 - 4:30 PM</span>
 ### Posters
-Location: TBD
+Location: Commonwealth Salon
 
 <li>
 <a class="modal-link" href="#townsend-howard">Reconstructions in the Digital Age: Seeing the Past through Virtual Reality</a> &mdash; Sean Townsend, Ella Howard (Wentworth Institute of Technology)
