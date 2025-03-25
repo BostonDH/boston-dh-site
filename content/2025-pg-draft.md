@@ -24,7 +24,7 @@ Select sessions hybrid
 
 ## <span style="color:#971b2f;">9:00 - 9:30 AM</span>
 ### Registration
-Location: Commonwealth Salon 
+Location: Commonwealth Salon (Level 1)
 
 
 Coffee and light breakfast
@@ -299,7 +299,6 @@ Location: Mezzanine Conference Room 2
 ### How to Make a Map Mosaic
 Location: Leventhal Map & Education Center Classroom
 
-<li>
 <a class="modal-link" href="#spangler">Workshop: How to Make a Map Mosaic</a> &mdash; Ian Spangler (Leventhal Map & Education Center, Boston Public Library)
 
 <div id="spangler" class="modal">
@@ -310,7 +309,6 @@ Location: Leventhal Map & Education Center Classroom
         <p>Overlaying historic maps in a geographic coordinate system—a process known as “georeferencing”—is an important part of contemporary digital humanities (DH) work. For DH scholars, georeferencing can yield new spatial datasets and provide important spatial and historical contexts to DH projects and workflows. For non-experts and the general public, georeferencing is desirable insofar as people tend to be curious about how places have changed over time, and georeferenced maps make it easier to answer those questions. The Leventhal Center’s Atlascope tool, for instance, provides one way to explore change over time through georeferenced urban atlases.</p><p>But how can you actually go from a digital image of a historic map to a fully georeferenced and mosaicked map overlay? What tools exist for creating these overlays? And how can people, from DH scholars to the general public, get started georeferencing? Participants in this workshop on “How to make a map mosaic” will learn about the core concepts of georeferencing, including 1) basic spatial data models, 2) geospatial theory around georeferencing, 3) how to georeference a map, and 4) how to make a map mosaic (e.g., multiple georeferenced maps “stitched” together).</p><p>The workshop introduces georeferencing with the Allmaps software ecosystem, a set of georeferencing tools that make it easy and more fun to georeference maps without downloading large image files and complex software. Unlike desktop geographic information systems (GIS) such as QGIS, Allmaps allows users to georeference maps entirely in a web browser. By the end of the workshop, participants will be able to independently georeference maps, and will understand basic concepts in geospatial theory around georeferencing (including vector/raster data and data formats, spatial masks/control points, and the IIIF protocol).</p>
         <p>Ian Spangler is Assistant Curator of Digital & Participatory Geography at the Leventhal Map & Education Center. He earned his PhD in Geography from the University of Kentucky in 2023.</p>
     </div></div>
-</li>
 
 ---
 ## <span style="color:#971b2f;">2:15 - 2:30PM</span>
