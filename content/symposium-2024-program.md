@@ -1,609 +1,688 @@
 +++
-title = "2024 Program"
+title = "2025 draft"
 +++
 
-[2024 About](/symposium-2024)     
-[2024 CFP](/symposium-2024-cfp)
+The Greater Boston Digital Research and Pedagogy Symposium is a regional, one-day gathering of students, scholars, librarians, and other practitioners from the New England area working at the intersection of technology and the humanities.
 
+The 2025 symposium will be held on Friday, April 11 at the Central Library of the Boston Public Library, with select sessions streamed online. Admission is free and open to all.
 
-**Tufts Medford Campus, Tisch Library**  
-Friday, April 12th, 2024  
-Hybrid   
-8:30am - 5:30pm    
+This meeting will cover a wide variety of topics related to the application of technology, computation, machine learning, and artificial intelligence to humanities research, pedagogy, and professional practice. This year's program will highlight digital humanities scholarship and projects that intend to reach or engage with a public audience, and the opportunities and challenges associated with developing a public-focused and community-engaged practice.
 
-**View the [archived presentation slides](https://drive.google.com/drive/folders/1IP6I-N_1Yqv1PjP3QmoNgj_z1VBN2s4E?usp=sharing)**
+<p class="text-center">
+ <a href="https://www.eventbrite.com/e/greater-boston-digital-research-and-pedagogy-2025-symposium-tickets-1271184851109" class="btn btn-template-main btn-lg" style="margin: 1rem;">
+ Register</a>
+</p>
+
+## <span style="color:#971b2f;">Location</span>
+
+**Boston Public Library - Central Library**  
+Friday, April 11, 2025  
+9:00am - 4:30pm  
+Select sessions hybrid   
+
+<a href="https://www.bpl.org/wp-content/uploads/sites/30/2023/04/01b_DirectoryMap_WebVersion_vJuly-2022_01.pdf" target=_blank>Map of the BPL [pdf]</a>
 
 ---
 
-## <span style="color:#971b2f;">8:30-9:00 AM</span>
+## <span style="color:#971b2f;">9:00 - 9:30 AM</span>
 ### Registration
-Location: Cohen Auditorium, Aidekman Arts Center
+Location: Commonwealth Salon (McKim, Level 1) - use the Boylston St. entrance
 
-Coffee and light breakfast will be available.
-
----
-
-## <span style="color:#971b2f;">9:00-10:15 AM</span>
-### Keynote Address
-Location: Cohen Auditorium, Aidekman Arts Center
-
-"Curating Digital Archives with Care: The Ethics of Representation, Description, and Access" 
-**[Recording](http://hdl.handle.net/10427/QJ72PN60N)**
-
-K.J. Rawson, Associate Professor of English and Women's, Gender and Sexuality Studies; Co-Director of NULab for Texts, Maps, and Networks, Northeastern University
-
-K.J. Rawson works at the intersections of the Digital Humanities and Rhetoric, LGBTQ+, and Feminist Studies. Focusing on archives as key sites of cultural power, he studies the rhetorical work of queer and transgender archival collections in brick-and-mortar and digital spaces. Rawson is founder and director of the [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/), an award-winning collection of trans-related historical materials, and he chairs the editorial board of the [Homosaurus](https://homosaurus.org/), an LGBTQ+ linked data vocabulary.
-
+Coffee and light breakfast
 
 ---
 
-## <span style="color:#971b2f;">10:30-12:00 PM</span>
-### Session 1A: Project Developments & Enhancements
-Location: The Austin Room (Tisch Library, 226)
+## <span style="color:#971b2f;">9:30 - 10:30 AM</span>
+### Welcome & Keynote: Roopika Risam
+Location: Rabb Hall (Boylston, Lower Level)  
 
-
-<li>
-<a class="modal-link" href="#presentation-1a-1">The History and Future of Northeastern University's Toolkit for Online Publication, CERES (Part 2)</a> &mdash; Patrick Murray-John (Northeastern University)
-
-<div id="presentation-1a-1" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>The history and future of Northeastern University's toolkit for online publication, CERES (Part 2)</h4>
-		<p>Patrick Murray-John (Northeastern University)</p>
-		<p> The Digital Scholarship Group at Northeastern University has long maintained a toolkit for easy web publication of materials held in our Digital Repository Service (DRS), the Community-Engaged Repository for Enhanced Scholarship (CERES). Built as a WordPress plugin and theme customization, it was designed to quickly and easily stand up a site for publishing narratives based on resources and metadata residing in the DRS (at least during the first stages of the toolkit’s development).</p>
-<p>Last year, I presented part 1, in which I discussed the major refactoring that we were undertaking to address a series of issues, including:
-<ul>	
-<li>Reliance on a limited number of data sources</li>
-<li>Difficulty in shoe-horning new features into the existing codebase</li>
-<li>Technical debt that had accrued over more than five years</li>
-<li>General weaknesses in sustainability and growth</li></ul>
-</p>
-<p>This year, I will provide a brief overview of the progress made on those and other issues. In particular, I will address our approaches to
-<ul>
-<li>Versatility and adaptability for new features and data sources</li>
-<li>Refactoring and modernizing the codebase while also developing new features</li>
-<li>Creating a greatly modernized user interface</li>
-<li>Addressing a major migration to the latest versions of PHP and WordPress</li></ul>
-</p>
-	</div></div>
-</li>
-
-
-
-<li>
-<a class="modal-link" href="#presentation-1a-2"> From Database to Research Platform: Revising <em>Mapping Color in History</em></a> &mdash; Tracy Stuber, Cole Crawford (Harvard University)
-
-<div id="presentation-1a-2" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>From Database to Research Platform: Revising Mapping Color in History</h4>
-		<p>Tracy Stuber (Harvard University), Cole Crawford (Harvard University)</p>
-		<p>Mapping Color in History (MCH) is a digital humanities project based at Harvard University that collects and contextualizes scientific analyses of pigments in Asian painting. It facilitates research into how, when, and why specific colors were used in artistic practices in specific regions, principally in South Asia and the Himalayas. This presentation describes the revision of core elements of the database’s data model to support MCH’s expansion in size and maturation into an interdisciplinary research platform.</p> 
-		<p>Centered on art objects, the MCH database depends on date, location, and pigment data to achieve its stated goal of mapping color in history. Usage of the database since its launch in 2022 revealed opportunities to improve how these data elements are captured and displayed. Specifically, revisions to the data model aim to enhance the representation and navigation of uncertain dates, mediate across differing levels of geographic specificity, and establish hierarchical relationships among pigments. The presentation both explains the data model revisions and explores the decision-making processes behind them. It emphasizes the project team’s efforts to balance technical capacities with the needs of different user groups, such as art historians and conservation scientists, and to convey the interpretive nature of the data without compromising usability. Finally, the presentation previews how ongoing work to implement the data model revisions in the website interface enhances MCH’s capacity to support interdisciplinary research.</p> 
-</p>
+<div class="row" style="display: flex;">
+	<div class="column" style="margin-right: 1rem;">
+		<img src="https://faculty-directory.dartmouth.edu/sites/faculty_directory.prod/files/styles/profile_portrait/public/faculty_directory/images/risam-new-headshot.jpg" width="200"/>
 	</div>
-
+	<div class="column">
+	Roopika Risam is Associate Professor of Digital Humanities and Social Engagement at Dartmouth. Her research focuses on data histories, ethics, and practices at intersections of postcolonial and African diaspora studies, digital humanities, and critical university studies. Risam is the author of New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy, and co-editor of multiple volumes, most recently Anti-Racist Community Engagement (2023) and The Digital Black Atlantic (2021). She is the director of the Digital Ethnic Futures Consortium, founding co-editor of Reviews in Digital Humanities, co-PI of Landback Universities, and co-president of the Association for Computers and the Humanities. Risam is finishing her second book, Insurgent Academics: A Radical Account of Public Humanities (Johns Hopkins University Press), and she is working on a trade book on data and empire. She recently received the 2023 Diversity, Equity, and Inclusion Award from the International Association for Research in Service Learning and Community Engagement. To learn more, please visit <a href="http://roopikarisam.com">http://roopikarisam.com</a>
+	</div>
 </div>
 
-</li>
+---
+## <span style="color:#971b2f;">10:30 - 10:45 AM</span>
+### Break
+
+---
+## <span style="color:#971b2f;">10:45 - 12:15 PM</span>
+
+<!-- Session 1A -->
+### AI, Open Scholarship and Access to the Human Record
+Location: Zoom & Commonwealth Salon (McKim, Level 1)
+
+
+<a class="modal-link" href="#crane-abowitz">AI, Open Scholarship and Access to the Human Record</a> &mdash; Gregory Crane, Sarah Abowitz, Alison Babeu, Peter Nadel, Charles Pletcher (Tufts University);
+James Tauber (Signum University); Clifford Wulfman (Princeton University Library)
+
+
+<div id="crane-abowitz" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>AI, Open Scholarship and Access to the Human Record</h4>
+        <p>Gregory Crane, Sarah Abowitz, Alison Babeu, Peter Nadel, Charles Pletcher (Tufts University);
+James Tauber (Signum University); Clifford Wulfman (Princeton University Library)
+</p>
+        <p>This panel reports on work exploring how a range of technologies has begun to transform our relationship to the human record. Translation can be viewed not as an impenetrable and authoritative record but as a gateway into the original source, whether or not we have been able to study the language. This new environment raises its own challenges and demands that readers cultivate a new set of critical skills so that they can properly assess what they encounter. Those critical skills are, however, an extension of the critical skills that we have cultivated in print culture, with the challenges posed by new digital environments reminding us that those skills are as important as ever.</p><p>We begin by discussing how non-specialists have used Large Language Models (LLMs) to work directly with untranslated sources in both pre-modern and modern languages. We now have access to multiple LLMS, both commercial and open source, all of which can provide not only translation but also grammatical explanations and translations for each word in a source. In the base model, careful readers compare the output from multiple systems to identify significant divergences and to see how effectively they can assess which (if any) provides the most useful interpretation. We report on performance for Ancient Greek, Latin, Classical Persian, Classical Arabic, and Classical Japanese.</p><p>AI can also contextualize a vast range of cultural artefacts now available to a global audience: films by Kurosawa at the Internet Archive, a 1940s Indian film about Alexander the Great in India, YouTube videos about Latvian history from a Latvian Pagan metal band. Students of classical works in various traditions around the world have developed, over thousands of years, methods by which to explain culturally alien sources to contemporary audiences. We report about research into these practices and about what we can learn from them as we train new AI-based systems to provide cultural context at scale to millions of sources in far more languages than any human can learn and than any university can currently teach.</p><p>We report also on the current status of work to aggregate the growing range of services and open data. This includes linguistic annotations, translations and word and phrase level alignments between translation and source texts, named entity classification and linking to authority lists, metrical analyses, links between transcriptions and images of manuscripts and other written sources, and time based alignments between transcriptions and performances. Content includes materials created by human beings, purpose built natural language processing pipelines (like spaCy), and LLMs. We also report on progress towards integrating credits for individual annotations produced by multiple sources from different projects and countries and weaving these into portfolios for individuals.</p><p>Finally, we report on how this work has shaped the development of, and now benefits from students within, a new Digital Humanities curriculum at Tufts University.</p>
+        <p>Gregory Crane is Professor and Chair of Classical Studies; Sarah Abowitz is a PhD student in Computer Science; Alison Babeu is Digital Librarian at Perseus; Peter Nadel is NLP and DH Specialist for Tufts Computing; Charles Pletcher is a developer and part time lecturer at Tufts; James Tauber is a preceport and scholar developer at Signum University; Cliff Wulfman works at the Princeton Library.</p>
+    </div></div>
+
+
+
+---
+<!-- Session 1B -->
+### Perspectives on Curricula Design for Digital Humanities Programs
+Location: Zoom & Kirstein Business Library & Innovation Center: The Exchange (Boylston, Lower Level)  
+
+<a class="modal-link" href="#connell-flanders">Perspectives on Curricula Design for Digital Humanities Programs</a> &mdash; Sarah Connell, Julia Flanders (Northeastern University); Melanie Hubbard, Antonio LoPiano (Boston College);  Mark Szarko, Ece Turnator (MIT)
+
+<div id="connell-flanders" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Perspectives on Curricula Design for Digital Humanities Programs</h4>
+        <p>Sarah Connell, Julia Flanders (Northeastern University); Melanie Hubbard, Antonio LoPiano (Boston College);  Mark Szarko, Ece Turnator (MIT)</p>
+        <p>At the recent ACH Greater Boston Area Hub, a discussion on Digital Humanities curricula as it relates to DH certificates and similar programs revealed substantial interest in the subject. In response, our roundtable, comprising representatives from Boston College, MIT, and Northeastern University, will address how we have approached DH curriculum design and how that approach fits within the structure and culture of our DH programs. To lead off the session, each presenter will share very brief details about the DH curricular programs at their institution. The roundtable members will then respond to both pre-circulated questions and questions from the audience, and audience participants will also be invited to share perspectives from their own institutions. Topics will include our perspectives on essential DH knowledge, skills building, navigating institutional and cultural complexities, and addressing students' current and future professional needs. Our intent is to make this an open and dynamic discussion.</p><p>Contributors to this session represent three institutions where digital humanities curricula are very differently positioned and organized. MIT has experimented with several approaches, from a Mellon-funded, Institute-supported Digital Humanities Lab to standalone courses. At Boston College, the Graduate Certificate in Digital Humanities program is a collaborative effort between the Libraries’ Digital Scholarship Group (DSG) and participating academic departments within the Morrissey College of Arts & Sciences. At Northeastern University, the digital humanities curriculum is sponsored by the NULab for Digital Humanities and Computational Social Sciences and is focused on a four-course graduate certificate in digital humanities, which is open to students enrolled in graduate programs at Northeastern and may also be taken as a standalone certificate.</p><p>This session will be an opportunity to explore how these curricula serve different student populations (undergraduate and graduate students from varied disciplinary areas) and different kinds of educational goals. It will also consider the institutional and logistical realities of designing and supporting programs like these: what kinds of courses and staffing are needed? What types of mentoring and support do students need outside the classroom? What kinds of preparation, if any, are students expected to have? What kinds of skills, tools, and methods are the focus of instruction?</p>
+        <p>Melanie Hubbard is Head of Digital Scholarship and Data Services and co-directs the Graduate Certificate in Digital Humanities at Boston College. Antonio LoPiano is Digital Humanities Program Specialist at Boston College Library. Ece Turnator is Humanities and Digital Scholarship Librarian at MIT. Mark Szarko is Librarian for Comparative Media Studies, Literature, Philosophy, and Theater Arts at MIT. Julia Flanders is Professor of Practice and Director of the Digital Scholarship Group at Northeastern University. Sarah Connell is Associate Director of the NULab for Digital Humanities and Computational Social Sciences, and Associate Director of the Women Writers Project at Northeastern University.</p>
+    </div></div>
+
+
+---
+<!-- Session 1C -->
+### Boston Black Women Lead: A Case Study of Community-Driven Local History Projects Utilizing Wikipedia toward Knowledge, Access, and Discovery
+Location: Orientation Room (McKim, Level 1)
+
+<a class="modal-link" href="#graphenreed-haruna">Boston Black Women Lead: A Case Study of Community-Driven Local History Projects Utilizing Wikipedia toward Knowledge, Access, and Discovery
+
+</a> &mdash; Tieanna Graphenreed (Boston Public Library); Halima Haruna (Northeastern University); Caitlin Pollock, Lawrence Evalyn (Northeastern University Library)
+
+<div id="graphenreed-haruna" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Boston Black Women Lead: A Case Study of Community-Driven Local History Projects Utilizing Wikipedia toward Knowledge, Access, and Discovery
+
+</h4>
+        <p>Tieanna Graphenreed (Boston Public Library); Halima Haruna (Northeastern University); Caitlin Pollock, Lawrence Evalyn (Northeastern University Library)</p>
+        <p>Boston Black Women Lead (BosBWL)  is a project proposed and led by Greater Grove Hall Main Streets (GGHMS) and supported by the Boston Research Center, a Mellon-funded partnership between Northeastern University Library and Boston Public Library's Community History department. BosBWL, builds off the banner initiative on Blue Hill Ave, to highlight and research Black women who have shaped and led Boston from the colonial times to now. This project looks to share information and share these women's works through the creation of Wikipedia articles that can support lifelong learning of folks in Grove Hall, Roxbury, and Mattapan but also nationally and globally with the wide reach of Wikipedia.</p><p>While this project's primary focus is to share the history of Black women leadership in Boston, and secondary purpose has been to contend with Wikipedia's knowledge gaps. Wikipedia’s problems of systemic bias are well known to scholars: it underrepresents both subjects and modes of knowledge-making that fall outside its classically white, male, and Western core demographic. And yet, in the age of AI, Wikipedia’s human-curated articles are more influential and vital than ever. The BosBWL Project asks the question of how community members can use Wikipedia to share knowledge about Black women in Boston? But also how can public libraries, universities, GLAM institutions, and cultural heritage institutions effectively address systemic bias and successfully disrupt racism both on and through Wikipedia?</p><p>This panel will engage audience members in a discussion about designing and maintaining a community public digital humanities efforts, like a Wiki-project.</p><p>Panelists will cover different aspects of this project sharing success, challenges, and lessons learned when community history meets a global community like Wikipedia.</p><p> 
+Tieanna Graphenreed will share the BosBWL project's aims and goals, including structural and cultural challenges encountered when bringing Black community history to Wikipedia. Caitlin Pollock will present on the strengths, challenges, and lessons learned of teaching local community history and Wikipedia for an undergraduate course. Halima Haruna will discuss creating a BosBWL Wikipedia-edit-a-thon toolkit and researching the lives of these women for public knowledge and Wikipedia. Lawrence Evalyn will explain Wikipedia’s “immune system” response to newcomers—an effect that can often alienate new contributors—and discuss proactive ways to overcome Wikipedia’s constraints.</p><p>Community histories are more influential and vital than ever. To the question of overcoming Wikipedia’s “immune system” response, community storytelling offers the potential for a cure.</p>
+        <p>Tieanna Graphenreed is the Community History & Digitization Specialist at Boston Public Library. She coordinates Boston Research Center (BRC), assisting in cultivating and maintaining relationships with select community organizations in East Boston, Chinatown, Roxbury, and the South End in order to develop community-driven research projects using archival and other historical materials. Tieanna holds a PhD in English from Northeastern University and is an independent scholar focused on expanding digital humanities research. Her research sits at the intersections of Black education histories, digital humanities, and critical geography. Tieanna is managing editor for Reviews in Digital Humanities.</p><p>Caitlin Pollock is the Associate Director of the Digital Scholarship Group at the Northeastern University Library. She coordinates digital research services and coordinates several digital projects including the Boston Research Center, a community history lab. She holds a Master of Science in Library and Information Science from Pratt Institute and a Master of Arts in Digital Humanities from Loyola University Chicago. Her research interests include Black digital humanities, humanities data, and DIY-making pedagogy. https://cmjpollock.com/</p><p>Halima Haruna is a Research Associate on the Boston Black Women Lead project. She is a PhD student in World History at Northeastern University in Boston where she works as a Digital Integration Teaching Initiative fellow, developing lesson modules on digital tools like Blender and Omeka and teaching them in undergraduate and graduate classes. Her research fields are in African-American history, African transnational history and public and digital history. She holds a Master of Arts in Research Architecture from Goldsmiths College, University of London.</p><p>Lawrence Evalyn is the Text Mining Specialist at Northeastern University Library in Boston. He holds a Ph.D. in English from the University of Toronto. His daily work supports computational textual research across domains; his scholarship focuses on women's writing, technological infrastructure, and the material histories of digital objects. He has also been a Wikipedia editor since 2016, where he has written seven designated Good Articles and reviews new articles for approval. <a href="https://lawrenceevalyn.com/">https://lawrenceevalyn.com/</a></p>
+    </div></div>
+
 
 ---
 
-### Session 1B: Community Storytelling
-Location: Digital Design Studio (Tisch Library, 3rd Floor)
+<!-- 1D --> 
+### ARK persistent identifiers: Affordable long-term citation and access to digital humanities scholarship
+Location: Zoom & Conference Room 2 (Boylston, Level M)
+
+<a class="modal-link" href="#kunze">Workshop: ARK persistent identifiers: affordable long-term citation and access to digital humanities scholarship</a> &mdash; John Kunze (Drexel University Metadata Research Center) 
+
+<div id="kunze" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Workshop: ARK persistent identifiers: affordable long-term citation and access to digital humanities scholarship</h4>
+        <p>John Kunze (Drexel University Metadata Research Center)</p>
+        <p>The average URL breaks in 100 days, which is a minor disaster for people who care about durable access to research products and scholarship in digital humanties. Links and citations that fail to access scholarship identified and preserved at great expense undermine all our preservation efforts, and it matters little whether linking to humanities publications, datasets, images, software, maps, training materials, or intangible objects such as vocabulary terms, historical figures, and general linked data.</p><p>This interactive tutorial workshop introduces ARK (Archival Resource Key) persistent identifiers. As non-paywalled PIDs (persistent identifiers, permalinks) for information objects of any kind, ARKs support web addresses that don't break (e.g., that don’t return 404 Page Not Found). ARKs are similar to DOIs used in traditional publishing in that they both were introduced over 24 years ago, exist in large numbers (8.2 billion ARKs, 257 million DOIs), and support research and scholarship, appearing in the Data Citation Index, Wikipedia, ORCiD.org profiles, etc.</p><p>In contrast, ARKs are cheaper, more flexible, and less centralized, letting providers create any kind of metadata and unlimited identifiers without paying for the right to do so, This is vital for under-resourced institutions in the global South.</p><p>Since 2001, billions of ARKs have been created by over 1500 organizations — publishers, libraries, data centers, archives, government agencies, and vendors. Citation-friendly ARKs identify anything digital, physical, or abstract. Important use cases include ARKs for fine art and natural history museums, physical samples, and genealogy. The tutorial includes hands-on experience and is for anyone interested in PIDs supporting nuanced persistence policies.</p>
+        <p>John Kunze is a pioneer in the theory and practice of digital libraries. With a background in computer science and mathematics, he wrote open source BSD Unix tools that come pre-installed with Mac and Linux systems.</p><p>He created the ARK (Archival Resource Key), a decentralized, non-paywalled persistent identifier scheme. Since 2001, 8.2 billion ARKs have been created by over 1480 organizations -- national libraries, universities, museums, archives, and journals.</p><p>He contributed heavily to the first standards for URLs (RFC1736, RFC1625, RFC2056), library search and retrieval (Z39.50), archival transfer (BagIt), web archiving (WARC), and Dublin Core metadata (RFC2413, RFC2731, ANSI/NISO Z39.85).</p>
+    </div></div>
 
 
-<li>
-<a class="modal-link" href="#presentation-1b-1">Digital Aesthetics and Creative Non-Violence: Case Studies from the Experimental & Civic Arts Lab at UNH</a> &mdash; Kevin Healey (University of New Hampshire)
+---
+<!-- 1E -->
+### Mapping in the Digital Humanities Roundtable: Open, Collaborative and Decolonizing Approaches
+Location: Leventhal Map & Education Center (McKim, Level 1)
 
-<div id="presentation-1b-1" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Digital Aesthetics and Creative Non-Violence: Case Studies from the Experimental & Civic Arts Lab at UNH</h4>
-		<p>Kevin Healey (University of New Hampshire)</p>
-		<p>This project examines methods for leveraging the creative arts to enact Martin Luther King, Jr.’s philosophy of non-violent resistance in a contemporary, social-mediated context. Though King’s principles of non-violent resistance remain politically relevant, today’s media ecosystem requires new forms of multimodal civic expression to enact them fully. With support from the Responsible Governance and Sustainable Citizenship Project (RGSCP) at University of New Hampshire (UNH), the Experimental & Civic Arts Lab is an experimental space for faculty and students to develop such methods of creative non-violent expression. Music composition, dance, documentary film, and video animation are the primary modalities for the Lab’s work. This talk will describe the Lab’s completed case studies, as well as our current projects, to demonstrate how creators can use digital tools to translate MLK’s six non-violent principles into contemporary arts-based social commentary. Subjects for the case studies include police brutality (a tribute to Tyre Nichols), political violence (the January 6 insurrection), and racialized disinformation (the defamation of Ruby Freeman and Shaye Moss). The HUGEmanities BIG Contest awarded the Lab first-place recognition for Innovative Design in 2022. The proposed presentation is based on a draft-in-progress article which argues that multi-modal art based on King’s six principles is especially effective in cutting through the hyper-partisanship of today’s commercial social media landscape. 
-		</p>
-	</div></div>
-</li>
+<a class="modal-link" href="#sankar-vo">Mapping in the Digital Humanities Roundtable: Open, Collaborative and Decolonizing Approaches</a> &mdash; Tarika Sankar, Khanh Vo, Elizabeth Yalkut (Brown University Library Center for Digital Scholarship)
 
-
-<li>
-<a class="modal-link" href="#presentation-1b-2">Oral Histories of Queerness in Post-war Sri Lankan</a> &mdash; Gowthaman Ranganathan (Brandeis University) 
-
-<div id="presentation-1b-2" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Oral Histories of Queerness in Post-war Sri Lankan</h4>
-		<p>Gowthaman Ranganathan (Brandeis University)</p>
-		<p> Gowthaman Ranganathan will present his ongoing collaborative oral histories project conducted with the Jaffna Transgender Network (JTN), a trans-led organization in Jaffna, Sri Lanka. JTN works for the rights and livelihood of queer and trans people with a focus on the ethnic minority Tamils. The oral histories project seeks to document how Tamil queer people survived, thrived, and resisted the heteronormative gender binary amidst the Sri Lankan civil war, its aftermath, and beyond. So far, collected life stories of older transfeminine Tamil performers and documented old photos, performance flyers, local media coverage of performances, and other public material. My talk will highlight the process and open a discussion on the best ways this project can be taken forward and presented. It will also open a discussion on best practices in conducting archival projects with vulnerable communities.  
-		</p>
-	</div></div>
-</li>
-
-<li><a class="modal-link" href="#presentation-1b-3">Herbal Marginalia Diaspora: A Community Mapping Project for Diasporic Gardening and Climate Anxiety</a> &mdash; Gökçen Erkılıç (Northeastern University)
-
-<div id="presentation-1b-3" class="modal">
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <h4>Herbal Marginalia Diaspora: A Community Mapping Project for Diasporic Gardening and Climate Anxiety</h4>
-    <p>Gökçen Erkılıç (Northeastern University)</p>
-    <p>This study will present the ideation of the ongoing project “Herbal
-Marginalia Diaspora” to archive and honor a Boston-based community garden.
-The garden is a local and diasporic place where plants are grown and spread
-from other climates and cultures worldwide. The project explores the role of
-digital humanities and mapping to sustain kinships among humans - plants -
-languages – and other places in the garden. It addresses anxieties of
-climatic extremes and the dislocation of communities forming diasporas. The
-project uses the model of a herbal as a facilitator. It is structured as a
-digital and physical herbal that brings together 3d scans of growing
-vegetables, as well as documentation of food recipes and medicinal remedies.
-The data is collected from the garden through interviews and research. The
-presentation will screen a short film and the outcomes of stage one. It will
-discuss the roles of digital humanities and mapping cosmopolitan ethics,
-inclusion, and care as a form of environmental justice.</p>
-  </div>
-
-</div>
-</li>
-
-<li>
-<a class="modal-link" href="#presentation-1b-4">A Puerto Rican and Connecticut Document Transcription Project: Testing Methodologies for a Digitized Collection </a> &mdash; Jennifer L. Schaefer (University of Connecticut)
-
-<div id="presentation-1b-4" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>A Puerto Rican and Connecticut Document Transcription Project: Testing Methodologies for a Digitized Collection</h4>
-		<p>Jennifer L. Schaefer (UConn)</p>
-		<p> The Puerto Rican and Connecticut Historical Documents Transcription Project at the UConn Library is  designed to increase access to some of the significant digital collections held by the UConn Library and  in the Connecticut Digital Archive (CTDA). This project compares two approaches to transcribing  handwritten documents: a crowd-sourced platform and a handwritten text recognition (HTR) automated  process. Using a “cheap, fast, good” framework, the project compares the price per page of the  transcription, the time involved in the process, and the quality of the final text. Including documents  from both Puerto Rico and Connecticut, in multiple languages, from multiple time periods, and of  varying digitization qualities enables us to analyze the suitability of these processes for different kinds of  handwritten materials. The presentation will share preliminary findings about the process of making  these documents more accessible for students, scholars, and the communities whose histories they  document.</p> 
-<p>The presentation also will consider the significance of the four collections. Scanning though selections of  the already digitized collections reveals the project’s potential to make a curricular and scholarly impact related to the main themes that motivate the court cases, records, correspondence, and diaries. How  did late nineteenth century women in Puerto Rico argue for rights to own property? How did free  persons of color in Connecticut navigate personal and professional barriers while sustaining family ties  across states? As the presentation will explore, transcription will allow researchers and students to both  ask and answer increasingly complex questions about both Puerto Rican and Connecticut histories. </p>
-	</div></div>
-</li>
-
-<li>
-<a class="modal-link" href="#presentation-1b-5">Biased Localization and Queer Erasure: The Ease With Which Queerness is Lost in Translation
-</a> &mdash; Spyridoula Potamopoulou (NYU Tisch School of the Arts) [online presenter]
-
-<div id="presentation-1b-5" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Biased Localization and Queer Erasure: The Ease With Which Queerness is Lost in Translation</h4>
-		<p>Spyridoula Potamopoulou (NYU Tisch School of the Arts)</p>
-		<p> Throughout the history of the medium, there has been a notable pattern of English localizations of video games actively removing queer text and subtext that is present in the original non-English language versions of the works. By virtue of its own nature, this form of queer erasure is not a well-known issue, as the people who are playing a game’s localized version are almost always doing so because they are incapable of experiencing it in its original language. They rely on the localization to be accurate, and have no way of verifying that without outside help or a great deal of effort, so changes made during the localization process go entirely unnoticed by the vast majority of players. This lack of visibility is compounded by the fact that even the few existing forums which discuss the topic of queer erasure via localization can be hard to find if you don’t know where to look, or that there’s even something to search for to begin with. Given the fact that this phenomenon persists into the present despite strides towards better representation in games, it is vital to raise awareness and encourage audiences to question who we trust to translate other cultures for us, and whether those people are treating their charges with the level of respect they deserve. This talk will illuminate some of the ways this issue has manifested over time by highlighting 3 games, <em>Animal Crossing</em> (2001), <em>Paper Mario: The Thousand Year Door</em> (2004), and <em>Splatoon 3</em> (2022), all of which had queer text or subtext removed or denounced by the same localizer, Nintendo of America. The contents of each game's various language releases will be compared, with an included discussion of statements made by employees on the localization teams that informs the rationale behind certain decisions.
-		</p>
-	</div></div>
-</li>
+<div id="sankar-vo" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Mapping in the Digital Humanities Roundtable: Open, Collaborative and Decolonizing Approaches</h4>
+        <p>Tarika Sankar, Khanh Vo, Elizabeth Yalkut (Brown University Library Center for Digital Scholarship)</p>
+        <p>The spatial humanities answers the “why” in the “where” in the humanities. While not all geospatial technologies extend beyond their qualitative uses, mapping and the spatial turn in DH can and does produce methods and practices that recognize the reciprocal influences that geographic and constructed spaces have on culture and society.</p><p>This panel will showcase three projects from the Center for Digital Scholarship at Brown University that incorporate digital mapping to create and represent public-facing archives, stories, and databases. Each project demonstrates a slightly different approach to digital mapping and technologies based on the goals and needs of the project, which included community engagement, decolonizing approaches, and cross-institutional collaboration.</p><p>The Stolen Relations project is a community-centered database project that seeks to illuminate and understand the role that enslavement of Indigenous peoples played in settler colonialism over time. Alongside stories and oral histories, mapping visualizes biographical information related to enslaved Indigenous people while recognizing that these Indigenous nations are still here, in New England and all across the Americas.</p><p>In and Out of Place uses a decolonizing, collaborative and Lakotan-centered approach to map scientific and military expeditions that entered the 1868 Treaty Territory in the Black Hills region. The project is a prototype StoryMap tracking Custer’s and other expeditions’ day-by-day travels across Treaty lands, contextualized with newspaper reports, journal entries, and other primary sources. In and Out of Place aims to generate interest and conversation among Lakotan and other Indigenous communities impacted by this history.</p><p>U2 Aerial Photography of Egypt aims to digitize a series of recently declassified aerial photographs that document the Nile Delta and Nile Valley. These images, mapped using Leaflet.js, provide an invaluable view of a landscape prior to the extensive expansion of agriculture and urban development in Egypt that, over the past six decades, has significantly altered the ability to see earlier material remains.</p><p>The projects apply critical questions to the planning, building, and preservation of digital work as well as explore the limitations of mapping tools like ArcGIS and their sometimes incompatibility with humanities data and community-engaged practices. The diversity of approaches to mapping showcased by these projects demonstrates that mapping in digital humanities is rarely one-size-fits-all. By placing these mapping projects in conversation, we hope to highlight the range of tools and methods available today for digital mapping projects and developments in the field of spatial humanities.</p>
+        <p>Tarika Sankar is Digital Humanities Librarian at CDS and critical scholar of Indo-Caribbean diaspora, Caribbean literature, race and ethnic studies, and digital humanities. She was a research assistant on the What Every1 Says Project, a Community Leader at the Digital Humanities Research Institute, and a collective member at Ro(u)ted By Our Stories, a digital oral history archive of marginalized voices within the Indo-Caribbean community. Tarika holds a PhD in English from the University of Miami and earned a Graduate Certificate in Digital Humanities. Her dissertation project, “Beyond the Culture Concept: Indo-Caribbean Identity as Diasporic Consciousness,” received a Mellon/ACLS Dissertation Completion Fellowship.</p><p>Khanh Vo is the Digital Humanities Specialist at CDS. Her background is in American Studies, specializing in American history, STS, the digital and spatial humanities, and machine labor as it pertains to questions of race, gender, and design. Prior to Brown, she was the Postdoctoral Fellow at the University of Toronto’s Jackman Humanities Institute and Critical Digital Humanities. She has a PhD in American Studies from William & Mary.</p><p>Elizabeth Yalkut is the front-end developer at CDS. She focuses on accessibility and universal design, component-based design approaches, and collaborative coding. Previously, she was the senior front-end developer at Harvard Medical School, and also worked as a developer at Columbia University and the digital agency Threespot. She has a B.A. in history from Barnard College, Columbia University.</p>
+    </div></div>
 
 ---
 
-### Session 1C: Computational Approaches in Image & Text
-Location: The Data Lab (Tisch Library, 203)
-
-
-<li>How Large Language Models (Don’t) Handle the Uneven Digitization of Historical Literature &mdash; Lawrence Evalyn, Hunter Moskowitz (Northeastern University)</li>
-
-<li><a class="modal-link" href="#presentation-1c-2">Toward Computational Economic Humanities</a> &mdash; Kyhl Stephen (Cornell University)
-<div id="presentation-1c-2" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Toward Computational Economic Humanities</h4>
-		<p>Kyhl Stephen (Cornell University)</p>
-		<p>This talk is a continuation of a project begun in 2023 for the Cornell University Library Summer Digital Humanities Fellowship. I explore the possibilities and pitfalls of utilizing topic modeling to bridge between the nascent subfield of economics called “narrative economics” and the nascent subfield of literary studies called “the economic humanities.” Narrative Economics proposes that “narratives” have real economic consequences as specific ideas proliferate, but pays little heed to formal/generic distinctions or textual proliferation and preservation. The Economic Humanities approaches this problem from the other end, exploring how contingent textual practices and representational tools shape economic reality, but lacks natural tools for tracing the effects of these texts. In this project, I offer attitudes toward business corporations as a case study for how topic modeling can relate these sub-disciplines. Taking broad generic distinctions as given during the short period between 1895 and 1927, I disaggregate two sub-corpora consisting of (1) the bestselling novels during the period, and (2) business periodicals, tracing how different discourses of corporations are empowered or sidelined by received regimes of textual distinction. This project seeks to place reading practices within economic history. Topic modeling, however, has shortcomings when operating across genre in this way. Because novels tend to locate social critique in specific interactions between characters, plot, or aesthetic commitments—specific and embodied rather than abstract—the clusters of words produced by topic modeling tend to miss the economic content of works of fiction.</p>
-	</div></div>
-</li>
-
-<li><a class="modal-link" href="#presentation-1c-3">Using word embedding models to trace the construction of British anti-Muslim racism during the 1857 rebellion in colonial India</a> &mdash; Colleen Nugent (Northeastern University)
-<div id="presentation-1c-3" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Using word embedding models to trace the construction of British anti-Muslim racism during the 1857 rebellion in colonial India</h4>
-		<p>Colleen Nugent (Northeastern University)</p>
-		<p>This project uses digital methods to chart the construction of modern British anti-Muslim racism, specifically the idea that Islam is inherently 'fanatical' and ‘violent’. The 1857 Rebellion, at the time referred to as the Indian Mutiny, was a landmark event that ignited fervent discourse and debate within metropolitan Britain on Islam and the place of Muslims within the empire. The existing historiography demonstrates strong but piecemeal evidence that the Rebellion was a watershed moment when the language about Muslims changed to be much more associated with fanaticism and violence. Using a plain text corpus of every issue of The Times of London from 1856 to 1859, this project analyzes the frequency and content of discourse around Islam. Specifically, I use word embedding models to argue that the rebellion in 1857 was a pivotal moment that shaped British public opinion and led to a close association of Islam with fanaticism. </p>
-	</div></div>
-</li>
-
-<li>
-<a class="modal-link" href="#presentation-1c-4">Topic Modeling in the Age of Artificial Intelligence</a> &mdash; Peter Nadel, Rosemary Taylor, Kyle Monahan (Tufts University)<div id="presentation-1c-4" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Topic Modeling in the Age of Artificial Intelligenc</h4>
-		<p>Peter Nadel, Rosemary Taylor, Kyle Monahan (Tufts University)</p>
-		<p> Topic modeling has been an enticing approach to large datasets for researchers in the social sciences and humanities. Our Guided Topic Modeling (GTM) approach seeks to employ a large language model to mediate a natural language description of a researcher’s theory and high dimensional representations of document chunks. Our case study examines the complex discursive process by which diseases acquire identities. First, we explore the meaning of the concept ‘disease identity’ drawing on the secondary literature in several disciplines. Second, we employ the resultant theoretical insights in a comparative study of how perceptions of two viruses, Hepatitis C and HIV, and the people who suffer from them, evolve over time in both the US and UK. We draw on multiple sources of data, including primary documents from archival research, testimonies to Public Inquiries, press reviews in both countries, and oral histories/interviews. A general framework for how to apply GTM will be provided to attendees via a GitHub repository.
-		</p>
-	</div></div>
-</li>
-
-<li><a class="modal-link" href="#presentation-1c-5">Evaluating the Evaluators: How Should Critical AI Engage with Image Aesthetic Quality Assessment?</a> &mdash; Samuel Goree (Stonehill College)
-
-<div id="presentation-1c-5" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Evaluating the Evaluators: How Should Critical AI Engage with Image Aesthetic Quality Assessment?</h4>
-		<p>Samuel Goree (Stonehill College)</p>
-		<p>Over the past two decades in computer vision, researchers have developed machine learning approaches to the problem of “image aesthetic quality assessment” — automatically rating the aesthetic quality of a photograph — using machine learning-based nonlinear regression models, often based on deep convolutional neural networks. Despite the impossible subjectivity of the task, these models achieve high scores on benchmark datasets and some have been integrated into smartphone cameras and AI image generators, representing a new era in the history of photography. So have these scholars developed a true beauty equation? And how might critics of AI respond?</p> 
-<p>I claim that we cannot simply dismiss aesthetic quality assessment as misguided or nonsensical; instead we must critically engage with this research area. Drawing on James Dobson’s recent book, <em>The Birth of Computer Vision</em>, my talk will explore the genealogy of image aesthetic quality assessment, how it represents the artistic consequences of a cold war view of human visual experience, conflated with a social media-inspired definition of the aesthetic. Second, I report the results of a study, previously published at AAAI 2023, which questions the way authors in computer vision engage with subjective difference in the development of personalized aesthetic quality assessment algorithms. Finally, I describe ongoing work on a smartphone application designed to turn these aesthetic quality assessment algorithms from disembodied AI critics into tangible objects of critique.</p>
-	</div></div>
-</li>
-
----
-## <span style="color:#971b2f;">12:00-1:00 PM</span>
+## <span style="color:#971b2f;">12:15 - 1:00 PM</span>
 ### Lunch
-
-Buffet style lunch will be available in the library lobby.
-
-Student lunch with K.J. Rawson in the Austin Room (226), all students are welcome to join. 
+Location: Commonwealth Salon (McKim, Level 1)
 
 ---
-## <span style="color:#971b2f;">1:10-2:40 PM</span>
-### Session 2A: Digital Storytelling with Cartographic Collections (Workshop)
+## <span style="color:#971b2f;">1:00 - 2:15 PM</span>
 
-Location: The Data Lab (Tisch Library, 203)
+<!-- 2A -->
 
-<li>
-<a class="modal-link" href="#map-workshop">Digital Storytelling with Cartographic Collections</a> &mdash; Ian Spangler, Emily Bowe (Leventhal Map & Education Center at the Boston Public Library)
+### The Endings Project: Principles and Recommendations Concerning Digital Longevity
+Location: Zoom & Commonwealth Salon (McKim, Level 1)
 
-<div id="map-workshop" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
+<a class="modal-link" href="#clark-connell">The Endings Project: Principles and Recommendations Concerning Digital Longevity</a> &mdash; Ash Clark, Sarah Connell, Julia Flanders (Northeastern University)
 
-<h4>Digital Storytelling with Cartographic Collections</h4>
-<p>Ian Spangler, Emily Bowe (Leventhal Map & Education Center at the Boston Public Library)</p>
-
-<p>Using maps to interpret and narrate historical change is a common approach of digital humanities (DH) scholars. While tools like ArcGIS StoryMaps provide rich interfaces for doing so, they are inaccessible (e.g., proprietary) and quite expansive. At the Leventhal Center, we’ve released a tool called <a href="https://cartinal.leventhalmap.org/documentation/panel-truck.html"><em>panel-truck</em></a>, purpose-built for DH researchers who are interested in using digital methods to use historical maps in their scholarship and storytelling. A Vue application that leverages open standards like the IIIF protocol, <em>panel-truck</em> is a web UI tool for creating <a href="https://www.leventhalmap.org/articles/braccio-winthrop-map/">interactive storylines using images and maps.</a> It's especially useful for libraries and museums that want to create linear narrations on top of one or multiple deep-zoomable objects. <em>panel-truck</em> supports IIIF, static images, and tiled web map layers as sources. It is trivial to embed into an existing web site and requires only a simple JSON file to construct a presentation. In this workshop, participants will learn how to create <em>panel-truck</em> presentations using a GUI called <a href="https://lmec-screenplay-studio-dev.netlify.app/">Screenplay Studio.</a> They will also learn some basic details about the underlying metadata standards and protocols upon which panel-truck is built. By the end of the session, attendees will have a working draft of a panel-truck presentation that they can customize to their liking. We anticipate that the workshop will be most useful to DH scholars and researchers whose work can be enriched through close examinations of old maps. Participants will need laptops or computers, internet access, and should be comfortable navigating downloading the application <a href="https://code.visualstudio.com/download">Visual Studio Code</a> onto their personal computers.</p>
-
-<p>Ian Spangler is a cultural & economic geographer with interests in digital mapping, housing studies, and race & landscape in the US. As Assistant Curator of Digital & Participatory Geography at the Leventhal Center, he manages the Center’s digital mapping initiatives and born-digital collections development strategy. He also teaches Introduction to Geospatial Humanities at Tufts University. He earned his BA in English & Geography from the University of Mary Washington, and his MA and PhD in Geography from the University of Kentucky.</p>
-
-<p>Emily Bowe is a designer, cartographer, and researcher with interests in maps, urban infrastructure, and community data practices. As Assistant Director at the Leventhal Center, Emily oversees gallery operations, exhibition design, and public programming. She graduated from Parsons School of Design at The New School with an MS in Design and Urban Ecologies and from the University of North Carolina at Chapel Hill as a Morehead-Cain Scholar with a BS in Environmental Science and Geography.</p>
-</div></div>
-</li>
-
----
-
-### Session 2B: Modeling Historical Places
-
-Location: Tisch Library 223
-
-<li>
-<a class="modal-link" href="#presentation-2b-1">Pedagogical Approaches to Integrating 3D Imaging and 3D Printing in Cultural Heritage Studies</a> &mdash; Otto Luna; Ivo van der Graaff (University of New Hampshire)
-<div id="presentation-2b-1" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Pedagogical Approaches to Integrating 3D Imaging and 3D Printing in Cultural Heritage Studies</h4>
-		<p>Otto Luna (University of New Hampshire); Ivo van der Graaff (University of New Hampshire)</p>
-		<p>Although under continuous development, 3D printing and 3D imaging technologies are now well established tools in cultural heritage studies. Nevertheless, pedagogical approaches and their  implementation in the classroom are still catching up as these tools become more powerful. This  presentation discusses the innovative integration of 3D technologies within undergraduate courses at  the Department of Art and Art History, University of New Hampshire. Our approach engages students in  digital applications, fostering deeper understanding and appreciation of ancient artifacts and  architectural structures.</p> 
-<p>In one course, students explored 3D imaging techniques by capturing detailed scans of ancient artifacts  from the Museum of Fine Arts, Boston. Leveraging software like Photoshop, they meticulously restored  polychromies to breathe life into these historical treasures. Subsequently, employing 3D printing,  students materialized their digital restorations, bridging the gap between virtual and tangible  representations.</p> 
-<p>Another course centered on Roman architecture leveraged SketchUp, a 3D modeling software, as a tool  for reconstruction. Students meticulously reconstructed ancient monuments, fostering critical analysis  and understanding of architectural principles. Moreover, students met in Virtual Reality spaces where  they conducted group discussions of buildings they modeled at one-to-one scale. The virtual spaces provided an immersive learning experience, enabling students to engage with historical structures in  unprecedented ways.</p> 
-<p>This presentation highlights the transformative impact of digital technologies on pedagogy in cultural  heritage studies. By integrating 3D printing, imaging, and modeling tools, educators can empower  students to explore, analyze, and interact with cultural artifacts and historic structures fostering a  deeper connection with the past. Our approach exemplifies the potential of digital humanities to  revolutionize traditional teaching methods, offering a dynamic and immersive educational experience.</p>
-	</div></div>
-</li>
-
-
-<li>
-<a class="modal-link" href="#presentation-2b-2">Working with 3D Models in Space and Time</a> &mdash; Andrew Maurer (Imaging Center, Smith College)
-
-<div id="presentation-2b-2" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Working with 3D Models in Space and Time</h4>
-		<p>Andrew Maurer (Imaging Center, Smith College)</p>
-		<p>This talk presents an in-progress software framework intended to help digital humanities teams build interactive experiences with 3D models, specifically with 3D models depicting changes to a space or object over time. Using examples from related projects, the presentation looks at practical and conceptual considerations that may arise with such projects and describes how the framework can address these issues and be adapted to new needs. The talk includes an example workflow for building 3D models based on historical sources, discussing how to keep models organized in both space and time and how to construct models in a way that facilitates their use in a real-time game engine. The cases discussed focus on 3D models of historic buildings, though the framework can be used with any group of 3D models representing the same space or object as it existed at different points in time. The framework is a library of code for the Unity game engine begun by Professor Nicola Camerlenghi at Dartmouth College as the basis for his interactive presentation of the Basilica of Saint Paul’s Outside the Walls in Rome. </p>
-	</div>
-
-</div>
-
-</li>
+<div id="clark-connell" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>The Endings Project: Principles and Recommendations Concerning Digital Longevity</h4>
+        <p>Ash Clark, Sarah Connell, Julia Flanders (Northeastern University)</p>
+        <p>The Endings Project at the University of Victoria has established a set of principles and recommendations concerning “digital longevity”: how to plan and build digital projects in ways that anticipate and ease their eventual conclusion. The Women Writers Project at Northeastern University came to these principles late, but as part of sustainability planning has recently assessed them in relation to the needs of larger digital publication projects, using the WWP publications as test cases. This three-paper session will report on our technical analysis and adaptation of the Endings principles, the implications for the WWP's publications, and the implications for the larger set of projects supported by the Northeastern University Digital Scholarship Group. 
+ 
+The session will begin with a presentation by Ash Clark focusing on the technical rationale for the Endings Principles and what they are designed to achieve. This presentation will consider how specific components (such as databases, search systems, code libraries, and stylesheets) function and how they affect the longevity and resource consumption of digital projects. It will also lay out the types of static-site approaches that the Endings Project recommends, and lay a conceptual groundwork for the other two presentations. 
+ 
+The second presentation, by Sarah Connell, will focus on the Women Writers Project’s analysis of the Endings Principles, and in particular on how the WWP is moving towards applying these principles to WWP publications as part of the project’s long-term sustainability planning. These publications were designed to make the most of large-scale, dynamic data sets and to enable complex forms of data analysis and visualization. In their current form, although the data has been designed with the Endings Principles strongly in mind, these publications rely on tools such as XML databases and external code libraries which are deprecated by the Endings Principles. They also rely on specific expertise profiles of staff who have been with the project for many years and in some cases decades, but who now are close to retirement. The presentation will take a close look at how the WWP is planning to rearchitect and scale back the technical complexity of its publication platforms, and move the project away from reliance on specific individuals. 
+ 
+The third presentation, by Julia Flanders, will discuss how these issues play out in the larger context of the Digital Scholarship Group. In keeping with the Endings Principles, DSG has generally placed emphasis on high-quality data as the basis for project design and life-cycle planning, but the group is now considering how to manage the use of platforms including WordPress, Omeka, and static-site systems in ways that enable the data to speak effectively through platforms, move gracefully between platforms, and remain visible even after the project is no longer being actively supported.</p>
+        <p>Ash Clark is the XML Applications Developer in the Digital Scholarship Group at Northeastern University. Sarah Connell is Associate Director of the NULab for Digital Humanities and Computational Social Sciences, and Associate Director of the Women Writers Project at Northeastern University. Julia Flanders is Professor of Practice and Director of the Digital Scholarship Group at Northeastern University.</p>
+    </div></div>
 
 
 ---
 
-### Session 2C: DH Tools & Pedagogy
+<!-- 2B --> 
+### How to Build a Framework for Digital Ethnic Courses with Limited Funding
+Location: Zoom & Kirstein Business Library & Innovation Center: The Exchange (Boylston, Lower Level)
 
-Location: Tisch Library 304
+<a class="modal-link" href="#doyen-rod">Workshop: How to Build a Framework for Digital Ethnic Courses with Limited Funding</a> &mdash; Alicia Doyen-Rodríguez (University of Massachusetts Boston), Tarika Sankar (Brown University)
 
+<div id="doyen-rod" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Workshop: How to Build a Framework for Digital Ethnic Courses with Limited Funding</h4>
+        <p>Alicia Doyen-Rodríguez (University of Massachusetts Boston), Tarika Sankar (Brown University)</p>
+        <p>Workshop Overview
+In this workshop I will detail in a very practical manner the process of integrating digital humanities tools and methodologies into college-level courses, a step toward creating a more dynamic and interdisciplinary curriculum for Humanities majors with a focus on ethnic and cultural studies. I will draw on my experience as the recipient of a 5,000$ “Capacity-Building” grant from the Digital Ethnic Futures Consortium (DEFCon) and how I directed the University of Massachusetts – Boston’s successful project to design and implement digital ethnic courses. I expect participants to learn how to maximize and stretch limited resources to incorporate digital technologies into their own teaching practices. I will share with participants free digital resources, grant opportunities, and a framework to develop their own DH curriculum project. Target Audience: Faculty members, curriculum developers, digital humanities specialists, and educational administrators interested in integrating digital tools into ethnic and global cultural studies.</p><p>Learning Objectives
+By the end of the workshop, participants will:
+- Understand how to budget and fund their effort to build digital humanities courses and curriculum.
+- Gain specific knowledge around which digital tools we use for course development, including digital mapping, text analysis, and building digital archives (with examples from our own workshop series).
+- Explore methods for collaborating with interdisciplinary teams to design inclusive and innovative course content.
+- Learn practical strategies for overcoming challenges in curriculum development and faculty collaboration.</p>
+        
+   </div></div>
 
-<li>
-<a class="modal-link" href="#presentation-2c-1">Digital Humanities and Rare Books</a> &mdash; Micah Saxton, Christopher Barbour (Tufts University)
-<div id="presentation-2c-1" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Digital Humanities and Rare Books</h4>
-		<p>Micah Saxton, Christopher Barbour (Tufts University)</p>
-		<p>In this individual talk I will discuss a unique class session in which the Introduction to Digital Humanities course at Tufts University makes use of the rare book collection at Tisch Library. The class session had three learning goals: (1) Students gain an understanding of the history of physical books from the 13th to the 20th centuries; (2) Students contextualize the work they have been doing with digital texts in light of a larger material textual tradition; (3) Students learn to encode paratextual material from print books into TEI format. I close the individual talk with some reflections on what has worked in this class session and what could be done to improve it as well. It is my hope that this presentation will prompt further discussion about how digital humanities instructors can engage with other campus partners, such as a Special Collections department, to further enrich student experiences in DH.
-		</p>
-	</div></div>
-</li>
-
-
-<li>
-<a class="modal-link" href="#presentation-2c-2">The Battle of the Bogside in Three Parts: A Spatial Analysis of the Start of the Troubles</a> &mdash; Kasya O'Connor Grant (Northeastern University) [online presenter]
-
-<div id="presentation-2c-2" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>The Battle of the Bogside in Three Parts: A Spatial Analysis of the Start of the Troubles</h4>
-		<p>Kasya O'Connor Grant (Northeastern University)</p>
-		<p> “<a href="https://bogsideinthreeparts.wordpress.com/">The Battle of the Bogside in Three Parts: A Spatial Analysis of the Start of the Troubles”</a> is an online learning tool centered around the 1969 clash between Derry, Northern Ireland residents and law enforcement. The project addresses a high school audience and encourages students to consider the relationship between space, identity, and power during times of state-sanctioned violence. Through a combination of maps, media, and storytelling depicting the event, users can explore the spatial dimensions of power and control.</p><p> 
-The project is structured around three maps, all of which were created using Google MyMaps, a free and widely used mapping resource. The first, ‘<a href="https://bogsideinthreeparts.wordpress.com/beforethebattle/">Before the Battle</a>,’ provides students with the context in which the Battle of the Bogside took place. It allows users to explore gerrymandering, major sites of unrest, and the beginnings of Derry’s civil rights movement. The second map, ‘<a href="https://bogsideinthreeparts.wordpress.com/thebattle/">Battle of the Bogside</a>,’ displays locations of major clashes between the Bogside residents, Loyalists, and law enforcement over the course of the two days. This map introduces students to the concept of the inversion of space with law enforcement’s invasion of the homes of the residents. The third and final map, ‘<a href="https://bogsideinthreeparts.wordpress.com/afterthebattle/">After the Battle</a>,’ allows students to explore the makeshift barricades (and other forms of boundary/border creation) that the Bogside residents used to create ‘Free Derry’ - a self-governed zone. This section encourages students to consider the anti-colonial characteristics of the reclamation of public space by marginalized citizens.
-		</p>
-	</div></div>
-</li>
-
-<li>
-<a class="modal-link" href="#presentation-2c-3">Spatial Tools for Spatial Stories</a> &mdash; Melisa Argañaraz Gomez, Rob Walsh, Katie Fiducia, (University of Connecticut) [hybrid presenter]
-
-<div id="presentation-2c-3" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>patial Tools for Spatial Stories</h4>
-		<p>Melisa Argañaraz Gomez, Rob Walsh, Katie Fiducia, (University of Connecticut)</p>
-		<p> This presentation will discuss a collaborative approach between UConn Library and the UConn Urban and Community Studies department to introduce undergraduate students in URBN 2000 (Introduction to Urban and Community Studies) to GIS and geospatial concepts through the lens of a digital storytelling assignment. For this assignment, students are being asked to integrate various forms of information about a place, including scholarly literature, video, images, fictional stories, and maps, to creatively tell the story of a neighborhood or city of their choice. To demonstrate how students can use various tools to tell their stories spatially, they were introduced to ArcGIS Online, ArcGIS StoryMaps, and StoryMaps JS over the course of two workshops and one lab session. The objectives of these session visits were to:<ul>
-			<li>Introduce the basic concepts of GIS, including asking spatial questions, map/information literacy, and geospatial data models.</li>
-			<li>Demonstrate the various uses of these tools and discuss how they can be used to tell spatial stories.</li>
-			<li>Give students the opportunity to try these tools out through guided tutorials and in-class lab time.</li></ul>
-			The presentation will review the instructional planning process and observations during instruction, student outcomes and feedback from these course visits and their assignment, lessons learned, and how we plan to expand upon our experience this semester. By sharing this experience, we hope to encourage others to introduce students to geospatial storytelling and expand conversations on best practices to pedagogical approaches to GIS and urban studies.
-		</p>
-	</div></div>
-</li>
-
-<li><a class="modal-link" href="#presentation-2c-4"> Recent Approaches to Digital Mapping Instruction at Boston College</a> &mdash; Antonio LoPiano, Ashlyn Stewart (Boston College)
-<div id="presentation-2c-4" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Recent Approaches to Digital Mapping Instruction at Boston College </h4>
-			<p>Antonio LoPiano (Boston College), Ashlyn Stewart (Boston College)</p><p>The Boston College Libraries recently renewed its commitment to digital humanities by hiring an interdisciplinary group to support Digital Scholarship research and instruction across campus.  In our pedagogy-focused talk, two members of our team will discuss how we collaborated with colleagues across the library to identify opportunities, how we built buy-in with faculty, and how we ultimately succeeded in sharing digital humanities tools with undergrads.  Our talk will highlight one class that was a particular sxuccess.  In this upper-division African and African Diaspora Studies course, we incorporated tools that are often used for quantitative research (including ArcGIS) to help undergrads showcase their learning with a humanities-driven digital final project instead of a traditional research paper. The final projects united textual, multimedia, and spatial data into one public-facing package, allowing students to synthesize different research efforts and consider how to present their findings on the web.</p>
-	</div></div>
-</li>
-
-<li>
-<a class="modal-link" href="#presentation-2c-5"> Keywords as Transdisciplinary Method: A Pedagogical Reflection</a> &mdash; Juniper Johnson, Galen Bunting (Northeastern University)
-
-<div id="presentation-2c-5" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Keywords as Transdisciplinary Method: A Pedagogical Reflection</h4>
-		<p>Juniper Johnson (Northeastern University), Galen Bunting (Northeastern University)</p>
-		<p>In 1976 in <em>Keywords: A Vocabulary of Culture and Society</em>, Raymond Williams proposed a novel use of <em>keywords</em> to describe “a record of an inquiry into a vocabulary” (15) and conceptualized a genre of understanding specialized knowledge for a general audience. <em>Keywords</em> serve as a concept and technical function, and are used across academic disciplines and specialities to organize information and concepts. As a technical term or function within systems of knowledge organization, <em>keywords</em> (and related subject terms or subject headings) are an important topic of discussion, debate, and development within digital humanities and digital scholarship, and assist in creating metadata and linked analyses. In advanced writing classrooms across the disciplines, with students from all different majors and minors, we use <em>keywords</em> as a method to approach and talk about transdisciplinary work, research practices, and information systems. In this presentation, we will discuss how we have structured discussions on <em>keywords</em> as a means of introducing students to methods of organizing information and performing research in writing classrooms. We will also discuss how keywords are featured in our own research, shaping pedagogies and methods across disciplines and digital proficiencies. We will reflect on our experiences using this framework to discuss tools for digital pedagogy and as a means to offer additional research methods for our students. We will conclude with key takeaways for understanding <em>keywords</em> as technical and semantic concepts in the classroom and beyond.</p>
-	</div></div>
-</li>
 
 ---
-## <span style="color:#971b2f;">2:50-4:20 PM</span>
-### Session 3A: AI, Machine Actional Publication and Assigning Credit
+<!-- 2C -->
 
-Location: Tisch Library 223
-
-Greg Crane, Caroline Koon, Laetitia Maybank, Christopher Petrik, Alicia Tu, Peter Nadel, Micah Saxton (Tufts University), James Tauber (Signum University)
-
----
-### Session 3B: AI & Pedagogy
-
-Location: Tisch Library 304
-
-
-<li>From a menace to academic integrity to an opportunity for academic innovation: How to use ChatGPT in the history classroom &mdash; Shu Wan (University at Buffalo) [online presenter]</li>
-
-<li>Experiments with chatGPT and Undergraduate Teaching: Themes from Text Analysis in DH Courses &mdash; Katherine Ireland (University of Georgia) [online presenter]</li>
+### AI Tools and Strategies for Interdisciplinary Collaboration, Legal Access, and News Analysis  
+Location: Orientation Room (McKim, Level 1)
 
 <li>
-<a class="modal-link" href="#presentation-3b-3">Engaging Undergraduates and High School Students in the Study of Predictive AI</a> &mdash; Ella Howard (Wentworth Institute of Technology)
+<a class="modal-link" href="#nadel-weinberg">AI for Accessible Justice: An Affordable and Transparent Legal Solution</a> &mdash; Peter Nadel, Jill Weinberg (Tufts University)
 
-<div id="presentation-3b-3" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Engaging Undergraduates and High School Students in the Study of Predictive AI</h4>
-		<p>Ella Howard (Wentworth Institute of Technology)</p>
-		<p> Artificial Intelligence structures much of our existing world and promises to play an increasingly dominant role in the years to come. As a result, all undergraduate students need to learn not only how it works but also how to navigate its complex ethical landscape. While Computer Science students who work with AI gain certain knowledge about the technical aspects of these platforms, even they are rarely given the opportunity to study the bigger picture issues surrounding the technology. Students in other fields, by contrast, often read abstract musings on AI without a real understanding of the practical aspects of the subject.</p>
-<p>In this presentation I will share my experience working with rising junior and senior high school students using a curriculum package that lets them create a predictive app on a topic of their choice without programming knowledge. By grounding this exercise in study and discussion of relevant ethical, political, economic, and social themes, we can offer students from any background a robust understanding of this type of AI.</p>
-	</div></div>
+<div id="nadel-weinberg" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>AI for Accessible Justice: An Affordable and Transparent Legal Solution</h4>
+        <p>Peter Nadel, Jill Weinberg (Tufts University)</p>
+        <p>This paper presents results of research assessing the efficacy of a novel, transparent LLM designed to analyze legal contracts, specifically social media Terms of Use agreements. Using a large language model (LLM) trained on legal materials, this research incorporates unique interpretability tools that explicitly demonstrate its decision-making process to end users. The research also involved rigorously testing the model's robustness to decipher errors, such as typographical errors, negation manipulations, and legally incorrect content, mimicking a role of an uninformed legal user (i.e., a pro se litigant). In addition to offering a clear assessment of compliance or non-compliance, the research also focuses on precise error identification with user-friendly explanations, qualitative analysis of the AI's decision-making language, and systematic evaluation of potential biases. By advancing the field of explainable AI and promoting responsible implementation, this research contributes to the broader goal of increasing access to justice. This paper also presents a framework for developing AI legal tools that balance effectiveness with user trust through systematic transparency. Findings suggest that transparent AI can significantly improve user trust and accessibility to legal information, particularly for underserved communities.</p>
+        <p>Jill Weinberg is an Associate Professor of Sociology at Tufts University whose interests are research methods and socio-legal studies.  Peter Nadel is a member of the Research Technology Team at Tufts University and is a digital humanities and natural language processing specialist.</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#joslyn">The World Salvage Project: Interdisciplinary Futures and Possibilities for Digital Repositories in the Age of AI</a> &mdash; Sybil F. Joslyn (Boston University)
+
+<div id="joslyn" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>The World Salvage Project: Interdisciplinary Futures and Possibilities for Digital Repositories in the Age of AI</h4>
+        <p>Sybil F. Joslyn (Boston University)</p>
+        <p>As Professor of the Humanities William Condee noted in 2016, "the arts and humanities are in the midst of an interdisciplinary turn." Coinciding with a nearly 25% drop in awarded humanities degrees in the United States from 2012-2020, this interdisciplinary turn reflects an instinctual need for humanistic disciplines to remain relevant as the academy itself shakes with change. As humanistic disciplines forge new identities, Digital Humanities initiatives should be at the forefront of embracing interdisciplinarity, modernizing humanistic research, and embracing innovative technological tools. In 2024, I created the World Salvage Project (WSP) as a digital data repository to accompany my dissertation on maritime salvage in America's long nineteenth century. Identifying its usefulness to other scholars, I published the WSP as a database-in-progress that unites individual ship records with other associated extant media, from objects and renderings to archaeological records. In my talk, I will introduce the origins of the project as an interdisciplinary repository, the benefits of utilizing Digital Humanities projects as dissertation research tools, and the challenges I have encountered in implementing best practices with limited resources. I will then discuss possible futures for the WSP, including how its development can be served using Artificial Intelligence agents, the importance of open-access and institutional collaboration, and the options that exist to safeguard its data. Through discussing the WSP, I hope to highlight how Digital Humanities initiatives can attract diverse audiences, connect scholars and institutions worldwide, and create a future in which shared knowledge across disciplines drives and aids humanistic research.</p>
+        <p>Sybil F. Joslyn is a fifth-year PhD Candidate at Boston University studying American art and material culture in the long nineteenth century. Grounded in object analysis and interdisciplinarity, her research explores the junction between material and visual culture, the social and economic life of objects, and intercultural exchange in the Atlantic World. Sybil's dissertation, "Worth Its Salt: Salvage in the Maritime Visual and Material Culture of America's Long Nineteenth Century," examines maritime salvage as object, material, and process to interrogate conceptions of identity, property, and value during the Age of Sail.</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#k-lynch">Broadcast News Summarization with Large Language Models</a> &mdash; Kelley Lynch (Brandeis University)
+
+<div id="k-lynch" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Broadcast News Summarization with Large Language Models</h4>
+        <p>Kelley Lynch (Brandeis University)</p>
+        <p>This talk proposes a modular pipeline for summarizing broadcast news videos, leveraging the power of large language and vision models.  We will detail the integration of Whisper for ASR, TransNetV2 for shot segmentation, LLaVA for image captioning, and LLaMA for generating structured summaries within the CLAMS open-source AI-assisted metadata extraction platform.  A key focus will be demonstrating how combining ASR transcripts with shot-level image captions enhances metadata extraction, effectively addressing challenges such as ASR errors and enabling the generation of more informative summaries.  We will present a comprehensive evaluation of the pipeline using both automated metrics and human assessments, benchmarked against user-generated YouTube descriptions.  This evaluation will offer insights into the strengths and limitations of each evaluation approach.</p>
+        <p>Kelley is a Ph.D. candidate at Brandeis University, specializing in natural language processing and computer vision. As a developer on the CLAMS (Computational Linguistics Applications for Multimedia Services) Project, she focuses on creating tools for information extraction and summarization of archival broadcast news media.</p>
+    </div></div>
 </li>
 
 
 ---
-### Session 3C: Restorative Justice in Public Humanities Work
-
-Location: Tisch Library 316
-
-<!--
-<li><del>
-<a class="modal-link" href="#presentation-3c-1">The Salus Populi Project: Digital Archives, Reparative Genealogy, and Restorative Justice</a></del> &mdash; Riley Sutherland, Michelle Cook (Salus Populi Pension Project)
-<div id="presentation-3c-1" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>The Salus Populi Project: Digital Archives, Reparative Genealogy, and Restorative Justice</h4>
-		<p>Riley Sutherland, Michelle Cook (Salus Populi Pension Project)</p>
-		<p>The Salus Populi Project is a non-profit digital humanities project based in Liberty, Missouri. We  are currently creating a publicly accessible online archive for the pensions of United States  Colored Troops veterans who were born or enslaved in the counties of Missouri colloquially  known as “Little Dixie.” White residents of these counties enslaved one-third of Missouri’s  unfree population, many of whom liberated themselves to serve in the Union Army. After the  war, they applied for pensions, and their files contain paperwork related to freedom seekers’  experiences of enslavement, military service, families, disabilities, and community networks. But none of the files are digitized, transcribed, or searchable.</p><p> 
-The Salus Populi Project is partnering with local archives, historical societies, libraries,  museums, and descendant communities to digitize, transcribe, and contextualize these records.  We are utilizing From the Page, a platform with crowdsourcing capacities, to create a more  participatory project. We are also utilizing digital mapping tools to visualize soldiers’ journeys  and networks, and partnering with students to narrate stories through short digital films.</p><p> 
-Our talk will address the challenges and possibilities we have encountered while creating a  digital archive that offers space for descendants, educators, and students to grapple with  traumatic histories of racism and grapple with slavery’s legacies.</p>
-	</div></div>
-</li>-->
+<!-- 2D -->
+### Data-Driven Approaches to Historical Collections  
+Location: Conference Room 2 (Boylston, Level M)
 
 <li>
-<a class="modal-link" href="#presentation-3c-2">Digitizing the 1906 American Medical Directory to Explore Early Racial Disparities in Medicine</a> &mdash; Benjamin Chrisinger (Tufts University)
+<a class="modal-link" href="#botticelli-hole">Digital Engagement with Art Collections</a> &mdash; Peter Botticelli, Heather Hole (Simmons University School of Library and Information Science)
 
-<div id="presentation-3c-2" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Digitizing the 1906 American Medical Directory to Explore Early Racial Disparities in Medicine</h4>
-		<p>Benjamin Chrisinger (Tufts University)</p>
-		<p> Since 1906, the American Medical Association (AMA) has regularly published a Directory of all qualified physicians in the US, by city and county. Between 1906-1940, AMA insisted on printing “colored” alongside the names of all Black/African American doctors. This racist practice inadvertently gives us an unparalleled look at where Black doctors worked and therefore where inequalities in access to care began. Given unique formatting and nomenclature structures, extracting data from archival PDF records of American Medical Directories (AMDs) is challenging, especially for those hoping to use automation, and to my knowledge has not been previously done on a large scale, explaining, in part, the limited use of this rich dataset by the research community. In this talk, I will describe the process of digitizing the inaugural AMD volume, published in 1906, and creating an interactive mapping website to enable a broader public to visualize patterns and disparities. I will also summarize key variables available in the public dataset, inviting in future researchers to envision their own explorations with the 1906 AMD data. Finally, I will reflect on some of the project’s challenges and future opportunities for collaboration with students and the digital history community.
-</p>
-	</div></div>
+<div id="botticelli-hole" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Digital Engagement with Art Collections</h4>
+        <p>Peter Botticelli, Heather Hole (Simmons University School of Library and Information Science)</p>
+        <p>We will discuss an early-stage project in which we are exploring ways to expand the options for scholarly engagement with art collections, in both material and digital form. Our initial focus involves working with the Isabella Stewart Gardner Museum to investigate the use of digital surrogates for both collection objects and archival records, with the aim to expose hidden contexts and to facilitate new modes of storytelling around the museum. We will present a number of case examples of collection objects and related records in the museum archives, and we will discuss the use of the collection in courses we have developed at Simmons. A larger aim of this work is to examine how digital surrogates can be used to augment as well as to distort the context in which museum objects may be viewed, with the aim to understand how museums might develop or update their access policies to account for AI applications.</p>
+        <p>Peter Botticelli is an Associate Professor at the Simmons University School of Library and Information Science (SLIS). His teaching and research are focused on archives management, and he directs the interdisciplinary Cultural Heritage Informatics concentration. Botticelli has A.M. and Ph.D. degrees in History from the University of Illinois at Urbana-Champaign, and an M.S.I. degree with a concentration in Archives and Records Management from the University of Michigan. Heather Hole is a Professor of Museum Studies and Art History at Simmons University. Her scholarship examines the history of American art and museums in the twentieth century. A former curator at MFA Boston and the Georgia O’Keeffe Museum, Professor Hole received her Ph.D. in Art History from Princeton University and her B.A. in Art History from Smith College.</p>
+    </div></div>
 </li>
 
 <li>
-<a class="modal-link" href="#presentation-3c-3">In progress: Women's Stories, W. E. B. Du Bois Papers Data</a> &mdash; Blake Spitz (University of Massachusetts Amherst)
+<a class="modal-link" href="#stewart-schroeder">Turning Almanacs into Data</a> &mdash; Ashlyn Stewart, Joanna Schroeder, Yuchen Xiong (Tufts University)
 
-<div id="presentation-3c-3" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>In progress: Women's Stories, W. E. B. Du Bois Papers Data</h4>
-		<p>Blake Spitz (University of Massachusetts Amherst)</p>
-		<p>The UMass Amherst department of Special Collections and University  Archives collects original materials that document the histories of social change in  America, and this collecting focus emerged from our holding the papers of the civil  rights activist, writer, and editor, W. E. B. Du Bois. Approaching the fully digitized  <a href="https://credo.library.umass.edu/view/collection/mums312">Du Bois Papers</a> as “collections as data,” I am interested in digital scholarship and  digital storytelling as ways to interrogate and activate the archival records of Du  Bois, a leading figure of the 20th century. I am currently exploring digital  scholarship methods to investigate the records of women, to present the intellectual,  cultural, and labor contributions and legacies of women, especially Black women,  documented in the Du Bois Papers.</p>  
-<p>This project is still/ever developing, and this presentation focuses on the origin of  the project, my current progress in learning new technology and digital scholarship tools, some of these women’s stories, and my hopes and questions about creating  future opportunities for expansion of and engagement with this project. I hope to  eventually both present these experiments and findings more broadly through  digital approaches to pedagogy, public history, and storytelling, and to also  engage in community oriented and originated visioning, research, and curation of  these ideas and works. As someone with no training in the digital humanities, nor as  a historian, Du Bois scholar, or feminist/critical theorist, I also hope to continue to use  this project as a space for exploring low digital skill and self-taught digital  scholarship approaches and tools, and look forward to speaking with those at this  session about best-practices, technology, and some of the complicated issues of  gender, race, power and community connected to this venture.</p>
-	</div></div>
-</li>
-
-
----
-## <span style="color:#971b2f;">4:30-5:30 PM</span>
-### Posters & Reception
-
-Location: Tower Café, Tisch Library 
-
-<li>
-<a class="modal-link" href="#poster-bauer">Black History at BC Law School: The Making of a Digital Exhibit</a> &mdash; Avi Bauer, Seung-hwan Leo Kim (Boston College Law School)
-<div id="poster-bauer" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Black History at BC Law School: The Making of a Digital Exhibit</h4>
-		<p>Avi Bauer, Seung-hwan Leo Kim (Boston College Law School)</p>
-		<p> In 2021, Boston College Law Library produced a digital exhibit narrating the life of Robert Morris, the second Black lawyer in the US (<a href="https://bc.edu/robert-morris">https://bc.edu/robert-morris</a>). Based on its success, the Library was asked to produce a new digital exhibit, this one broader in scope: an exhibit detailing the history of Black students and alumni at BC Law School, to be launched in April 2024. The project has included flying across the country to perform archival research and interviews; the use of open source tools and tools developed in-house to explore and explain historical narratives; and input from many participants including Black alumni and student leaders. This poster outlines the process of researching, designing, and building the digital exhibit, highlighting both the digital and human resources required to build a project heavily rooted in the lived experience of our Black student and alumni communities. It also highlights the many strengths of the digital exhibit format, including the use of multimedia sources, the living document approach, and the ability to incorporate both linear and non-linear storytelling methods.
-		</p>
-	</div></div>
+<div id="stewart-schroeder" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Turning Almanacs into Data</h4>
+        <p>Ashlyn Stewart, Joanna Schroeder, Yuchen Xiong (Tufts University)</p>
+        <p>The Boston College Libraries Catholic Collections Initiative has launched a multi-year, interdisciplinary project to extract, structure, and make available data about Catholic institutions from a series of nineteenth-century Catholic almanacs.  Each almanac includes a list of all the Catholic institutions in each of the country's dioceses from that year—every school, hospital, orphanage, asylum and more–including the institution's name, location, and leaders.  Our presentation will include three parts to explain our project in progress, highlighting the choices we have made to improve our dataset, our project workflows, and the experience of our users.  First, Ashlyn will discuss a few key decisions she has had to make about regularizing heterogeneous data from this quirky source.  She will focus on breaking the data into subsets and associating and disambiguating names of individuals in the almanacs.  Next, Joanna will explain how she has improved the project’s data management with automation.  Because the project runs on GoogleSheets, she has used Google Apps Script and the Sheets API to aggregate and standardize data across the project.  For example, she built a system that updates on a daily basis to assign unique IDs to Catholic leaders.  Finally, Yuchen will demonstrate her approach to the interconnectedness of the data and her process of making it searchable. She will illustrate how she has preprocessed the metadata on GoogleSheets with python, built a database with SQL, and created a web interface with Django in order to help web users find specific institutions and individuals.</p><p>*We are submitting two proposals focusing on different parts of this same project.  We would be happy to expand our discussion to fill all or part of a panel, if that helps, or combine our efforts in some way.</p>
+        <p>Ashlyn Stewart is a Digital Scholarship Specialist in the Boston College Libraries Digital Scholarship Group, where she collaborates with students and faculty to create and maintain digital projects inside and beyond the classroom.  One of her main responsibilities is leading the BC’s Catholic Almanacs project.  She holds a PhD in English from the University of Nebraska-Lincoln, where she worked at the Center for Digital Research in the Humanities, contributing to the Walt Whitman Archive and the Charles W. Chesnutt Archive.   Her research interests include nineteenth-century American literature, history, and culture, as well as digital archives and editions.</p><p>Joanna Schroeder applies her expertise in finding and using data in creative ways in her role as Data Services Librarian in Boston College’s Digital Scholarship Group. Previously, she worked as a data science research specialist at the University of Virginia’s Biocomplexity Institute, where she used data analysis and visualization skills to provide local, actionable metrics on topics like food security, broadband availability, and access to health services. She received her MLIS from Drexel University.</p><p>Yuchen Xiong is a first-year English MA student at Boston College, primarily working on the website development of BC’s Catholic Almanacs project. She holds a Bachelor of Engineering degree in Automation from Tsinghua University. With a multidisciplinary background, Yuchen is passionate about exploring the intersection of humanities and technology. Her research interests focus on how Digital Humanities methodologies, such as database and textual analysis, can bring new insights into traditional literary studies.</p>
+    </div></div>
 </li>
 
 <li>
-<a class="modal-link" href="#poster-hilleary">Increasing the Accessibility of the Autobiography of Omar Ibn Said: A Case Study in Producing Enriched Digital Additions of Arabic Manuscripts</a> &mdash; Joseph C. Hilleary (Tufts University)
-<div id="poster-hilleary" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>ncreasing the Accessibility of the Autobiography of Omar Ibn Said: A Case Study in Producing Enriched Digital Additions of Arabic Manuscripts</h4>
-		<p>Joseph C. Hilleary (Tufts University)</p>
-		<p>
-In 1807, Omar Ibn Said, a West African man educated in the Islamic tradition, was captured, enslaved, and brought to the Carolinas. Roughly two decades later, he produced a first-hand account of his life written in Arabic. The original manuscript forms the centerpiece of a collection of now digitized documents held by the Library of Congress. This work is notable because, unlike other contemporaneous slave accounts written in English, it was not subject to editing by the slave-holder Ibn Said lived with and can be viewed as a more faithful version of his experience. In addition, it demonstrates the strong traditions of writing and education that existed in the parts of Africa that were raided during the trans-Atlantic slave trade.</p><p> 
-In order to make this important document more accessible, I have created, in collaboration with students in a Tufts University course on West African history, a new annotated digital edition and translation of the biographical sections of Ibn Said’s manuscript. This edition, soon to be available online, presents the original Arabic aligned alongside a novel English translation and a transliterated version of the text, produced using natural language processing tools. It also provides Universal Dependency trees to show the relationship between different words in the source text.</p><p> 
-The goal of these annotations is to provide readers with limited or no knowledge of Arabic, such as American secondary school students, the confidence to engage deeply with a primary source in that language and to elevate the interesting components of the manuscript that disappear when it is only read in translation. This poster documents the process of creating such an edition.</p>
-	</div></div>
-</li>
+<a class="modal-link" href="#paviwala">Building a Digital Trade Archive: Visualizing British East India Company Data (1660–1834)</a> &mdash; Munirmahedi Paviwala (Boston College)
 
-<li><a class="modal-link" href="#poster-dougherty"> Generative AI in the Humanities Classroom</a> &mdash; Daniel Dougherty (Boston College)
-
-<div id="poster-dougherty" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Generative AI in the Humanities Classroom</h4>
-		<p>Daniel Dougherty (Boston College)</p>
-		<p>Generative AI has become something of a sore spot for educators and institutions across academia in the past few years. Most resources to date are dedicated to mitigating its most potentially damaging effects, including guidelines and suggestions for instructors looking to adapt their assignment sequencing and course material in the wake of Chat-GPT and the like. This proposal asks instead: what types of work can generative AI bring into the classroom that was previously unthinkable, and how can it help address some of the difficulties inherent in the literature classroom, and perhaps the humanities classroom more broadly? This poster presentation will provide insight into several lesson plans, ranging from AI-generated artwork to AI-generated poetry and prose, which encourage students to use the new AI to explore literary forms, difficult texts, and stylistic markers that might have been difficult to articulate without AI. A few examples might include: the use of Stable Diffusion to “read” lyric poetry, and teach poetic paraphrase; the use of Chat-GPT to generate new texts from prompts or previous passages, considering style and content across forms; the use of Chat-GPT to reimagine texts in new genres, or to “rewrite” a text with new elements or a new ending.</p>
-	</div></div>
-</li>
-
-<li>Exploring Queer Spaces through Data Physicalization &mdash; Gabriella Evergreen (Pratt Institute)</li>
-
-<li>
-<a class="modal-link" href="#poster-goodman">3D Printing Supports for Support: Leveraging 3D Printing Technology for Preserving Artifacts</a> &mdash; Harrison Goodman (Brandeis University)
-
-<div id="poster-goodman" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>3D Printing Supports for Support: Leveraging 3D Printing Technology for Preserving Artifacts</h4>
-		<p>Harrison Goodman (Brandeis University)</p>
-		<p> Preserving and displaying delicate artifacts is often a time consuming and difficult endeavor. This poster presents a novel method utilizing 3D printing technology to create custom support structures that can be produced cheaply and easily using freely available software. 3D scans are becoming increasingly common as a method of documenting artifacts and producing replicas for display or study. By using 3D scans of objects, any support structures generated for 3D printed replica of the object will also fit the original. The generated support structures are highly customizable and can be integrated into existing conservation workflows to speed up the process in conservation efforts. 
-		</p>
-	</div></div>
-</li>
-
-
-
-<li>
-<a class="modal-link" href="#poster-hwang-calia-bogan">DeisHacks: Hackathon for Social Good – A Blueprint for Success</a> &mdash; Erica Hwang, Vincent Calia-Bogan (Brandeis University)
-
-<div id="poster-hwang-calia-bogan" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>DeisHacks: Hackathon for Social Good – A Blueprint for Success</h4>
-		<p>Erica Hwang, Vincent Calia-Bogan (Brandeis University)</p>
-		<p>Our poster presents a case study of DeisHacks, a 48-hour, hybrid hackathon for social good organized by a 5-person team of students and professors at Brandeis University for the 7th consecutive year. Unlike traditional hackathons, DeisHacks emphasizes community impact by partnering with nonprofits to formulate prompts that pose real-world challenges for students to build solutions for. Due to its hybrid nature, DeisHacks emphasizes the education and development of digital skills that are relevant to participant’s work with nonprofits.</p><p>In our poster, we will explain how we managed this hackathon using digital tools. Specifically, we’ll discuss our methodology for creating digital resources for participants, the pedagogy of DeisHacks as experiential education, and the strategies for hosting a successful hybrid event. Special emphasis will be on our project management framework, including workflows, communication and relationship management, social media, and more. Additionally, the poster outlines future plans for integrating new and emerging digital tools (such as artificial intelligence) into our existing pedagogy. By including QR codes that link to our digital assets that can be used as templates, we hope to inspire similar initiatives by sharing the DeisHacks pedagogy with the community.</p>
-	</div></div>
-</li>
-
-<li>
-<a class="modal-link" href="#poster-kijas-good">Interrogating the Music Canon via Music Encoding</a> &mdash; Anna Kijas, Jordan Good (Tufts University)
-
-<div id="poster-kijas-good" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Interrogating the Music Canon via Music Encoding</h4>
-		<p>Anna Kijas, Jordan Good (Tufts University)</p>
-		<p>In her essay, “What do we want to teach” Ellen Koskoff examined the perpetuation of musical canons in music curricula, writing that “simply creating a canon is not a problem; nor is embodying it with one’s own meaningful values. The problem comes with <em>canonization</em>&mdash;the institutionalization of certain works over others through imposition of hierarchies of self-invested value upon other people and their musics.” In the twenty-plus years since her essay, music educators and scholars continue to grapple with how to address representation, diversity, and inclusion in their pedagogy and music repertoire.</p> 
-
-<p>One example of how we are making music collections more diverse and inclusive, and challenging canonical collections and privileged views, is through an ongoing open-access project, <a href="https://rebalancing-music-canon.com/">Rebalancing the Music Canon</a>. In this poster, we will provide a project overview with visual examples (e.g. incipits, MEI XML), highlight low-barrier approaches used to introduce music transcription and encoding, and describe how we incorporate critical digital pedagogy and minimal computing practices. Presently, the project has published 575 incipits from works by 100 composers. This is a collaborative, student-driven effort which aims to make works by historically marginalized people more discoverable, decenters the musical canon, and makes data-driven music scholarship more diverse and inclusive. Students are gaining expertise in music encoding practices, identifying, and pushing against the constraints of the MEI schema, and augmenting their knowledge of music beyond the traditional music canon.</p>
-	</div></div>
-</li>
-
-<li>
-<a class="modal-link" href="#poster-luo">China Biographical Database Kinship Networks Visualization Project</a> &mdash; Queenie Luo (Harvard University)
-
-<div id="poster-luo" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>China Biographical Database Kinship Networks Visualization Project</h4>
-		<p>Queenie Luo (Harvard University)</p>
-		<p>The China Biographical Database contains biographical information on approximately 535,000 individuals, primarily from the 7th to the 19th centuries. A versatile visualization tool can be extremely useful for illustrating the relationships among these individuals. Although the widely adopted network visualization software Gephi is powerful in many aspects, it has limitations when it comes to visualizing family lineages and specific characteristics of individuals. This poster presentation aims to introduce CBDB’s new visualization platform and demonstrate the techniques used to develop it.
-		</p>
-	</div></div>
-</li>
-
-<li>
-<a class="modal-link" href="#poster-neill">Mapping the Chimaera: The Ancient and Modern Geographies of Archaic Pottery</a> &mdash; Liz Neill (Boston University)
-
-<div id="poster-neill" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Mapping the Chimaera: The Ancient and Modern Geographies of Archaic Pottery</h4>
-		<p>Liz Neill (Boston University)</p>
-		<p>How have the ancient and modern movements of Greek pots impacted our study of the ancient world? My dissertation introduces a new map-based framework (designed with ArcGIS and implemented with ArcMap) for engaging with provenance via pots depicting imagined creatures. There is no single answer to the question, “Where did this pot come from?” Compiling both ancient (origin, production, and deposition) and modern (trade and museum) geographies together creates an opportunity to analyze patterns and play with frictions and possibilities for interactive engagement. In this case study, I use the Chimaera to demonstrate the unexpected connections that emerge when mapping a group of painted pots against the many geographies of ancient objects. Featured map states will address useful tensions between pots and their places, and how those correspond with ancient and modern perceptions about the ancient world. Provenance provides a largely untapped avenue for both scholarly and public exploration of ancient pots - one that readily adapts to a map-based, digital format.</p>
-	</div></div>
-</li>
-
-<li><a class="modal-link" href="#poster-newman">Frame by Frame: The Development and Integration of a Community Stop-motion Animation Area</a> &mdash; Matthew Newman (Mount Holyoke College)
-<div id="poster-newman" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Frame by Frame: The Development and Integration of a Community Stop-motion Animation Area</h4>
-		<p>Matthew Newman (Mount Holyoke College)</p>
-		<p>This poster tells the story of the development of our community stop-motion animation stand and its use in anchoring the Animation-a-Thon, a recurring event that invites members of the Mount Holyoke College community to engage in an act of collaborative storytelling and storymaking that has both physical and digital components, and a digital output. This ongoing community-engaged digital humanities effort has opened up the ability to access and use a form of technology that was previously unavailable or restricted to art studio majors on our campus. We will also showcase examples of the animation stand’s use in various disciplines, with an emphasis on its applicability in an interdisciplinary First Year Seminar environment. Join us to explore how bringing in one new piece of technology can become a means of democratizing pedagogical and creative development across departments and communities. The audience of this poster will gain insight into the potentially outsized impact of a project with a small budget, while also cultivating an understanding of the creative potential that an analogue/digital hybrid animation stand can bring to a variety of courses.</p>
-	</div></div>
-</li>
-
-<li>
-<a class="modal-link" href="#poster-omara">Interdisciplinary Potential: An Analysis of Persephone’s Garden, Brigid’s Labyrinth, and Lilith’s Shrine</a> &mdash; Jacqueline Grace O’Mara (Northeastern University)
-<div id="poster-omara" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Interdisciplinary Potential: An Analysis of Persephone’s Garden, Brigid’s Labyrinth, and Lilith’s Shrine</h4>
-		<p>Jacqueline Grace O’Mara (Northeastern University)</p>
-		<p>This poster will share <em>Persephone’s Garden, Brigid’s Labyrinth, and Lilith’s Shrine,</em> three interactive exhibits that explore how the interdisciplinary study of mythology, digital humanities, and gender can lead to transgressive forms of artistic innovation that are immersive and provide users with a unique learning experience. Each digital project surveys the multimodal potential of mythology and feminist studies and how digital humanities can facilitate memorable experimentations with form by engaging with the complex narratives of mythological figures. <a href="https://jgraceo.github.io/pgarden.html"><em>Persephone’s Garden</em></a> is an interactive metro map that charts the Greek goddesses’ appearance in a variety of artifacts, paying close attention to digital creators overlooked in academic settings. <a href="https://jgraceo.github.io/brigid.html"><em>Brigid’s Labyrinth</em></a> is a choose-your-own-adventure text-based game where users are placed at the center of the story and asked to be an agent in their learning. <a href="https://jgraceo.github.io/lilith.html"><em>Lilith’s Shrine</em></a> is a creative exercise that asks users to produce a new narrative about Lilith, exemplifying the importance of personal intervention in storytelling. All three exhibits employ and emphasize the advantage of utilizing digital tools in producing engaging scholarship. My work aims to highlight the user’s agency in the learning process and grants participants the opportunity to interact with these stories in a novel way. This poster provides an overview of all three exhibits and gives viewers the opportunity to explore each project on their own.</p>
-	</div></div>
-</li>
-
-<li>
-<a class="modal-link" href="#poster-tucker">Reimagining Metadata: Weaving Sanctuary into an Archive</a> &mdash; Annie Tucker, Serin D. Houston (Mount Holyoke College)
-
-<div id="poster-tucker" class="modal">
-	<div class="modal-content">
-		<span class="close">&times;</span>
-		<h4>Reimagining Metadata: Weaving Sanctuary into an Archive</h4>
-		<p>Annie Tucker (Mount Holyoke College), Serin D. Houston (Mount Holyoke College)</p>
-		<p> This poster will document and illustrate the tailoring of structural metadata that is foundational to a digital archive of United States sanctuary policies passed from 2001-2014. The archive, which maintains over 200 documents, accompanies and underpins an interactive digital storytelling application. Both the archive and accompanying StoryMap are based on original research, carefully constructed, and the result of extensive collaboration. They are unique in scope and content. Importantly, as an independent resource, the archive provides broad access to a body of documentation which lends insight into a transformative period of sanctuary policy.</p> 
-		<p>Curating the metadata schema for this archive entailed numerous challenges, including ethical concerns surrounding the privacy of constituents named in the documents due to the charged nature of the topic. Furthermore, adapting the digital institutional repository’s established schema to be responsive to the scope and sensitivity of the documents required considerable planning, discussion, and revision. Calibrating the digital institutional repository used to host the archive of sanctuary documents involved the collaboration of several departments across the college.</p> 
-		<p>This poster is intended to provide insight into how an organization may use already existing tools, platforms, and expertise to realize complex digital projects. It will provide an overview of how the archive was constructed, adapted, and revised to both accompany a digital project and serve as a sustainable, standalone resource. Based on lessons learned, this poster aims to help make large-scale, collaborative projects feel approachable and achievable.</p>
-	</div></div>
-</li>
-
-
-<li><a class="modal-link" href="#poster-turnage">Sonic Connectivity in Digital Spaces: The Soundtrack of the #MeToo Movement</a> &mdash; Teresa Turnage (Tufts University)
-	<div id="poster-turnage" class="modal">
-		<div class="modal-content">
-			<span class="close">&times;</span>
-			<h4>Sonic Connectivity in Digital Spaces: The Soundtrack of the #MeToo Movement</h4>
-			<p>Teresa Turnage (Tufts University)</p>
-			<p>Conversations around digital music-making and practicing become a prominent tool in discovering how people use music as a conduit for inspiring social change. TikTok creates a soundscape of trends through sonic practices, visual markers, and cultural signs and symbols mediated and repurposed globally. Specifically, the trends related to the #MeToo Movement come with particular audio clips repurposed for spreading messages, reclaiming identities, and perpetuating social justice. Relying on the literature from linguistics, ethnomusicology, philosophy, and sociology, as well as personal accounts of content creation, I uncover how the affectual choice of song in digital media influences the broader structure of sexual violence narratives. Looking at semiotics in digital media teases out how audio tracks and trends become repurposed and communicate to each other across the web, constituting then, the notion of music and viral musicking as a social and cultural practice on TikTok. Then, using these videos as a starting point I illuminate the capacity of music to communicate and effectively perpetuate the #MeToo movement and modern feminism at large through digital musicking. My topic expands upon these thematic questions: How do these songs on digital media contribute meaning and infuse the movement with poignancy? What inspires its virality and the perpetuation of the #MeToo movement? To answer these questions, I will discuss emotion, community, and identity through distinct musical practices online, thereby facilitating discussions around tropes and scripts around sexual violence narratives, history, and self-determination.</p>
-		</div>
-	</div>
+<div id="paviwala" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Building a Digital Trade Archive: Visualizing British East India Company Data (1660–1834)</h4>
+        <p>Munirmahedi Paviwala (Boston College)</p>
+        <p>This presentation examines the challenges of integrating historical trade data on the British East India Company (EIC) and how visualization can aid historical inquiry. I use datasets from the works of K. N. Chaudhuri and H. V. Bowen which covers the EIC trade from 1660 to 1834. I highlight how the choices made in cleaning and merging can shape the final visualization.</p><p>The talk will outline key decisions made in data integration, including how to deal with missing or fragmented records. I visualise the merged data using Tableau. The mapping of the trade flows reveals patterns and prompts new research questions. The project is open-access, with all data available via GitHub for further collaboration.</p><p>This presentation aligns with the symposium’s themes of public engagement and digital methods in humanities research, showing how historical datasets can serve as a foundation for deeper inquiry. Instead of a singular narrative, my project provides a visualisation that allows historians to study EIC trade networks for their own questions.</p>
+        <p>Munirmahedi Paviwala is a historian and digital scholar passionate about making historical research accessible. Munir is currently a PhD student at Boston College, his work focuses on environmental and economic histories of South Asia. He employs digital humanities tools to create interactive and publicly engaging historical narratives. His projects have visualized British colonial trade networks and agricultural transformations in India. Munir holds a BA (Hons.) in Economics and a Postgraduate Diploma in History from Krea University, India. He also earned a Certificate in Digital Humanities from Boston College.</p>
+    </div></div>
 </li>
 
 
 ---
 
+<!-- 2E -->
+### How to Make a Map Mosaic
+Location: Leventhal Map & Education Center (McKim, Level 1)
+
+<a class="modal-link" href="#spangler">Workshop: How to Make a Map Mosaic</a> &mdash; Ian Spangler (Leventhal Map & Education Center, Boston Public Library)
+
+<div id="spangler" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Workshop: How to Make a Map Mosaic</h4>
+        <p>Ian Spangler (Leventhal Map & Education Center, Boston Public Library)</p>
+        <p>Overlaying historic maps in a geographic coordinate system—a process known as “georeferencing”—is an important part of contemporary digital humanities (DH) work. For DH scholars, georeferencing can yield new spatial datasets and provide important spatial and historical contexts to DH projects and workflows. For non-experts and the general public, georeferencing is desirable insofar as people tend to be curious about how places have changed over time, and georeferenced maps make it easier to answer those questions. The Leventhal Center’s Atlascope tool, for instance, provides one way to explore change over time through georeferenced urban atlases.</p><p>But how can you actually go from a digital image of a historic map to a fully georeferenced and mosaicked map overlay? What tools exist for creating these overlays? And how can people, from DH scholars to the general public, get started georeferencing? Participants in this workshop on “How to make a map mosaic” will learn about the core concepts of georeferencing, including 1) basic spatial data models, 2) geospatial theory around georeferencing, 3) how to georeference a map, and 4) how to make a map mosaic (e.g., multiple georeferenced maps “stitched” together).</p><p>The workshop introduces georeferencing with the Allmaps software ecosystem, a set of georeferencing tools that make it easy and more fun to georeference maps without downloading large image files and complex software. Unlike desktop geographic information systems (GIS) such as QGIS, Allmaps allows users to georeference maps entirely in a web browser. By the end of the workshop, participants will be able to independently georeference maps, and will understand basic concepts in geospatial theory around georeferencing (including vector/raster data and data formats, spatial masks/control points, and the IIIF protocol).</p>
+        <p>Ian Spangler is Assistant Curator of Digital & Participatory Geography at the Leventhal Map & Education Center. He earned his PhD in Geography from the University of Kentucky in 2023.</p>
+    </div></div>
+
+---
+## <span style="color:#971b2f;">2:15 - 2:30PM</span>
+### Break
+
+---
+## <span style="color:#971b2f;">2:30 - 3:30 PM</span>
+
+<!-- 3A -->
+### Digital Humanities in the Classroom: Pedagogy and Praxis for Student Engagement
+Location: Zoom & Commonwealth Salon (McKim, Level 1)
+
+<li>
+<a class="modal-link" href="#kreitz-basu-folsom">The Ground Beneath Our Feet: Critical Mapping in the Classroom</a> &mdash; Kelley Kreitz (Pace University); Anindita Basu Sempere, Jamie Folsom (Performant Software)
+
+<div id="kreitz-basu-folsom" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>The Ground Beneath Our Feet: Critical Mapping in the Classroom</h4>
+        <p>Kelley Kreitz (Pace University); Anindita Basu Sempere, Jamie Folsom (Performant Software)</p>
+        <p>The Ground Beneath Our Feet is a place-based, experiential humanities research and curriculum initiative at Pace University that was launched in Fall 2024, with support from a NEH Humanities Initiatives grant and the university’s Student Technology Fee Fund. Students in affiliated courses research and document the history and the communities surrounding Pace campuses, using critical mapping to juxtapose their contemporary, firsthand experiences of Lower Manhattan and the Hudson Valley with their place-centered research. Course topics include New York City's 19th Century Spanish-Language Press, Hurricane Sandy, Counter-Mapping Governance and Community, and Cultural Cartography, and the data and project maps can be related and/or layered to show intersections and differences between datasets. Through custom-built, open source tools, the Ground Beneath Our Feet platform provides support for different types of place-centered storytelling: Places (a searchable map), Posts (essays with embedded places), and Paths (curated sequences of places).</p><p>This talk will describe the overall vision of this project, the supporting technologies, the initial round of critical mapping in the classroom, and next steps based on student and instructor feedback. As we discuss the pedagogical importance of providing multiple tools for combining data and narrative in studies of place, we will also share our process, realizations, successes, and challenges as we seek to empower students to put technology to work for what Ruja Benjamin calls “retooling solidarity, reimagining social justice.”[1] We look forward to sharing ideas and experiences with participants.</p><p>[1] Ruja Benjamin, Race After Technology, (Cambridge, UK: Polity Press, 2019), 160.</p>
+        <p>Kelley Kreitz is Associate Professor of English and Interim Associate Provost of Academic Programs and Strategy at Pace University in New York City. Her research brings together Latinx Studies, U.S. literary studies, media studies, and the digital humanities. Her book, Printing Nueva York: Spanish-Language Print Culture, Media Change, and Democracy in the Nineteenth Century, is forthcoming from NYU Press. She was the Co-Director of a 2021 NEH working group on digital mapping in Latinx studies and serves on the advisory boards of the Recovering the US Hispanic Literary Heritage Project and New York City Digital Humanities (NYCDH).</p><p>Anindita Basu Sempere is a Project Manager at Performant Software, where she works with scholars and software developers to design and deliver digital humanities projects. She has a PhD from the University of Neuchâtel’s Institute of English Studies, where she studied change of place and poetics. As part of her doctoral research, she combined digital humanities methods with genetic criticism to study the intersection of place and literary creation. She holds Masters degrees from the MIT Media Lab’s Future of Learning Group, Boston University’s Poetry Program, and the Vermont College of Fine Arts.</p><p>Jamie Folsom is a Partner at Performant Software Solutions, an established software development agency with a focus on the Digital Humanities. He consults with scholars in a wide range of fields, managing technology projects with them, and collaboratively developing software tools to support their teaching and research. Previously, he was lead developer for Hyperstudio, center for the Digital Humanities at MIT, where he worked on projects including Annotation Studio and the Comédie Française Registers Project, among others. He holds a Bachelor's degree in French from Vassar College and a Master's degree in Technology, Innovation, and Education from Harvard University Graduate School of Education.</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#joy-clarke">How the Rhetorical Choices of Syllabi Can Enact Black DH Pedagogy</a> &mdash; Laura Joy Clarke (Northeastern University)
+
+<div id="joy-clarke" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>How the Rhetorical Choices of Syllabi Can Enact Black DH Pedagogy</h4>
+        <p>Laura Joy Clarke (Northeastern University)</p>
+        <p>The recent publication of books such as Doing Black Digital Humanities with Radical Intentionality by Steele et al. signals a growing concern with teaching DH in thoughtful, student-empowering ways. One easily-overlooked element of pedagogical design is the rhetoric used in syllabi. My research addresses this gap by taking a deep dive into a corpus of DH syllabi: Specifically, I examine their structure and components, as well as sentence-level rhetorical choices to determine how “student-oriented” versus “instructor-oriented” or “content-oriented” these documents are. I unpack how students are discursively constructed in these texts through the nouns and verbs associated with them and discuss the bearing these constructions may have on their perceptions of their own abilities and agency. My corpus contains two sets of syllabi: three from generic “Intro to DH” courses and three from race-focused or Black DH courses. Across all six syllabi, I found examples of the myriad ways that Black DH pedagogies can be enacted (or not) through seemingly simple, even sentence-level decisions. My talk concludes with practical tips and considerations for instructors to implement in their own syllabi. After all, the way we compose our syllabi offers a unique opportunity to begin empowering students before they even set foot in the classroom.</p>
+        <p>Laura Joy Clarke is pursuing a master’s degree in English as well as a certificate in the Digital Humanities at Northeastern University. Her research interests include composition pedagogy, rhetorical analysis, and educational policy. In her spare time, she also moonlights as a technical writer, a writing tutor, and a book editor.</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#bell-choi">Incorporating Undergraduate Students into Large DH Projects</a> &mdash; Kaitlyn Bell, Nathanael Choi, Ashlyn Stewart (Boston College)
+
+<div id="bell-choi" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Incorporating Undergraduate Students into Large DH Projects</h4>
+        <p>Kaitlyn Bell, Nathanael Choi, Ashlyn Stewart (Boston College)</p>
+        <p>At the Boston College Libraries, we are fortunate to have twelve undergraduate and two graduate students working on one of the Digital Scholarship Group’s flagship projects (in conjunction with the Catholic Collections Initiative) this semester.  These paid student workers spend anywhere from five to fifteen hours a week extracting, structuring, and manipulating messy data from a series of nineteenth-century Catholic almanacs.  While much of the project is collaborative, we have attempted to break the undergraduates’ work into localized portions so that one student’s progress does not immediately hinge upon another student’s.  This project has tested our project management pipelines, allowing us to learn more about how to manage a dispersed, asynchronous team where almost all of the data creation is done by undergraduate student workers.  Ashlyn will discuss how she incorporates students into the project to suit their individual learning, interests, and strengths.  She will also demonstrate how she oversees and checks their work using mostly GoogleDrive.  Two undergraduate members of the team will join her to share how they have contributed to the project and what they have learned about working on such a large research initiative.  Kaitlyn will discuss her work of improving location information for thousands of institutions, demonstrating the most micro of tasks that our students complete.  At the macro end of the scale, Nathanael will share his efforts in writing and implementing Google Apps Script code across all of the project’s GoogleSheets at once.</p><p>*We are submitting two proposals focusing on different parts of this same project.  We would be happy to expand our discussion to fill all or part of a panel, if that helps, or combine our efforts in 
+some way.</p>
+        <p>Nathanael Choi is a junior at Boston College originally from Long Beach, California.  He is majoring in Mathematics with minors in Data Science and Business.  He works as a student assistant for the BC Libraries Digital Scholarship Group, applying his technical skills to the Catholic Almanacs project to analyze dense historical data and uncover compelling stories. Though focused on numbers in his studies, Nathanael is passionate about the humanities, especially literary fiction; his favorite novel is Never Let Me Go by Kazuo Ishiguro. He’s also involved in Club Ping Pong, the AHANA+ Pre-Law Student Association, and Campus Ministry.</p><p>Kaitlyn Bell is a sophomore at Boston College from Burlington, Connecticut. She is a major in History with a minor in English and is specifically interested in the medieval and early modern worlds. She works as a Research Assistant on the Catholics Almanacs project, while also working as an Administrative Assistant and the Instagram Manager for the BC History Department. Next year she will serve as the Resident Assistant for the Women’s Experience Living-Learning Community for freshmen. In her free time, she enjoys spending time with her family (including poodle Sweetie), reading, playing golf, and watching sports.</p><p>Ashlyn Stewart is a Digital Scholarship Specialist in the Boston College Libraries Digital Scholarship Group, where she collaborates with students and faculty to create and maintain digital projects inside and beyond the classroom.  One of her main responsibilities is leading BC’s Catholic Almanacs project.  She holds a PhD in English from the University of Nebraska-Lincoln, where she worked at the Center for Digital Research in the Humanities, contributing to the Walt Whitman Archive and the Charles W. Chesnutt Archive.   Her research interests include nineteenth-century American literature, history, and culture, as well as digital archives and editions.</p>
+    </div></div>
+</li>
+
+
+---
+<!-- 3B -->
+### Social Justice, Public Health, and Digital Archives
+Location: Kirstein Business Library & Innovation Center: The Exchange (Boylston, Lower Level)
+
+<li>
+<a class="modal-link" href="#aviram">Public knowledge in crisis: Mining Wikipedia's digital history of the opioid epidemic</a> &mdash; Rona Aviram (Weizmann Institute of Science, Israel; Learning Planet Institute, Université Paris Cité, France)
+
+<div id="aviram" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Public knowledge in crisis: Mining Wikipedia's digital history of the opioid epidemic</h4>
+        <p>Rona Aviram (Weizmann Institute of Science, Israel; Learning Planet Institute, Université Paris Cité, France)</p>
+        <p>Wikipedia, founded to overcome the limitations of print-based encyclopedias through digital tools like hypertext and open editing, has become a dominant platform for public knowledge-sharing. Previous works by us and others, show it can also serve as a powerful resource for historical research. Our methodology combines traditional and digital humanities approaches, performing systematic diachronic analyses of Wikipedia articles’ text, edit histories, hyperlinks, and references to understand their evolution over time.
+Here, we applied these methods to study English Wikipedia's portrayal of the opioid epidemic, a critical and global public health crisis. A custom-built “corpus builder” tool identified 241 relevant Wikipedia articles, extracted their metadata including past edits, contributors, and bibliometric data. This information was qualitatively contextualized to trace the development of key narratives.
+Our findings reveal a delayed response in Wikipedia’s coverage of the opioid crisis, with key articles appearing well after the crisis gained public and academic attention. Moreover, treatment discussions primarily focused on drug-based approaches, underplaying the risks of opioid addiction, reflecting a distressing reality. Examining the connections between articles in present and past forms, we found significant knowledge communication failures in the coverage of opioid-induced hyperalgesia, an underrepresented aspect of opioid misuse. 
+Our findings highlight gaps in Wikipedia’s coverage of the opioid crisis that reflect broader deficiencies in public discourse and medical policy responses. More broadly, it demonstrates how Wikipedia can be used as a living, digital archive for examining evolving public discourse, and offers reproducible tools for other researchers to capture the incremental growth of knowledge.</p>
+        <p>As an early career researcher working at the intersection of digital humanities, history of science and computer science, I explore how scientific knowledge is organized and disseminated digitally. My PhD training was as a wet lab biologist, examining the molecular basis of daily rhythms and sleep. Currently, as a postdoc at the Weizmann Institute's Dept. of Computer Science and Applied Mathematics, I am developing computational tools and methodologies to study the broader processes of science-making and knowledge production, and the manner scientific discoveries are reflected in online digital archives, such as Wikipedia.</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#sutherland">Salus Populi Project: Digital Archives, Reparative Genealogy, and Restorative Justice</a> &mdash; Riley Sutherland (Salus Populi Project; Harvard University)
+
+<div id="sutherland" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Salus Populi Project: Digital Archives, Reparative Genealogy, and Restorative Justice</h4>
+        <p>Riley Sutherland (Salus Populi Project; Harvard University)</p>
+        <p>The Salus Populi Project is a non-profit digital humanities project based in Liberty, Missouri. We are currently creating a publicly accessible online archive for the pensions of United States Colored Troops veterans who were born or enslaved in the counties of Missouri colloquially known as “Little Dixie.” White residents of these counties enslaved one-third of Missouri’s unfree population, many of whom liberated themselves to serve in the Union Army. After the war, they applied for pensions, and their files contain paperwork related to freedom seekers’ experiences of enslavement, military service, families, disabilities, and community networks. But none of the files are digitized, transcribed, or searchable.</p><p>The Salus Populi Project is partnering with local archives, historical societies, libraries, museums, and descendant communities to digitize, transcribe, and contextualize these records. We are utilizing From the Page, a platform with crowdsourcing capacities, to create a more participatory project. We are also utilizing digital mapping tools to visualize soldiers’ journeys and networks, and partnering with students to narrate stories through short digital films.</p><p>This talk will address the challenges and possibilities we have encountered while creating a digital archive that offers space for descendants, educators, and students to grapple with traumatic histories of racism and grapple with slavery’s legacies.</p>
+        <p>Riley K. Sutherland (she/her) is a History Ph.D. student at Harvard University, where she specializes in nineteenth-century U.S. history, disability studies, and public history. She worked as an editorial assistant to the Pinckney Papers Project and as an archival intern for the Harry S. Truman Presidential Library and Museum. She currently co-directs the Salus Populi Project with historian and artist Michelle Cook.</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#hazlett-lee">The Design and Technical Development of a Version Update: The Burnham-Nobles Digital Archive</a> &mdash; Candace Hazlett, Joel Lee (Northeastern University Library)
+
+<div id="hazlett-lee" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>The Design and Technical Development of a Version Update: The Burnham-Nobles Digital Archive</h4>
+        <p>Candace Hazlett, Joel Lee (Northeastern University Library)</p>
+        <p>The Digital Scholarship Group (DSG) at Northeastern University Library provides expertise in digital infrastructure and technical design to the Civil Rights and Restorative Justice (CRRJ) Project to create the Burnham-Nobles Digital Archive (Archive), a digital resource dedicated to identifying, classifying, and providing factual information and documentation about anti-Black killings in the mid-twentieth century South.</p><p>As the Archive nears its first update, which expands its geographical scope and includes new cases, we, as members of the DSG, share the technical process that supported these cases as they were collected, researched, and added to the Archive and web application. We touch upon how we realize the goals of the project through use of a variety of different tools like Airtable and Clio for the various steps of the research, Python for processing the records into a tabular format, as well as PostgreSQL, Ruby, and Solr to bring that research into the Archive web application. Our presentation will be focused on outlining this technical scaffolding and sharing the intentional technical design and development decisions, from tool selection to the collaborative design process for the Archive UI/UX.</p><p>The Archive seeks to render these difficult histories as visible and accessible, so as to honor the victims and their families and support the efforts for redress and accountability. Towards that end, we also touch upon the technical and process steps of our work in order to mitigate dehumanization and honor the victims while building a database that contains harmful materials.</p>
+        <p>Candace Hazlett is a software developer for the Digital Scholarship Group at Northeastern University’s Snell Library. Currently, she is developing the Burnham-Nobles Digital Archive for the Civil Rights Restorative Justice project, along with a revamp of the TAPAS web application for publishing TEI documents. Candace is a Massachusetts native and prior to joining DSG, developed software for local healthcare tech companies. She spends her free time reading, coding, watching Netflix and YouTube, spending time with her family, volunteering, and glamping when weather permits.</p><p>Joel Lee is a data engineer for the Digital Scholarship Group at Northeastern University's Snell Library. He works on the Boston Research Center, the Civil Rights and Restorative Justice Project, and projects with Digital Humanities Quarterly and the Massachusetts Historical Society. He was the 2021-2022 Digital Humanities Associate Fellow at the United States Holocaust Memorial Museum and before that he worked with the Price Lab for Digital Humanities while studying at the University of Pennsylvania.</p>
+    </div></div>
+</li>
+
+
+---
+
+<!-- 3C -->
+
+### Innovation in Memory: Preserving and Exploring Art, Science, and Activism 
+Location: Orientation Room (McKim, Level 1)
+
+<li>
+<a class="modal-link" href="#champagne-vo">Gone in an Adobe Flash: Five new frameworks to preserve born-computational literary art for the future </a> &mdash; Ashley Champagne, Khanh Vo (Brown University Library)
+
+<div id="champagne-vo" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Gone in an Adobe Flash: Five new frameworks to preserve born-computational literary art for the future </h4>
+        <p>Ashley Champagne, Khanh Vo (Brown University Library)</p>
+        <p>Brown University is the source of some of the earliest, most experimental and innovative works in the field of born-digital literary arts. Faculty and students at Brown regularly produce work in a variety of experimental formats designed for digital environments, from neural-net and model-based aesthetic text-generation programs to fully immersive three-dimensional poetry, and have done so since the early 1960s. Like many institutions, however, Brown University does not yet have models or strategies to preserve many of these works that push boundaries of electronic literature. This talk provides a case study of the university’s New Frameworks to Preserve and Publish Born-Digital Art project, which approaches preservation by focusing (1) on the works that are difficult to preserve in order to determine what approaches will work best for them, and (2) to encourage artists working in these areas to pursue technically innovative art with the knowledge of how to go about sustaining their work for future generations. The talk outlines the preservation frameworks developed for five innovative works that rely on dependencies including Adobe Flash (a technology that recently reached its end of life), aging libraries, browser extensions and broken custom code. The frameworks outlined aim to provide a sustainable future for accessing these five works, as well as a generalized guide for institutions and artists alike in how to preserve difficult, technologically innovative art for future generations. We will also share Brown University Library’s future plans to preserve born-computational work.</p>
+        <p>Dr. Ashley Champagne is the Director of the Center for Digital Scholarship, Brown University Library. She is the PI of “New Frameworks to Preserve and Publish Born-Digital Art,” a project funded by the National Endowment for the Arts. She earned her Ph.D. in English from University of California, Santa Barbara. Her work has been featured in the Brown Alumni Magazine (2023), IMPACT Research at Brown Magazine (2023), Interdisciplinary Digital Engagement in Arts & Humanities (IDEAH) (2023), and the Journal of Digital Media Management (2025).</p><p>Dr. Khanh Vo is the Digital Humanities Specialist at CDS. Her background is in American Studies, specializing in American history, STS, the digital and spatial humanities, and machine labor as it pertains to questions of race, gender, and design. Prior to Brown, she was the Postdoctoral Fellow at the University of Toronto’s Jackman Humanities Institute and Critical Digital Humanities. She has a PhD in American Studies from William & Mary.</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#m-williams">“A Scientific Association”: New Digital Methods for Understanding the Impacts of Early Women Writers on the Development of Science and Philosophy</a> &mdash; Melissa Williams (Northeastern University)
+
+<div id="m-williams" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>“A Scientific Association”: New Digital Methods for Understanding the Impacts of Early Women Writers on the Development of Science and Philosophy</h4>
+        <p>Melissa Williams (Northeastern University)</p>
+        <p>This paper will share insights from a new initiative studying the impacts of women on the sciences during the watershed period of the seventeenth century in Great Britain. The project, led jointly at Northeastern’s campuses in Boston and London, is using text and network analysis to investigate the ways that women scientists and natural philosophers such as Margaret Cavendish shaped emerging scientific and philosophical discourses. In partnership with the PolyGraphs project, we are performing network analysis to study the paths through which these authors circulated their works and ideas, especially in relationship with the networks of cornerstone scientific institutions like the Royal Society. The project is also collaborating with the Women Writers Project to expand the corpus of women’s scientific writing and to analyze this corpus through TEI/XML, topic modeling, word vector modeling, and other methods.</p><p>Preliminary results have already demonstrated the breadth and significance of women writers such as Cavendish, whose reputation for eccentricity has too often overshadowed her substantive engagements with the science of her time, as is made clear through the range of her scientific publications, the extent of her citation networks, and the saturation of scientific discourse not just in her nonfiction but throughout her poetry and plays. This paper will share outcomes from the project’s efforts to enable novel research into this seminal period and to provide new tools for raising the public visibility of women and the sciences, helping to show that women have contributed to scientific and philosophical disciplines since before the beginnings of modernity.</p>
+        <p>Melissa (Mel) Williams is a first year PhD student in English at Northeastern University. Her fields of study primarily include colonial and post-colonial theory, multiculturalism, and the role of literature in education. Additionally, she assists with several Digital Humanities projects such as the Margaret Cavendish project where she serves as graduate student lead for the NEU Boston team.</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#zaineb">Hacking the Archive: Digital Archiving, Activism, and the Future of Public Memory</a> &mdash; Shireen Zaineb (MIT)
+
+<div id="zaineb" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Hacking the Archive: Digital Archiving, Activism, and the Future of Public Memory</h4>
+        <p>Shireen Zaineb (MIT)</p>
+        <p>Engaging with the MIT-based project Hacking the Archive as a case study, this session examines the role of community-driven research and digital technology in creating post-custodial archives. The project aims to build a digital archive that not only highlights the individuals and communities involved in Boston-area social justice actions such as the 1960s anti-highway fight, but also displays the connections between them. In doing so, the session explores three key questions: How can an archive highlighting community connections help us understand and theorize social movement formations? How can a born-digital, networked representation of activism position itself to be accessible to all members of the public? In what ways can an archive of community activists challenge our understanding of time and public memory while also informing future civic actions? In order to address these questions, the presentation explores the methods and strategies developed by Hacking the Archive’s team through cross-institutional and community-oriented collaboration. The project ultimately considers and engages the challenges of establishing a digital, open access archive while maintaining the necessity of publicly available records that preserve and sustain collective memory.</p>
+        <p>Shireen Zaineb is a research assistant at MIT’s Hacking the Archive project. Having recently completed her master’s degree in Islamic Studies and Muslim Cultures at Columbia University, her work focuses on the intersection of technology, community collaboration, and liberatory archival practices. Drawing on her background in media studies, multilingual storytelling, and cultural preservation, she is dedicated to preserving histories and uplifting archives that empower collective memory and imagination.</p>
+    </div></div>
+</li>
+
+
+---
+
+<!-- 3D -->
+
+### Beyond Text: Architecture, GIS, Video, and 3D Models
+Location: Conference Room 2 (Boylston, Level M)
+
+<li>
+<a class="modal-link" href="#king-verhagen">Computer Vision for Distant Viewing of Video Materials</a> &mdash; Owen C. King (GBH Archives); Kyeongmin Rim, Marc Verhagen (Brandeis University)
+
+<div id="king-verhagen" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Computer Vision for Distant Viewing of Video Materials</h4>
+        <p>Owen C. King (GBH Archives); Kyeongmin Rim, Marc Verhagen (Brandeis University)</p>
+        <p>Imagine you’re a researcher who has just gained access to the personal manuscripts of a significant but under-studied political leader.  But suppose that, unfortunately, all the boxes and folders are unlabeled, and there is no finding aid for the collection.  How might you even begin?  Media studies scholars face an analogous predicament when attempting to engage collections of digitized videos.  Because analog media deteriorates, digitization efforts for old video tapes are often undertaken under conditions of relative ignorance about the content on those tapes.  The result is digital video files, perhaps with dates and/or titles, but little indication of what the footage actually encompasses.  One could simply watch all the videos, but that is impractical for large collections.  But manually scrubbing through videos is imprecise and error-prone.  Our solution is a system for automatically creating visual indexes of digital videos, for identification and display of scenes with text that identify the persons and places featured in the videos.  The visual indexes are based on a computer vision model we trained to classify scene types, especially scenes with text, from broadcast television, for further processing with language understanding models to pull out personal names. This presentation explains our development and distribution of a system for extracting information and creating visual indexes. This includes: (1) our specialized training data, (2) training and evaluating our computer vision model, (3) the multimedia interchange format (MMIF) for storing media annotations, (4) the design of visual indexes to support a variety of cataloging and analysis use cases, (5) distribution of the models-and-visualization pipeline as an open-source software package. The final section of the presentation will be a demonstration of how to acquire and use the full package to create visual indexes for your own digital videos.</p><p>Our response to conference committee:
+As we revised and re-submitting this proposal, we recognize that our original abstract was geared more toward archivists than to researchers. We think that the same techniques are broadly applicable to both.  We have reframed our abstract accordingly.  If this topic still falls outside the scope of this conference, then we understand.</p>
+        <p>Owen C. King is Metadata Operations Specialist at GBH Archives, working on the American Archive of Public Broadcasting. He coordinates work on automated processing and metadata workflows for archival television and radio programming. He has a PhD in philosophy from The Ohio State University and an MS in information science from the University of North Carolina at Chapel Hill.</p><p>Kyeongmin Rim is a PhD student working on computational semantics. After working at an industry-leading NLP company in Korea, he returned to academia pursuing Computational Linguistics at Brandeis University. As a doctoral research assistant, he’s been working on various projects, building multimodal and multimedia semantic models for artificial intelligence systems. He is lead software developer of the CLAMS platform.</p><p>Marc Verhagen is a Senior Research Scientist at the Brandeis University Computer Science Department. He holds a BA in Geography and an MA and PhD in Computational Linguistics. He was co-founder of Lingomotors, where he acted as Director of Tool Development and designed and co-implemented the company's Knowledge Management tools. At Brandeis he has been involved in temporal awareness, advanced information retrieval and the development of CLAMS, a platform for integrating processing applications for multi-modal data.</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#d-thomas">Building a Platform to host 3D models</a> &mdash; David Thomas (Boston College)
+
+<div id="d-thomas" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Building a Platform to host 3D models</h4>
+        <p>David Thomas (Boston College)</p>
+        <p>The Boston College Libraries Digital Scholarship Group is developing a lightweight, open-source solution for hosting 3D models. The recent uncertainty surrounding Sketchfab's commitment to hosting open-access models has posed significant challenges for universities, libraries, galleries, and museums reliant on such services. In response, our team is creating a user-friendly platform that allows institutions and individual researchers to host 3D models efficiently and affordably, tentatively called RelicQuery.
+This solution is designed for flexibility: smaller collections can be  hosted on GitHub Pages, while larger collections can be self-hosted. Users simply upload a folder of models alongside a spreadsheet containing relevant metadata. This approach not only empowers institutions to preserve and share their collections but also enables student research projects to host 3D models without straining university resources.
+In this presentation, our developer will demonstrate the platform, explain its functionality, and invite feedback from the community to inform future enhancements. This project represents an exciting step forward in ensuring sustainable, accessible infrastructure for 3D content in the digital humanities.</p>
+        <p>David Thomas is a digital scholarship specialist in the Boston College Libraries Digital Scholarship Group who works at the intersection of ancient history and digital humanities, as well as in digital scholarship more broadly. He holds an MA in history from Brown University and Northern Illinois University. He was the sole developer of the Networks of Roman Eleusis project and has published packages in Python. He has worked in text analysis, network analysis, and more, but most of all, he is a full-stack web programmer who helps students and faculty build digital projects for the web in a sustainable way.</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#partenheimer-cote">Digitizing and Exposing the Cambridge Survey of Architectural History</a> &mdash; Meta Partenheimer (Cambridge Historical Commission), Paul Cote (pbc Geographic Information Services)
+
+<div id="partenheimer-cote" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Digitizing and Exposing the Cambridge Survey of Architectural History</h4>
+        <p>Meta Partenheimer (Cambridge Historical Commission), Paul Cote (pbc Geographic Information Services)</p>
+        <p>Meta and Paul will present the Cambridge Digital Architectural Survey and History (CDASH), comprising approximately 2,500 folders, 140,000 pages, 60,000 documents concerning approximately 20,000 Cambridge buildings and other places. They will introduce how the 36 file drawers of folders and documents were prepared for scanning, and the naming convention that allowed the scanned collection to be digested into a hierarchical network of Place, Folder, and Document items in Omeka-S. The tools and workflows for semi-automated document sorting and categorization, metadata enrichment and georeferencing, and bulk upload to Omeka will be discussed.  Paul will talk about the CDASH theme for Omeka that provides a web-map interface that places the collection in the context of contemporary and antique old maps shared by Cambridge GIS, and other cultural institutions.</p>
+        <p>Meta Partenheimer is the Digital Projects Archivist for the City of Cambridge Historical Commission (CHC) and Project Manager for the Cambridge Digital Architectural Survey and History (CDASH). Meta has been working in cultural institutions for over a decade and received her MLIS from Simmons College (now University) in 2018. In addition to the CDASH project, Meta participates in all aspects of archival work from donor relations to collections care, digitization, reference and outreach, and management of CHC social media.; Paul Cote has worked on geographical projects around Boston and Cambridge since 1993. He has been an instructor at Harvard Graduate School of Design, Tufts and the Boston Architectural College. Since 2013, Paul has been the principal consultant for pbcGIS.com, working with the GIS departments of Boston and Cambridge on archival systems for preserving and sharing 3D city models. Visit https://pbcGIS.com for more information about Paul and his projects.</p>
+    </div></div>
+</li>
+
+
+---
+<!-- 3E -->
+### Uncovering Linguistic Landscapes: Digital Humanities Perspectives on Language and Historical Texts
+Location: Leventhal Map & Education Center (McKim, Level 1)
+
+<li>
+<a class="modal-link" href="#alicia-tu">Digital Tools for Ancient Language Research</a> &mdash; Alicia Tu (Tufts University)
+
+<div id="alicia-tu" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Digital Tools for Ancient Language Research</h4>
+        <p>Alicia Tu (Tufts University)</p>
+        <p>Ancient language research is much more restricted than modern language research, since there are fewer translators fluent in the ancient languages, and the texts are oftentimes in bad condition. Applying digital tools to ancient language research can help with these problems. With Optical Character Recognition (OCR) tools, texts on fragile copies of books, large monuments, and other materials hard to access and work with can be converted to editable texts in digital forms, making research more convenient while causing less damage to the physical texts when studying them. Large Language Models (LLMs) show high accuracy in translating Classical languages into English, proving useful in providing a basic translation to assist scholars. Finally, digitization and translation should be available online, open for more scholars who do not have direct access to the texts.</p><p>Research done on the Latin and Classical Chinese translations of the Xi’an Stele, accessed from Anthanasius Kircher’s “China Illustrata,” is used as the case study to demonstrate the application of digital tools. Erected in 781 CE, this stele recorded Alopen, the first Assyrian missionary, arriving in China in 635 CE, bringing sacred books and building the first Christian church with other Syriac missionaries with the consent of the Tang dynasty emperor. This research project provides full text online in Latin and Classical Chinese, as well as English translations, compares the accuracy of Kircher’s Latin translations to the original, and spots interesting expressions used when Chinese writers and Western writers adapt to each other’s cultural concepts.</p>
+        <p>Alicia Tu graduated from Brandeis University with a BS in Computer Science, a BA in Classics, and a BA in Linguistics in 2023, and is currently pursuing a MA in Digital Tools for Premodern Studies at Tufts University. Her academic interest lies in studying ancient languages (mainly Ancient Greek, Latin, and Classical Chinese) with digital tools and methods. She also works part-time at Special Collections at Tisch Library as a student assistant, and seeks to incorporate more digital methods onto Special Collection books.</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#buckheit">Tadhg Dall Ó hUiginn: Is é seo mo bhaile (The Ecos of Tadhg Dall Ó hUiginn)- A Decolonial DH Deep Map</a> &mdash; Melissa Buckheit (Boston College)
+
+<div id="buckheit" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Tadhg Dall Ó hUiginn: Is é seo mo bhaile (The Ecos of Tadhg Dall Ó hUiginn)- A Decolonial DH Deep Map</h4>
+        <p>Melissa Buckheit (Boston College)</p>
+        <p>The bardic poet, Tadhg Dall O hUiginn (1550-1591), of Leyney, Mayo, Connaught, was one the most prolific poets of the Gaelic literary tradition in early modern Ireland. Writing in the midst of the Tudor conquest in Ireland–a period of extreme violence, social and cultural alteration, dispossession and linguistic colonization–as the bardic poet for a far–reaching range of Gaelic lords and patrons throughout Ulster and Connaught–from Cú Chonnacht Mág Uidhir to Aodh Mág Uidhir, Brian na Múrtha, Aodh Ó  Domhnail, Uilliam Burc and Cormac Ó Headghra–Ó hUiginn’s poems often transcend bardic convention and their political, cultural or contractual function as praise or court poems to specific Gaelic families or lords. With a range of expression, subject, imagination, political relationship and music unique among most of his contemporaries, many of his poems mark historical moments and feeling in Gaelic court life, as well as the Gaelic campaign and resistance to colonization by means of singular expressions of relationship with the supernatural, the natural, the mythic, the erotic, the violent and the queer/homosocial. The period of Ó hUiginn’s life which constituted a flourishing in the bardic literary tradition–and his poems, geographical range and relationships throughout Northern Connaught and Southwest Ulster—are the subject of this google digital humanities deep map as an experiment in the radically spatiotemporal, the political and the linguistic plurality of place.  As an ecos in flux marked by a sense of chosen relationship or ‘home’ for Ó hUiginn (mo bhaile), this online deep map charts the movement of the poet and his texts in a dynamic rhizome or fractal of early modern Irish land, language, the non-human and inanimate, built and natural environments, history, folklore and toponym—busily functioning despite the upheaval of the Tudor conquest. As such, the mapping project seeks to decolonize early modern Irish spaces and places by freeing an Irish language archive of voices, words and narratives, privileging dynamic Irish relationship with and beyond the human, and demonstrating the power of spatiotemporal unity on the ground in an open digital form. This presentation will offer an introduction to these ideas in English and briefly in Irish with both introductions projected as they exist inside the deep map. Then, we’’ll take a short spatiotemporal journey to early modern Ireland—not as a dead past, but a living, vibrant space—wandering across the island and stopping at different texts as they exist and touch inside the map — birds, their habits and songs, castles and their histories and people,  bardic poems and their patrons and poets, excerpts of folklore and historical story taken from the Irish Folkore Commission (duchas.ie), with accompanying images and the place name or toponymy of named Irish place. Our own ‘wandering’ remaps new spaces in relationship with those already mapped online, offering decolonial perspectives on relationships between land, nature and the human. LINK TO MAP IS BELOW</p><p>https://www.google.com/maps/d/edit?mid=17o_nT1pkdmGu5P2ABUKhtV0TG4Jht3I</p>
+        <p>Melissa Buckheit is a graduate student in Irish Studies and English and a poet, translator and
+dancer/choreographer. Her research interests include early and late modern Ireland, postcolonialism,  bardic poetry, the Irish language, Indigenous studies, Place/Space studies, Environmental Humanities, Queer studies and Phenomenology. She recently presented a paper on colonial metanarratives of loss placed in the Irish landscape for ACIS 2024: Ireland at Risk, at Baruch College. She is the author of Noctilucent, among other books, and she has an M.F.A in Poetry from Naropa University. Find her at melissabuckheit.com</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#a-nur">What’s Harder for a Computer? Analyzing Meaning vs. Authorship in Al-Ghazali’s Corpus</a> &mdash; Ayub Nur (Tufts University)
+
+<div id="a-nur" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>What’s Harder for a Computer? Analyzing Meaning vs. Authorship in Al-Ghazali’s Corpus</h4>
+        <p>Ayub Nur (Tufts University)</p>
+        <p>This talk explores the challenges of applying computational methods to Arabic texts in the digital humanities, using two ongoing projects on Al-Ghazali’s corpus as case studies. The first project examines the term saʿādah (happiness) to determine whether it is used in a technical or generic sense—a seemingly simple question that proves surprisingly difficult to answer computationally due to the small dataset and the term’s contextual nuances. The second project uses stylometric analysis to determine the authorship of disputed texts, a task that is computationally more straightforward because it relies on larger-scale patterns. By comparing these two projects, this talk highlights how the size and nature of the dataset shape what’s computationally feasible, offering insights into the limitations and possibilities of digital humanities research.</p>
+        <p>Ayub Nur is a senior at Tufts University, completing his B.S in Computer Science with a minor in Digital Humanities. Whenever he is not learning a new language or technology, then Ayub can probably be found making a cup of tea and laughing with his friends. Ayub is currently working on two projects: one at Tufts on text mining the corpus of al-Ghazali, and another at the University of Groningen on analyzing the hadith corpus using AI.</p>
+    </div></div>
+</li>
+
+
+---
+## <span style="color:#971b2f;">3:30 - 4:30 PM</span>
+### Posters, Reception, Tours
+Location: Commonwealth Salon (McKim, Level 1)
+
+#### Tours
+Leave from Commonwealth Salon at 3:45pm
+* Internet Archive / BPL Digital Services Imaging Lab
+* Leventhal Map & Education Center exhibition: Terrains of Independence
+---
+
+#### Posters
+Posters and refreshments in the Commonwealth Salon 
+
+<li>
+<a class="modal-link" href="#townsend-howard">Reconstructions in the Digital Age: Seeing the Past through Virtual Reality</a> &mdash; Sean Townsend, Ella Howard (Wentworth Institute of Technology)
+
+<div id="townsend-howard" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Reconstructions in the Digital Age: Seeing the Past through Virtual Reality</h4>
+        <p>Sean Townsend, Ella Howard (Wentworth Institute of Technology)</p>
+        <p>In recent years, the popularity of the Meta Quest system has brought virtual reality into over 20 million homes around the world. This widespread and highly accessible technology creates opportunities for historians to share their knowledge of the past with an interested public.</p><p>This poster showcases the work being done in the Wentworth School of Sciences and Humanities in the class, Computer Science and Society Studio: Historical Recreation in Virtual Reality. It centers on the experience of the Historical Virtual Reality CO-OP.</p><p>In the poster, we detail the class’s effort to recreate the West End neighborhood of Boston in virtual reality, consider the value of effective virtualization of historical data in the modern age, what makes a good reconstruction, and best practice recommendations for both virtualization and virtual reconstruction. Specifically, this poster will detail their work process, the technology used, problems they encountered throughout their development, the sources they used to create the reconstruction, and the effectiveness of their product.
+ 
+The inaugural Historical Virtual Reality CO-OP employee will share the significant accomplishments he has made throughout the CO-OP, including candid discussion of the iterative nature of these tasks. He will present best practice recommendations for virtual historical reconstructions found through research, as well as the benefits of working closely with knowledgeable people in the field of a reconstruction.</p>
+        <p>Sean Townsend is an undergraduate student at Wentworth Institute of Technology majoring in Computer Science and Society. He is interested in pursuing a career in museum technology. This semester he is serving as the Historical Recreation in Virtual Reality Co-Op.</p><p>Ella Howard, Ph.D., is Professor of History at Wentworth Institute of Technology. She teaches Computer Science and Society Studio, GIS, Boston History, and Environmental History and Impact Assessment.</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#li-shaus">Framing Marriage and Fertility in China: A Data Science Analysis of Government Discourse in People’s Daily newspaper</a> &mdash; Dening Li, Arie Shaus (Mount Holyoke College)
+
+<div id="li-shaus" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Framing Marriage and Fertility in China: A Data Science Analysis of Government Discourse in People’s Daily newspaper</h4>
+        <p>Dening Li, Arie Shaus (Mount Holyoke College)</p>
+        <p>This project examines how the Chinese government frames marriage and fertility issues in the public sphere through an analysis of People’s Daily, the official newspaper of the Communist Party of China. While public discourse on fertility policies has been widely studied, the government's strategic communication of these issues remains underexplored. This research addresses this gap by analyzing 18,782 articles (selected using 10 keywords such as “marriage,” “children,” and “family”) from 2013 to 2024—a period marked by major policy shifts from the one-child to two-child and then three-child policies.
+Using computational methods—including TF-IDF for term frequency analysis, LDA for topic modeling, concordance in NLTK for context analysis, and semantic analysis with Spacy—this study identifies key themes and shifts in government discourse. Preliminary findings reveal a strategic narrative that portrays marriage as a stabilizing institution and fertility as essential to national progress while downplaying systemic challenges such as gender inequality and economic barriers.
+By uncovering how the government constructs and communicates these issues, this project contributes to the understanding of the intersection of policy, culture, and public discourse in China’s demographic transition. It also highlights the government’s role in shaping public perceptions and provides a methodological framework for analyzing large-scale textual data in the digital humanities. Additionally, the findings offer insights into the tensions between traditional values and modern demographic trends, particularly regarding women’s autonomy and societal expectations in contemporary China.</p>
+        <p>Dening Li is a Sociology and Data Science student at Mount Holyoke College, specializing in computational text analysis and public sphere research. Her work explores government narratives on fertility in China, gender identity in women’s colleges, and media representations of marginalized groups. She applies NLP techniques such as TF-IDF and topic modeling to analyze large-scale textual data. Beyond research, she has experience as a researcher, teaching assistant, and community dialogue facilitator. Passionate about the intersection of technology and social issues, she seeks to uncover hidden patterns in discourse that shape public perceptions and policy.</p><p>Arie Shaus is a Visiting Assistant Professor in Data Science at Mount Holyoke College and a Research Associate in the Department of Human Evolutionary Biology at Harvard University. His interests include image processing, machine learning, and archaeology.</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#dexter">Heterogeneous stylometric features for premodern languages: a case study in the genres and speaking styles of Latin literature</a> &mdash; Joseph P. Dexter (Northeastern University and University of Macau)
+
+<div id="dexter" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Heterogeneous stylometric features for premodern languages: a case study in the genres and speaking styles of Latin literature</h4>
+        <p>Joseph P. Dexter (Northeastern University and University of Macau)</p>
+        <p>Premodern languages present a particular set of challenges for work in the digital humanities, notably sparsity of data essential to the use of modern NLP (Blasi et al. 2022, Sommerschield et al. 2023). Research often depends on creative combinations of traditional humanistic knowledge with computational methods (Dexter et al. 2017, Kestemont et al. 2022). As a model of how to pursue such research on a premodern literary corpus, this paper presents a quantitative approach to analyzing genre and speech in Latin literature. We build stylometric profiles of the canonical genres of Latin prose and verse based on the frequencies of function words, syntactic features, and other non-lexical markers, and use machine learning to identify the characteristic features of each genre (Chaudhuri et al. 2019). After this initial analysis, we then apply the same feature set and dimensionality reduction techniques to analyze progressively finer distinctions: authors writing within the same genre, differences between subgenres, and finally the styles of speakers in individual works. In particular, we present an extended case study of the differences between mortal and divine speech in classical Latin epic. We identify key stylistic features that distinguish human and divine speech and discuss the literary significance of an outlying character appearing in a prominent position at the end of Vergil’s Aeneid. Such use of stylometry differs from customary applications in the domains of attribution and dating, and provides an example of how computation can leverage elements of traditional philology to contribute to literary criticism of a premodern corpus.</p>
+        <p>Joseph Dexter is a Research Assistant Professor at the Roux Institute of Northeastern University and an Assistant Professor at the University of Macau. He is the co-founder and co-director of the Quantitative Criticism Lab, a cross-institutional digital humanities research group with particular interests in the computational analysis of Greek and Latin literature and in studies of cultural evolution. He received a Ph.D. in Systems Biology from Harvard University and an A.B. in Chemistry from Princeton University.</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#choi-shaus">Enhancing Museum Collection Tagging with Convolutional Neural Networks
+
+</a> &mdash; Eonbi Choi, Arie Shaus (Mount Holyoke College)
+
+<div id="choi-shaus" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Enhancing Museum Collection Tagging with Convolutional Neural Networks
+
+</h4>
+        <p>Eonbi Choi, Arie Shaus (Mount Holyoke College)</p>
+        <p>Museums face challenges in efficiently tagging and categorizing their collections, especially as the demand for online access grows while expert resources remain limited. Tags play a crucial role in organizing artworks based on visual elements, themes, and symbolism, helping users navigate collections without requiring specialized knowledge. This study explores the application of convolutional neural network (CNN) models for classifying art images from the Five Colleges Collections Database, a shared resource encompassing objects from six museums in Western Massachusetts. The project evaluates and compares the performance of two CNN architectures, each designed to enhance the classification process. The promising results demonstrate how tagging efficiency can be improved, expanding user accessibility to online collections.</p>
+        <p>Eonbi Choi is a senior at Mount Holyoke College, majoring in Statistics and minoring in Computer Science. Her interest in computational approaches to art and culture began last year in a Data Capstone class. A visit to the Mount Holyoke Art Museum during the course led her to reflect on how digital tools can increase accessibility and preserve cultural heritage. In addition to her project in digital humanities, she is also passionate about sports analytics.</p><p>Arie Shaus is a Visiting Assistant Professor in Data Science at Mount Holyoke College and a Research Associate in the Department of Human Evolutionary Biology at Harvard University. His interests include image processing, machine learning, and archaeology.</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#sehy">From Dugongs to Quetzals to Sequoias: How Global Mythology Quantitatively Embeds Humanity’s Relationship with Nature
+</a> &mdash; Autumn Sehy (Brandeis University)
+
+<div id="sehy" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>From Dugongs to Quetzals to Sequoias: How Global Mythology Quantitatively Embeds Humanity’s Relationship with Nature
+</h4>
+        <p>Autumn Sehy (Brandeis University)</p>
+        <p>This poster presents a computational analysis of nearly 7,000 myths and 200,000 extracted flora and fauna from 1000 species, revealing the ecological structures embedded in global storytelling. Combining NLP techniques—including sentiment analysis, affordance and biological-based feature engineering, part-of-speech tagging, and LLM classification—with biodiversity metrics, this research uncovers how mythologies encode utilitarian and functional relationships between humans and nature.</p><p>Unlike prior AI-driven folklore studies that focus on structuralist tropes (e.g., the Hero’s Journey) or Eurocentric datasets (e.g., Grimm’s Fairy Tales), this study asks: Which species appear, where, and why? It quantifies biodiversity trends, predator-prey balances, and cultural storytelling constraints across continents, exposing deep-rooted patterns in how humanity encodes nature through myth.</p><p>This research began with an accidental discovery: myths can be classified to cultures of origin with Naïve Bayes, logistic regression, and bag-of-words with 87% accuracy—yet when using only mammal features, accuracy plummets to 18%. What drives this gap? By analyzing flora/fauna as cultural signals, this study uncovers striking trends—such as the overrepresentation of predator-prey dynamics and the universal privileging of species with direct human utility (e.g., livestock, medicinal plants, pest controllers).</p><p>Created by a former Glacier National Park guide turned computational linguist, this project provides new evidence that mythology is not just storytelling—it is an encoded ecological record, preserving knowledge about the environment and humanity’s relationship with it across generations.</p>
+        <p>Autumn Sehy is a computational linguistics MS student and former Glacier National Park guide exploring how AI uncovers hidden patterns in folklore. With a background in machine learning, field ecology, and degrees in English literature and anthropology, she merges NLP with biodiversity metrics to analyze how myths encode humanity’s relationship with nature. Her capstone research spans nearly 7,000 myths and 1,000 species to reveal storytelling’s deep ecological structures. When not obsessing over tree communication, she also investigates rhetoric—collaborating with political scientists to analyze the 118th Congress beyond the left-right spectrum.</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#a-gong">Intertext.AI: An Augmented Close Reading Interface for Classical Latin using AI for Intertextual Exploration</a> &mdash; Ashley Gong (Harvard University)
+
+<div id="a-gong" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Intertext.AI: An Augmented Close Reading Interface for Classical Latin using AI for Intertextual Exploration</h4>
+        <p>Ashley Gong (Harvard University)</p>
+        <p>In the Latin literary tradition, intertextuality—connections between texts that shape meaning and interpretation—is essential for understanding stylistic patterns, thematic nuances, and the relationship between literature, politics, and human culture. However, conducting this advanced humanistic inquiry necessitates specialized knowledge of the Latin canon. To facilitate the development of this domain knowledge for readers, we developed Intertext.AI, a novel digital tool for intertextual analysis that leverages AI to computationally process and search an extensive text dataset. Combining close and distant reading, this system can draw broader literary connections that include voices and texts on the margins of the corpus that receive less attention in existing scholarship, e.g., the comparison of how multiple authors treat women or indigenous populations from antiquity.</p><p>Using vector-based semantic search and interactive text displays, users can query Intertext.AI for contextually similar excerpts across the Latin corpus. A pilot study demonstrated that the interface uncovered textual relationships beyond mere lexical matches by visualizing parallels within their broader context. Further, participants ranging from intermediate to advanced classical Latin backgrounds reported greater confidence and ease of use when using Intertext.AI to find allusions than existing digital tools.</p><p>Intertext.AI enables classicists to explore intertextuality more efficiently and educators to teach students how to engage critically with a network of texts. By approaching literary analysis with human-AI collaboration, this digital platform encourages wider participation in advanced classical studies for online communities of users and enriches close reading with the computational investigation of unexplored and potentially underrepresented textual connections.</p>
+        <p>Ashley Gong is a senior at Harvard University studying Classics and Computer Science. Her research explores the intersection of AI and the humanities, focusing on human-centered NLP applications for Latin philology. For her senior thesis, advised by Elena Glassman and Mark Schiefsky, she developed Intertext.AI, an AI-powered interface for intertextual analysis in Latin literature. She is also a research assistant for digital humanities projects in the Harvard Classics Department and Center for Hellenic Studies. Beyond academia, Ashley has interned as a software engineer at LinkedIn and Deloitte, and she will join Watershed Climate as a software engineer after graduation.</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#zimmer">Activating Digital Archives: Browsing the Bookshops in St. Paul’s Churchyard</a> &mdash; Mary Erica Zimmer, Ian Frankel, Tristan Hoang, Grace Zhang, Bridget Allan (MIT)
+
+<div id="zimmer" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Activating Digital Archives: Browsing the Bookshops in St. Paul’s Churchyard</h4>
+        <p>Mary Erica Zimmer, Ian Frankel, Tristan Hoang, Grace Zhang, Bridget Allan (MIT)</p>
+        <p>In 1990, Peter W. M. Blayney’s groundbreaking The Bookshops of Paul’s Cross Churchyard pioneered the field of “book-trade topography,” visually rendering a vital bookselling district of early modern London by tracing aspects of its mapped footprint, as detailed through intersecting print and manuscript documents. While Blayney’s print-based work revolutionized terms in which research might take place, the affordances of digital media allow us to enrich and deepen the archival interface presented by this complex, layered visualization. By providing access to the document-based foundations of Blayney’s maps, Browsing the Bookshops in St. Paul’s Churchyard excavates and complicates the existing scholarly terrain while developing a dynamic, accessible environment to which further researchers can contribute.</p><p>Since 2024, MIT-based undergraduate research teams (UROPs) have engaged the Bookshops project. The range of their research demonstrates this digital environment’s rich potential. Shared by all teams has been the goal of providing access to key documents in multiple genres; here, our transcription and encoding takes place in dialogue with The Map of Early Modern London (MoEML). From this work emerges an interoperable corpus capable of being leveraged to further ends, including studies of gaming, maps and architecture, and the varied, nuanced careers of early modern English female stationers. Our poster will highlight selected developments in the project’s history while bringing forward possibilities for its future.</p>
+        <p>Ian Frankel is a first-year student within the MIT Concourse Program whose interests include game studies, political science, history, and mechanical engineering. He is in his second semester of work with the Bookshops project and is currently developing an educational board game based on his research.</p><p>Tristan Hoang is a first-year student within the MIT Concourse Program whose interests include architecture, maps and mapping, photography, and history. He is in his first semester of work with the Bookshops project and is currently exploring engravings within the early modern English book trade.</p><p>Grace Zhang is a first-year student within the MIT Concourse Program whose interests include computer science, mathematics, creative writing, and cultural history. She is in her first semester of work with the Bookshops project and is exploring the work of selected early modern English female stationers.</p><p>Mary Erica Zimmer is a Lecturer in Humanities within the MIT Concourse Program. Her work to develop Browsing the Bookshops in St. Paul’s Churchyard has been supported by the National Endowment for the Humanities, MIT History, MIT Literature, the Folger Shakespeare Library, the Bodleian Library, the Digital Humanities Summer Institute, and the School of Advanced Study within the Institute of English Studies at the University of London.</p>
+    </div></div>
+</li>
+
+<li>
+<a class="modal-link" href="#rodrigues-follador">Coding Change: Women and Minorities in Tech</a> &mdash; Silvia Rodrigues Follador (Visiting Scholar at WGS MIT; PhD Candidate at FGV EAESP)
+
+<div id="rodrigues-follador" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h4>Coding Change: Women and Minorities in Tech</h4>
+        <p>Silvia Rodrigues Follador (Visiting Scholar at WGS MIT; PhD Candidate at FGV EAESP)</p>
+        <p>{reprograma}, a feminist NGO, tackles Brazil's stark tech industry disparities by providing free coding bootcamps to women, particularly Black and trans women. It is an example of a market-based solution which seeks to foster social justice, decolonize digital practices, and promote social impact in areas overlooked by conventional public policy and governmental agendas. Despite Brazil's growing ICT sector, where 73,000 jobs were created in 2022 (Brasscom, 2023), women, representing 51% of the population, hold only 39% of these roles. Black women comprise a mere 13% of the IT market (Brasscom, 2022), and trans individuals face extreme marginalization, with only 0.02% reaching college (Benevides, 2022). {reprograma} has successfully graduated 1,622 women since 2016, with an 81.1% completion rate and a 63% employment rate within six months. This research investigates how an intersectional approach influences the capacity building of {reprograma}’s participants and in what way(s) does its collective nature affect the participants’ experience. By analyzing this digital education initiative, this research aims to provide insights into how an intersectional framework can foster inclusive and equitable tech environments and how these success stories can be shared with a wider audience.</p>
+        <p>Currently a Visiting Scholar at the Women's and Gender Studies Program at MIT and a PhD Candidate in Public Administration and Government from FGV EAESP. She holds a Master's Degree from SciencesPo Paris in International Affairs and a double B.A. degree from Pontifícia Universidade Católica de São Paulo and SciencesPo Paris in International Affairs.</p>
+    </div></div>
+</li>
+
+<!-- SCRIPT -->
 
 <script>
 var links = document.querySelectorAll("a.modal-link");
@@ -719,4 +798,6 @@ li {
 }
 
 </style>
+
+
 

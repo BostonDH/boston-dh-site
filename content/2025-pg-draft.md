@@ -20,12 +20,13 @@ Friday, April 11, 2025
 9:00am - 4:30pm  
 Select sessions hybrid   
 
+<a href="https://www.bpl.org/wp-content/uploads/sites/30/2023/04/01b_DirectoryMap_WebVersion_vJuly-2022_01.pdf" target=_blank>Map of the BPL [pdf]</a>
+
 ---
 
 ## <span style="color:#971b2f;">9:00 - 9:30 AM</span>
 ### Registration
-Location: Commonwealth Salon (Level 1)
-
+Location: Commonwealth Salon (McKim, Level 1) - use the Boylston St. entrance
 
 Coffee and light breakfast
 
@@ -33,14 +34,14 @@ Coffee and light breakfast
 
 ## <span style="color:#971b2f;">9:30 - 10:30 AM</span>
 ### Welcome & Keynote: Roopika Risam
-Location: Rabb Hall  
+Location: Rabb Hall (Boylston, Lower Level)  
 
 <div class="row" style="display: flex;">
 	<div class="column" style="margin-right: 1rem;">
 		<img src="https://faculty-directory.dartmouth.edu/sites/faculty_directory.prod/files/styles/profile_portrait/public/faculty_directory/images/risam-new-headshot.jpg" width="200"/>
 	</div>
 	<div class="column">
-	Roopika Risam is Associate Professor of Digital Humanities and Social Engagement at Dartmouth. Her research focuses on data histories, ethics, and practices at intersections of postcolonial and African diaspora studies, digital humanities, and critical university studies. Risam is the author of New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy, and co-editor of multiple volumes, most recently Anti-Racist Community Engagement (2023) and The Digital Black Atlantic (2021). She is the director of the Digital Ethnic Futures Consortium, founding co-editor of Reviews in Digital Humanities, co-PI of Landback Universities, and co-president of the Association for Computers and the Humanities. Risam is finishing her second book, Insurgent Academics: A Radical Account of Public Humanities (Johns Hopkins University Press), and she is working on a trade book on data and empire. She recently received the 2023 Diversity, Equity, and Inclusion Award from the International Association for Research in Service Learning and Community Engagement. To learn more, please visit http://roopikarisam.com
+	Roopika Risam is Associate Professor of Digital Humanities and Social Engagement at Dartmouth. Her research focuses on data histories, ethics, and practices at intersections of postcolonial and African diaspora studies, digital humanities, and critical university studies. Risam is the author of New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy, and co-editor of multiple volumes, most recently Anti-Racist Community Engagement (2023) and The Digital Black Atlantic (2021). She is the director of the Digital Ethnic Futures Consortium, founding co-editor of Reviews in Digital Humanities, co-PI of Landback Universities, and co-president of the Association for Computers and the Humanities. Risam is finishing her second book, Insurgent Academics: A Radical Account of Public Humanities (Johns Hopkins University Press), and she is working on a trade book on data and empire. She recently received the 2023 Diversity, Equity, and Inclusion Award from the International Association for Research in Service Learning and Community Engagement. To learn more, please visit <a href="http://roopikarisam.com">http://roopikarisam.com</a>
 	</div>
 </div>
 
@@ -53,7 +54,7 @@ Location: Rabb Hall
 
 <!-- Session 1A -->
 ### AI, Open Scholarship and Access to the Human Record
-Location: Commonwealth Salon & Zoom
+Location: Zoom & Commonwealth Salon (McKim, Level 1)
 
 
 <a class="modal-link" href="#crane-abowitz">AI, Open Scholarship and Access to the Human Record</a> &mdash; Gregory Crane, Sarah Abowitz, Alison Babeu, Peter Nadel, Charles Pletcher (Tufts University);
@@ -76,7 +77,7 @@ James Tauber (Signum University); Clifford Wulfman (Princeton University Library
 ---
 <!-- Session 1B -->
 ### Perspectives on Curricula Design for Digital Humanities Programs
-Location: KBLIC Exchange & Zoom
+Location: Zoom & Kirstein Business Library & Innovation Center: The Exchange (Boylston, Lower Level)  
 
 <a class="modal-link" href="#connell-flanders">Perspectives on Curricula Design for Digital Humanities Programs</a> &mdash; Sarah Connell, Julia Flanders (Northeastern University); Melanie Hubbard, Antonio LoPiano (Boston College);  Mark Szarko, Ece Turnator (MIT)
 
@@ -93,7 +94,7 @@ Location: KBLIC Exchange & Zoom
 ---
 <!-- Session 1C -->
 ### Boston Black Women Lead: A Case Study of Community-Driven Local History Projects Utilizing Wikipedia toward Knowledge, Access, and Discovery
-Location: Orientation Room
+Location: Orientation Room (McKim, Level 1)
 
 <a class="modal-link" href="#graphenreed-haruna">Boston Black Women Lead: A Case Study of Community-Driven Local History Projects Utilizing Wikipedia toward Knowledge, Access, and Discovery
 
@@ -116,7 +117,7 @@ Tieanna Graphenreed will share the BosBWL project's aims and goals, including st
 
 <!-- 1D --> 
 ### ARK persistent identifiers: Affordable long-term citation and access to digital humanities scholarship
-Location: Mezzanine Conference Room 2 & Zoom
+Location: Zoom & Conference Room 2 (Boylston, Level M)
 
 <a class="modal-link" href="#kunze">Workshop: ARK persistent identifiers: affordable long-term citation and access to digital humanities scholarship</a> &mdash; John Kunze (Drexel University Metadata Research Center) 
 
@@ -133,7 +134,7 @@ Location: Mezzanine Conference Room 2 & Zoom
 ---
 <!-- 1E -->
 ### Mapping in the Digital Humanities Roundtable: Open, Collaborative and Decolonizing Approaches
-Location: Leventhal Map & Education Center Classroom
+Location: Leventhal Map & Education Center (McKim, Level 1)
 
 <a class="modal-link" href="#sankar-vo">Mapping in the Digital Humanities Roundtable: Open, Collaborative and Decolonizing Approaches</a> &mdash; Tarika Sankar, Khanh Vo, Elizabeth Yalkut (Brown University Library Center for Digital Scholarship)
 
@@ -150,7 +151,7 @@ Location: Leventhal Map & Education Center Classroom
 
 ## <span style="color:#971b2f;">12:15 - 1:00 PM</span>
 ### Lunch
-Location: Commonwealth Salon
+Location: Commonwealth Salon (McKim, Level 1)
 
 ---
 ## <span style="color:#971b2f;">1:00 - 2:15 PM</span>
@@ -158,7 +159,7 @@ Location: Commonwealth Salon
 <!-- 2A -->
 
 ### The Endings Project: Principles and Recommendations Concerning Digital Longevity
-Location: Commonwealth Salon & Zoom
+Location: Zoom & Commonwealth Salon (McKim, Level 1)
 
 <a class="modal-link" href="#clark-connell">The Endings Project: Principles and Recommendations Concerning Digital Longevity</a> &mdash; Ash Clark, Sarah Connell, Julia Flanders (Northeastern University)
 
@@ -182,7 +183,7 @@ The third presentation, by Julia Flanders, will discuss how these issues play ou
 
 <!-- 2B --> 
 ### How to Build a Framework for Digital Ethnic Courses with Limited Funding
-Location: KBLIC Exchange & Zoom
+Location: Zoom & Kirstein Business Library & Innovation Center: The Exchange (Boylston, Lower Level)
 
 <a class="modal-link" href="#doyen-rod">Workshop: How to Build a Framework for Digital Ethnic Courses with Limited Funding</a> &mdash; Alicia Doyen-Rodríguez (University of Massachusetts Boston), Tarika Sankar (Brown University)
 
@@ -206,7 +207,7 @@ By the end of the workshop, participants will:
 <!-- 2C -->
 
 ### AI Tools and Strategies for Interdisciplinary Collaboration, Legal Access, and News Analysis  
-Location: Orientation Room
+Location: Orientation Room (McKim, Level 1)
 
 <li>
 <a class="modal-link" href="#nadel-weinberg">AI for Accessible Justice: An Affordable and Transparent Legal Solution</a> &mdash; Peter Nadel, Jill Weinberg (Tufts University)
@@ -251,7 +252,7 @@ Location: Orientation Room
 ---
 <!-- 2D -->
 ### Data-Driven Approaches to Historical Collections  
-Location: Mezzanine Conference Room 2
+Location: Conference Room 2 (Boylston, Level M)
 
 <li>
 <a class="modal-link" href="#botticelli-hole">Digital Engagement with Art Collections</a> &mdash; Peter Botticelli, Heather Hole (Simmons University School of Library and Information Science)
@@ -297,7 +298,7 @@ Location: Mezzanine Conference Room 2
 
 <!-- 2E -->
 ### How to Make a Map Mosaic
-Location: Leventhal Map & Education Center Classroom
+Location: Leventhal Map & Education Center (McKim, Level 1)
 
 <a class="modal-link" href="#spangler">Workshop: How to Make a Map Mosaic</a> &mdash; Ian Spangler (Leventhal Map & Education Center, Boston Public Library)
 
@@ -319,7 +320,7 @@ Location: Leventhal Map & Education Center Classroom
 
 <!-- 3A -->
 ### Digital Humanities in the Classroom: Pedagogy and Praxis for Student Engagement
-Location: Commonwealth Salon & Zoom
+Location: Zoom & Commonwealth Salon (McKim, Level 1)
 
 <li>
 <a class="modal-link" href="#kreitz-basu-folsom">The Ground Beneath Our Feet: Critical Mapping in the Classroom</a> &mdash; Kelley Kreitz (Pace University); Anindita Basu Sempere, Jamie Folsom (Performant Software)
@@ -365,7 +366,7 @@ some way.</p>
 ---
 <!-- 3B -->
 ### Social Justice, Public Health, and Digital Archives
-Location: KBLIC Exchange & Zoom
+Location: Kirstein Business Library & Innovation Center: The Exchange (Boylston, Lower Level)
 
 <li>
 <a class="modal-link" href="#aviram">Public knowledge in crisis: Mining Wikipedia's digital history of the opioid epidemic</a> &mdash; Rona Aviram (Weizmann Institute of Science, Israel; Learning Planet Institute, Université Paris Cité, France)
@@ -415,7 +416,7 @@ Our findings highlight gaps in Wikipedia’s coverage of the opioid crisis that 
 <!-- 3C -->
 
 ### Innovation in Memory: Preserving and Exploring Art, Science, and Activism 
-Location: Orientation Room
+Location: Orientation Room (McKim, Level 1)
 
 <li>
 <a class="modal-link" href="#champagne-vo">Gone in an Adobe Flash: Five new frameworks to preserve born-computational literary art for the future </a> &mdash; Ashley Champagne, Khanh Vo (Brown University Library)
@@ -462,7 +463,7 @@ Location: Orientation Room
 <!-- 3D -->
 
 ### Beyond Text: Architecture, GIS, Video, and 3D Models
-Location: Mezzanine Conference Room 2
+Location: Conference Room 2 (Boylston, Level M)
 
 <li>
 <a class="modal-link" href="#king-verhagen">Computer Vision for Distant Viewing of Video Materials</a> &mdash; Owen C. King (GBH Archives); Kyeongmin Rim, Marc Verhagen (Brandeis University)
@@ -510,7 +511,7 @@ In this presentation, our developer will demonstrate the platform, explain its f
 ---
 <!-- 3E -->
 ### Uncovering Linguistic Landscapes: Digital Humanities Perspectives on Language and Historical Texts
-Location: Leventhal Map & Education Center Classroom
+Location: Leventhal Map & Education Center (McKim, Level 1)
 
 <li>
 <a class="modal-link" href="#alicia-tu">Digital Tools for Ancient Language Research</a> &mdash; Alicia Tu (Tufts University)
@@ -556,17 +557,16 @@ dancer/choreographer. Her research interests include early and late modern Irela
 ---
 ## <span style="color:#971b2f;">3:30 - 4:30 PM</span>
 ### Posters, Reception, Tours
+Location: Commonwealth Salon (McKim, Level 1)
 
 #### Tours
-Location: Meet ____
-* Internet Archive / Digital Lab
-* Leventhal Map & Education Center
+Leave from Commonwealth Salon at 3:45pm
+* Internet Archive / BPL Digital Services Imaging Lab
+* Leventhal Map & Education Center exhibition: Terrains of Independence
 ---
 
 #### Posters
-Location: Commonwealth Salon
-
-Posters and refreshments in the Commonwealth Salon. 
+Posters and refreshments in the Commonwealth Salon 
 
 <li>
 <a class="modal-link" href="#townsend-howard">Reconstructions in the Digital Age: Seeing the Past through Virtual Reality</a> &mdash; Sean Townsend, Ella Howard (Wentworth Institute of Technology)
