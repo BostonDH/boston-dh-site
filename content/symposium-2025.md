@@ -8,6 +8,8 @@ The 2025 symposium will be held on Friday, April 11 at the Central Library of th
 
 This meeting will cover a wide variety of topics related to the application of technology, computation, machine learning, and artificial intelligence to humanities research, pedagogy, and professional practice. This year's program will highlight digital humanities scholarship and projects that intend to reach or engage with a public audience, and the opportunities and challenges associated with developing a public-focused and community-engaged practice.
 
+If you have any questions, please reach out to Eben English (eenglish@bpl.org).
+
 <p class="text-center">
  <a href="https://www.eventbrite.com/e/greater-boston-digital-research-and-pedagogy-2025-symposium-tickets-1271184851109" class="btn btn-template-main btn-lg" style="margin: 1rem;">
  Register</a>
@@ -34,7 +36,7 @@ Coffee and light breakfast
 
 ## <span style="color:#971b2f;">9:30 - 10:30 AM</span>
 ### Welcome & Keynote: Roopika Risam
-Location: Rabb Hall (Boylston, Lower Level)  
+Location: Zoom & Rabb Hall (Boylston, Lower Level)  
 
 <div class="row" style="display: flex;">
 	<div class="column" style="margin-right: 1rem;">
