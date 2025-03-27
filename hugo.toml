@@ -33,12 +33,24 @@ unsafe = true
     url        = "/"
     weight     = 1
 
+# Boston DH menu
+
+[[menu.main]]
+    name       = "About"
+    identifier = "menu.bostondh"
+    url        = "/about"
+    weight     = 2
+
+
+# Events Menu
 
 [[menu.main]]
     name       = "Events"
     identifier = "menu.events"
     url        = ""
     weight     = 2
+
+## Past Events
 
 [[menu.main]]
     name       = "Past Events"
@@ -68,7 +80,7 @@ unsafe = true
 
 
 
-# Current Events
+## Current Events
 
 [[menu.main]]
     name       = "2025 Symposium"
