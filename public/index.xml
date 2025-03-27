@@ -63,6 +63,15 @@ This meeting will cover a wide variety of topics related to the application of t
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in elit eget augue consectetur scelerisque. Duis lacus nulla, maximus pellentesque leo at, convallis ultrices nisi. Donec tristique ligula mauris, et egestas leo dapibus eu. Vivamus quis posuere felis. Nulla tempor sollicitudin leo. Maecenas id lacinia purus, eget laoreet tortor. Aliquam velit lectus, facilisis efficitur molestie vel, vestibulum non mauris. Duis sagittis laoreet sagittis. Aliquam pulvinar semper risus quis sodales. Nullam nec massa est.</description>
     </item>
     <item>
+      <title>About the 2025 Symposium</title>
+      <link>http://localhost:1313/symposium-2025-about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/symposium-2025-about/</guid>
+      <description>The 2025 symposium will be held on Friday, April 11 at the Central Library of the Boston Public Library, with select sessions streamed online. Admission is free and open to all. See the full program or register to attend virtually or in person. If you have any questions, please reach out bpldigital@bpl.org.
+We want to thank the organizers and sponsors for making the 2025 symposium possible.
+Program Committee Tim Bigelow (Internet Archive)</description>
+    </item>
+    <item>
       <title>Contact</title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

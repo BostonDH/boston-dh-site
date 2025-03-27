@@ -80,22 +80,29 @@ unsafe = true
 
 
 [[menu.main]]
-    name       = "2025 Symposium"
+    name       = "Program"
     url        = "/symposium-2025"
+    weight     = 2
+    parent     = "section.current-events"
+
+[[menu.main]]
+    name       = "About"
+    url        = "/symposium-2025-about"
     weight     = 1
     parent     = "section.current-events"
+
 
 [[menu.main]]
     name       = "Call for Proposals"
     url        = "/symposium-2025-cfp"
-    weight     = 2
+    weight     = 3
     parent     = "section.current-events"
 
 
 [[menu.main]]
     name       = "Register"
     url        = "https://www.eventbrite.com/e/greater-boston-digital-research-and-pedagogy-2025-symposium-tickets-1271184851109"
-    weight     = 3
+    weight     = 4
     parent     = "section.current-events"
 
 
