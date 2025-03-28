@@ -6,9 +6,9 @@ The Greater Boston Digital Research and Pedagogy Symposium is a regional, one-da
 
 The 2025 symposium will be held on Friday, April 11 at the Central Library of the Boston Public Library, with select sessions streamed online. Admission is free and open to all.
 
-This meeting will cover a wide variety of topics related to the application of technology, computation, machine learning, and artificial intelligence to humanities research, pedagogy, and professional practice. This year's program will highlight digital humanities scholarship and projects that intend to reach or engage with a public audience, and the opportunities and challenges associated with developing a public-focused and community-engaged practice.
+This meeting will cover a wide variety of topics related to the application of technology, computation, machine learning, and artificial intelligence to humanities research, pedagogy, and professional practice. This year's program will highlight digital humanities scholarship and projects that intend to reach or engage with a public audience, and the opportunities and challenges associated with developing a public-focused and community-engaged practice. If you have any questions, please reach out bpldigital@bpl.org.  
 
-If you have any questions, please reach out bpldigital@bpl.org.
+The registration deadline to attend in person will be **April 2nd**. Registration for virtual attendance will remain open.
 
 <p class="text-center">
  <a href="https://www.eventbrite.com/e/greater-boston-digital-research-and-pedagogy-2025-symposium-tickets-1271184851109" class="btn btn-template-main btn-lg" style="margin: 1rem;">
