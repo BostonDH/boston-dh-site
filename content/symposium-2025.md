@@ -35,7 +35,7 @@ Coffee and light breakfast
 ---
 
 ## <span style="color:#971b2f;">9:30 - 10:30 AM</span>
-### Welcome & Keynote: Roopika Risam
+### Welcome & Keynote: Roopika Risam (Hybrid Session)
 Location: Zoom & Rabb Hall (Boylston, Lower Level)  
 
 <div class="row" style="display: flex;">
@@ -58,7 +58,7 @@ Location: Zoom & Rabb Hall (Boylston, Lower Level)
 ## <span style="color:#971b2f;">10:45 - 12:15 PM</span>
 
 <!-- Session 1A -->
-### AI, Open Scholarship and Access to the Human Record
+### AI, Open Scholarship and Access to the Human Record (Hybrid Session)
 Location: Zoom & Commonwealth Salon (McKim, Level 1)
 
 
@@ -81,7 +81,7 @@ James Tauber (Signum University); Clifford Wulfman (Princeton University Library
 
 ---
 <!-- Session 1B -->
-### Perspectives on Curricula Design for Digital Humanities Programs
+### Perspectives on Curricula Design for Digital Humanities Programs (Hybrid Session)
 Location: Zoom & Kirstein Business Library & Innovation Center: The Exchange (Boylston, Lower Level)  
 
 <a class="modal-link" href="#connell-flanders">Perspectives on Curricula Design for Digital Humanities Programs</a> &mdash; Sarah Connell, Julia Flanders (Northeastern University); Melanie Hubbard, Antonio LoPiano (Boston College);  Mark Szarko, Ece Turnator (MIT)
@@ -121,7 +121,7 @@ Tieanna Graphenreed will share the BosBWL project's aims and goals, including st
 ---
 
 <!-- 1D --> 
-### ARK persistent identifiers: Affordable long-term citation and access to digital humanities scholarship
+### ARK persistent identifiers: Affordable long-term citation and access to digital humanities scholarship (Hybrid Session)
 Location: Zoom & Conference Room 3 (Boylston, Level M)
 
 <a class="modal-link" href="#kunze">Workshop: ARK persistent identifiers: affordable long-term citation and access to digital humanities scholarship</a> &mdash; John Kunze (Drexel University Metadata Research Center) 
@@ -163,7 +163,7 @@ Location: Orientation Room (McKim, Level 1)
 
 <!-- 2A -->
 
-### The Endings Project: Principles and Recommendations Concerning Digital Longevity
+### The Endings Project: Principles and Recommendations Concerning Digital Longevity (Hybrid Session)
 Location: Zoom & Commonwealth Salon (McKim, Level 1)
 
 <a class="modal-link" href="#clark-connell">The Endings Project: Principles and Recommendations Concerning Digital Longevity</a> &mdash; Ash Clark, Sarah Connell, Julia Flanders (Northeastern University)
@@ -187,7 +187,7 @@ The third presentation, by Julia Flanders, will discuss how these issues play ou
 ---
 
 <!-- 2B --> 
-### How to Build a Framework for Digital Ethnic Courses with Limited Funding
+### How to Build a Framework for Digital Ethnic Courses with Limited Funding (Hybrid Session)
 Location: Zoom & Kirstein Business Library & Innovation Center: The Exchange (Boylston, Lower Level)
 
 <a class="modal-link" href="#doyen-rod">Workshop: How to Build a Framework for Digital Ethnic Courses with Limited Funding</a> &mdash; Alicia Doyen-Rodríguez (University of Massachusetts Boston), Tarika Sankar (Brown University)
@@ -324,7 +324,7 @@ Location: Leventhal Map & Education Center (McKim, Level 1)
 ## <span style="color:#971b2f;">2:30 - 3:30 PM</span>
 
 <!-- 3A -->
-### Digital Humanities in the Classroom: Pedagogy and Praxis for Student Engagement
+### Digital Humanities in the Classroom: Pedagogy and Praxis for Student Engagement (Hybrid Session)
 Location: Zoom & Commonwealth Salon (McKim, Level 1)
 
 <li>
@@ -370,8 +370,8 @@ some way.</p>
 
 ---
 <!-- 3B -->
-### Social Justice, Public Health, and Digital Archives
-Location: Kirstein Business Library & Innovation Center: The Exchange (Boylston, Lower Level)
+### Social Justice, Public Health, and Digital Archives (Hybrid Session)
+Location: Zoom & Kirstein Business Library & Innovation Center: The Exchange (Boylston, Lower Level)
 
 <li>
 <a class="modal-link" href="#aviram">Public knowledge in crisis: Mining Wikipedia's digital history of the opioid epidemic</a> &mdash; Rona Aviram (Weizmann Institute of Science, Israel; Learning Planet Institute, Université Paris Cité, France)
