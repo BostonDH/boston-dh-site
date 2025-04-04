@@ -122,7 +122,7 @@ Tieanna Graphenreed will share the BosBWL project's aims and goals, including st
 
 <!-- 1D --> 
 ### ARK persistent identifiers: Affordable long-term citation and access to digital humanities scholarship
-Location: Zoom & Conference Room 2 (Boylston, Level M)
+Location: Zoom & Conference Room 3 (Boylston, Level M)
 
 <a class="modal-link" href="#kunze">Workshop: ARK persistent identifiers: affordable long-term citation and access to digital humanities scholarship</a> &mdash; John Kunze (Drexel University Metadata Research Center) 
 
@@ -156,7 +156,7 @@ Location: Leventhal Map & Education Center (McKim, Level 1)
 
 ## <span style="color:#971b2f;">12:15 - 1:00 PM</span>
 ### Lunch
-Location: Commonwealth Salon (McKim, Level 1)
+Location: Orientation Room (McKim, Level 1)
 
 ---
 ## <span style="color:#971b2f;">1:00 - 2:15 PM</span>
@@ -257,7 +257,7 @@ Location: Orientation Room (McKim, Level 1)
 ---
 <!-- 2D -->
 ### Data-Driven Approaches to Historical Collections  
-Location: Conference Room 2 (Boylston, Level M)
+Location: Conference Room 3 (Boylston, Level M)
 
 <li>
 <a class="modal-link" href="#botticelli-hole">Digital Engagement with Art Collections</a> &mdash; Peter Botticelli, Heather Hole (Simmons University School of Library and Information Science)
@@ -468,7 +468,7 @@ Location: Orientation Room (McKim, Level 1)
 <!-- 3D -->
 
 ### Beyond Text: Architecture, GIS, Video, and 3D Models
-Location: Conference Room 2 (Boylston, Level M)
+Location: Conference Room 3 (Boylston, Level M)
 
 <li>
 <a class="modal-link" href="#king-verhagen">Computer Vision for Distant Viewing of Video Materials</a> &mdash; Owen C. King (GBH Archives); Kyeongmin Rim, Marc Verhagen (Brandeis University)
