@@ -437,7 +437,7 @@ Location: Orientation Room (McKim, Level 1)
 </li>
 
 <li>
-<a class="modal-link" href="#m-williams">“A Scientific Association”: New Digital Methods for Understanding the Impacts of Early Women Writers on the Development of Science and Philosophy</a> &mdash; Melissa Williams (Northeastern University)
+<a class="modal-link" href="#m-williams">“A Scientific Association”: New Digital Methods for Understanding the Impacts of Early Women Writers on the Development of Science and Philosophy</a> &mdash; Melissa Williams, Colleen Nugent-McLean (Northeastern University)
 
 <div id="m-williams" class="modal">
     <div class="modal-content">
