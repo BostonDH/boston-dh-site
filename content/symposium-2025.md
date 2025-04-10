@@ -156,7 +156,7 @@ Location: Leventhal Map & Education Center (McKim, Level 1)
 
 ## <span style="color:#971b2f;">12:15 - 1:00 PM</span>
 ### Lunch
-Location: Orientation Room (McKim, Level 1)
+Locations: Orientation Room (McKim, Level 1) and Kirstein Business Library & Innovation Center: The Exchange (Boylston, Lower Level)
 
 ---
 ## <span style="color:#971b2f;">1:00 - 2:15 PM</span>
