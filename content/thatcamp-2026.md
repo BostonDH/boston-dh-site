@@ -3,7 +3,7 @@ title = "2026 THATCamp"
 +++
 
 
-Join Boston DH for a THATCamp on Friday, March 13th at Tufts University in the [Tisch Library](https://tischlibrary.tufts.edu/).
+Join the [Boston Digital Humanities Consortium](https://bostondh.org/) for a THATCamp on Friday, March 13th at Tufts University in the [Tisch Library](https://tischlibrary.tufts.edu/).
 
 The Technology and the Humanities Camp (THATCamp) is an “un-conference,” a gathering where humanists and technologists of all skill levels develop sessions that are proposed, led, and voted on by the community. The event is a low-stakes way to connect with the community and engage with new and emerging ideas in the digital humanities, workshops for specific tools, or digital humanities pedagogy.
 
@@ -19,7 +19,7 @@ There will not be a call for proposals, but you may want to begin thinking about
 
 9:30 - 10:00  Intro, welcome, and brainstorming  
 
-10:00 - 10:10 Voting  
+10:00 - 10:10 Voting (content for sessions 1 - 3)    
 
 10:10 - 10:20 Break  
 
