@@ -72,10 +72,17 @@ unsafe = true
     weight     = 2
     parent     = "section.past-events"
 
-    [[menu.main]]
+  [[menu.main]]
     name       = "2024 Symposium"
     url        = "/symposium-2024"
     weight     = 3
+    parent     = "section.past-events"
+
+
+  [[menu.main]]
+    name       = "2025 Symposium"
+    url        = "/symposium-2025"
+    weight     = 4
     parent     = "section.past-events"
 
 
@@ -83,7 +90,7 @@ unsafe = true
 ## Current Events
 
 [[menu.main]]
-    name       = "2025 Symposium"
+    name       = "2026 THATCamp"
     identifier = "section.current-events"
     url        = ""
     weight     = 2
@@ -92,30 +99,17 @@ unsafe = true
 
 
 [[menu.main]]
-    name       = "Program"
-    url        = "/symposium-2025"
-    weight     = 2
-    parent     = "section.current-events"
-
-[[menu.main]]
-    name       = "About"
-    url        = "/symposium-2025-about"
+    name       = "Schedule"
+    url        = "/thatcamp-2026"
     weight     = 1
     parent     = "section.current-events"
 
-
-[[menu.main]]
-    name       = "Call for Proposals"
-    url        = "/symposium-2025-cfp"
-    weight     = 3
-    parent     = "section.current-events"
-
-
 [[menu.main]]
     name       = "Register"
-    url        = "https://www.eventbrite.com/e/greater-boston-digital-research-and-pedagogy-2025-symposium-tickets-1271184851109"
-    weight     = 4
+    url        = "https://forms.gle/SQkgym4kretzPbMU7"
+    weight     = 2
     parent     = "section.current-events"
+
 
 
 

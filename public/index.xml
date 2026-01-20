@@ -49,7 +49,9 @@ The Tufts University Libraries are excited to host the third Greater Boston Digi
       <link>http://localhost:1313/symposium-2025-cfp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/symposium-2025-cfp/</guid>
-      <description>Submission deadline: Monday, February 3, 2025
+      <description>2025 Program
+2025 About
+Submission deadline: Monday, February 3, 2025
 Deadline extended: Monday, February 10, 2025 Submissions closed Symposium: Friday, April 11, 2025; Central Library of the Boston Public Library, Boston, MA
 About The Greater Boston Digital Research and Pedagogy Symposium is a regional, one-day gathering of students, scholars, librarians, and other practitioners from the New England area working at the intersection of technology and the humanities. Hosted at a different institution each year, the Symposium provides an opportunity for promoting cross-institutional collaboration and showcases the diverse perspectives of our field.</description>
     </item>
@@ -58,9 +60,19 @@ About The Greater Boston Digital Research and Pedagogy Symposium is a regional, 
       <link>http://localhost:1313/symposium-2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/symposium-2025/</guid>
-      <description>The Greater Boston Digital Research and Pedagogy Symposium is a regional, one-day gathering of students, scholars, librarians, and other practitioners from the New England area working at the intersection of technology and the humanities.
+      <description>2025 CFP
+2025 About
+The Greater Boston Digital Research and Pedagogy Symposium is a regional, one-day gathering of students, scholars, librarians, and other practitioners from the New England area working at the intersection of technology and the humanities.
 The 2025 symposium will be held on Friday, April 11 at the Central Library of the Boston Public Library, with select sessions streamed online. Admission is free and open to all.
 This meeting will cover a wide variety of topics related to the application of technology, computation, machine learning, and artificial intelligence to humanities research, pedagogy, and professional practice.</description>
+    </item>
+    <item>
+      <title>2026 THATCamp</title>
+      <link>http://localhost:1313/thatcamp-2026/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thatcamp-2026/</guid>
+      <description>Join Boston DH for a THATCamp on Friday, March 13th at Tufts University in the Tisch Library.
+The Technology and the Humanities Camp (THATCamp) is an “un-conference,” a gathering where humanists and technologists of all skill levels develop sessions that are proposed, led, and voted on by the community. The event is a low-stakes way to connect with the community and engage with new and emerging ideas in the digital humanities, workshops for specific tools, or digital humanities pedagogy.</description>
     </item>
     <item>
       <title>About Boston DH</title>
@@ -75,9 +87,10 @@ The Boston DH Steering Group is a collective of digital humanities practitioners
       <link>http://localhost:1313/symposium-2025-about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/symposium-2025-about/</guid>
-      <description>The 2025 symposium will be held on Friday, April 11 at the Central Library of the Boston Public Library, with select sessions streamed online. Admission is free and open to all. See the full program or register to attend virtually or in person. If you have any questions, please reach out bpldigital@bpl.org.
-We want to thank the organizers and sponsors for making the 2025 symposium possible.
-Program Committee Tim Bigelow (Internet Archive)</description>
+      <description>2025 Program
+2025 CFP
+The 2025 symposium will be held on Friday, April 11 at the Central Library of the Boston Public Library, with select sessions streamed online. Admission is free and open to all. See the full program or register to attend virtually or in person. If you have any questions, please reach out bpldigital@bpl.org.
+We want to thank the organizers and sponsors for making the 2025 symposium possible.</description>
     </item>
     <item>
       <title>Contact</title>

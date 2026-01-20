@@ -2,6 +2,9 @@
 title = "2025 Symposium"
 +++
 
+[2025 CFP](/symposium-2025-cfp)  
+[2025 About](/symposium-2025-about)
+
 The Greater Boston Digital Research and Pedagogy Symposium is a regional, one-day gathering of students, scholars, librarians, and other practitioners from the New England area working at the intersection of technology and the humanities.
 
 The 2025 symposium will be held on Friday, April 11 at the Central Library of the Boston Public Library, with select sessions streamed online. Admission is free and open to all.
@@ -10,10 +13,6 @@ This meeting will cover a wide variety of topics related to the application of t
 
 This event has passed. [Select recordings and slides](https://works.hcommons.org/collections/boston-digital-research-pedagogy-symposium) are available on Knowledge Commons.
 
-<p class="text-center">
- <a href="https://www.eventbrite.com/e/greater-boston-digital-research-and-pedagogy-2025-symposium-tickets-1271184851109" class="btn btn-template-main btn-lg" style="margin: 1rem;">
- Register</a>
-</p>
 
 ## <span style="color:#971b2f;">Location</span>
 

@@ -39,7 +39,7 @@ Carolyn Talmadge (Tufts University)
 <img src="../img/Tufts-Libraries-Horiz-color.png" class="img-fluid" style="max-height:75px; padding: 1rem; margin-bottom: 1rem;" alt="Tufts University Liraries"/>
 <img src="../img/blc-logo-color.png" class="img-fluid" style="max-height:75px; padding: 1rem; margin-bottom: 1rem;" alt="Boston Library Consortium"/>
 <img src="../img/logo-digital-commonwealth.png" class="img-fluid" style="max-height:75px; padding: 1rem; margin-bottom: 1rem;" alt="Digital Commonwealth"/>
-<img src="../img/MapCenter-small.png" class="img-fluid" style="max-height:75px; padding: 1rem; margin-bottom: 1rem;" alt="Boston Library Consortium"/>
+<img src="../img/MapCenter-small.png" class="img-fluid" style="max-height:75px; padding: 1rem; margin-bottom: 1rem;" alt="Norman Leventhal Map Center"/>
 
 
 * [Center for Enhancement of Learning and Teaching](https://provost.tufts.edu/celt/)

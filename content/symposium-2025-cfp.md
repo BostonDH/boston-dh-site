@@ -2,6 +2,10 @@
 title = "2025 Call for Proposals"
 +++
 
+[2025 Program](/symposium-2025)  
+[2025 About](/symposium-2025-about)
+
+
 **Submission deadline:** ~~Monday, February 3, 2025~~  
 **Deadline extended:** ~~Monday, February 10, 2025~~ Submissions closed    
 **Symposium:** Friday, April 11, 2025; Central Library of the Boston Public Library, Boston, MA

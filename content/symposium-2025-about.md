@@ -2,6 +2,9 @@
 title = "About the 2025 Symposium"
 +++
 
+[2025 Program](/symposium-2025)  
+[2025 CFP](/symposium-2025-cfp)
+
 The 2025 symposium will be held on Friday, April 11 at the Central Library of the Boston Public Library, with select sessions streamed online. Admission is free and open to all. See the [full program](/symposium-2025) or [register](https://www.eventbrite.com/e/greater-boston-digital-research-and-pedagogy-2025-symposium-tickets-1271184851109) to attend virtually or in person. If you have any questions, please reach out bpldigital@bpl.org.
 
 We want to thank the organizers and sponsors for making the 2025 symposium possible. 
