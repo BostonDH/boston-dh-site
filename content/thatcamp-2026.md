@@ -13,6 +13,8 @@ There will not be a call for proposals, but you may want to begin thinking about
 
 [Please register by March 3rd to attend.](https://forms.gle/QQVMyCvjXFPC4vFj8) Registration is free, but required due to limited space. 
 
+Email Kaylen Dwyer (kaylen.dwyer@tufts.edu) with any questions.
+
 ## Schedule
 
 9:00 AM Check-in & coffee  
