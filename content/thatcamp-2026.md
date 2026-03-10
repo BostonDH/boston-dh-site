@@ -11,9 +11,10 @@ Unlike other conferences, the schedule is created the morning of the event by vo
 
 There will not be a call for proposals, but you may want to begin thinking about what sessions, workshops, or panels you would like to see. 
 
-[Please register by March 9th to attend.](https://forms.gle/QQVMyCvjXFPC4vFj8) Registration is free, but required due to limited space. 
+~~Please register by March 9th to attend.~~ Registration has closed.
 
-Email Kaylen Dwyer (kaylen.dwyer@tufts.edu) with any questions.
+
+Email Kaylen Dwyer (kaylen.dwyer@tufts.edu) or Anna Kijas (anna.kijas@tufts.edu) with any questions.
 
 ## Schedule
 
@@ -35,4 +36,4 @@ Email Kaylen Dwyer (kaylen.dwyer@tufts.edu) with any questions.
 
 3:30 - 4:00 Share out, closing, next steps  
 
-4:00 Social Hour! Location TBD  
+4:00 Social Hour at [the Burren](http://www.burren.com/) 

@@ -105,8 +105,8 @@ unsafe = true
     parent     = "section.current-events"
 
 [[menu.main]]
-    name       = "Register"
-    url        = "https://forms.gle/SQkgym4kretzPbMU7"
+    name       = "Code of Conduct"
+    url        = "/thatcamp-coc"
     weight     = 2
     parent     = "section.current-events"
 
